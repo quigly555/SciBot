@@ -1,0 +1,37 @@
+# Genetic Diversity of Scedosporium apiospermum and Its Putative Host of Quiesterans
+Quaglee Dragontacos
+
+
+## Abstract
+Microorganisms involved in the feeding process of Fusarium fujikuroi have recently been described, but the key question is: what are the host-pathogen interactions conducive to the establishment of this yeast? The interaction of F. fujikuroi with the host is a strictly parabiotic interaction with its host. The different host strains interact in different ways, but the major metabolic pathway of this yeast is through a lipid modification pathway that involves the addition of a lipid to the end product cycle. This review will focus on the host-microbe interactions during the fermentation of F. fujikuroi and its interaction with the host. The impact of the host on F. fujikuroi physiology will also be discussed and discussed in relation to the different host-pathogen interactions.
+
+
+## Introduction
+Hepatic inflammation is a hallmark of acute myeloid leukemia (AML) and is a major cause of death among infants and young children (Diaz et al., 2009; Haas et al., 2009; Zemelnik et al., 2013). In adults, acute lymphoblastic leukemia (ALL) is the most aggressive form of myeloid leukemia (ALL) (Zemelnik et al., 2015). In children, it can also occur in children and adults with different symptoms: fever, chills, muscle aches, muscle aches, lymphadenopathy, and lymphadenopathy (Zemelnik et al., 2015).
+
+Symptoms can include fever, chills, muscle aches, lymphadenopathy, and lymph node enlargement. In children, acute lymphoblastic leukemia can be caused by several pathogenic organisms including bacteria, viruses, fungi, parasites, and parasites of unknown origin. However, we are aware of one case of acute lymphoblastic leukemia occurring in a patient from Iran, who developed acute lymphoblastic leukemia after treatment with corticosteroids and hydroxyurea (Zemelnik et al., 2015).
+
+The patients were all diagnosed with acute lymphoblastic leukemia. However, no definitive diagnosis was established until blood- and tissue-reactive markers were collected from these patients. We report this case to add to the existing literature.
+
+
+## Methods
+. DNA Extraction
+Genomic DNA was extracted from the fresh conidia of S. sclerotiorum. The mycelia were harvested from the mycelia and immediately frozen in liquid nitrogen. The DNA extraction was performed according to the method of Yang and Yang, with the exception of the direct DNA extraction, which was performed with the method of Dyer and Wong, with slight modifications. The DNA extraction was performed with the chloroform/isoamyl alcohol (25:24:1) method. The DNA extract was diluted with sterile distilled water and the product was then incubated at 30°C for 18 h under continuous light. The DNA product was purified by a Ni-NTA column (GE Healthcare, Little Chalfont, UK) according to the manufacturer’s instructions. The DNA was eluted with 0.1% formic acid in 10 mM Tris-Cl pH 8. The DNA concentration was determined by spectrophotometric measurements at 560 nm.
+
+2.2. DNA Sequencing
+The genomic DNA was sequenced by means of the Illumina GAII platform. The sequences of the selected sequences were assembled by the software package Nucleotide Alignment version 1.5.1 (NCBI, USA). The assembly files were deposited in NCBI Sequence Read Archive (SRA) database. All data were deposited in the Sequence Read Archive (SRA).
+
+2.3. In Silico Identification of the Genes
+The gene sequences were obtained using the BLASTn algorithm with the best hit from the BLAST analysis. The sequence similarity was checked by using the BLAST+ search in NCBI. The sequence homology was determined using the BLAST+ alignment tool in the UniProt database.
+
+
+## Results
+The ITS region indicated that the putative host of the genus Quiesterans was named . quiesterans. This species was found in the southern hemisphere, and its location is unknown.
+
+Scedosporium quiesterans is distributed worldwide worldwide (Fig 1), and it is the most common species in the genus. The most common species in the genus is S. apiospermum, and it is distributed in the temperate regions. The most common species in the genus is S. terricola, which is distributed in the tropical, subtropical and subtropical climates. The most common species in the genus is S. natalensis, which is distributed in the tropical and subtropical regions. The most common species in the genus is S. semitectum, which is distributed in the tropical regions. The most common species in the genus is S. paradoxus, which is distributed in the temperate regions. The most common species in the genus is S. ramosum, which is distributed in the temperate regions. The most common species in the genus is S. schleiferi, which is distributed in the temperate regions. The most common species in the genus is S. trinidiorum, which is distributed in the temperate regions.
+
+The ITS region was used to determine the phylogenetic relationships of S. apiospermum, S. quiesterans, S. natalensis, S. semitectum, S. schleiferi, S. verruculosa, S. verruculosa and S. trinidiorum. The most likely phylogenetic tree was determined by three independent tests using the combined sequences of the three loci. The topology of the tree was supported by bootstrap values of 100% and 95% and the topology of the Bayesian posterior probabilities of 0.95 and 0.98, respectively. The tree showed that the three loci clustered into a well-supported monophyletic clade (BS = 99.1, PP = 0.98) and the BS values were higher than the Bayesian probability values (BS = 100%, PP = 0.
+
+
+## Discussion
+apiospermum from the dried basidiomycete Agaricus bisporu. The new species is characterized by a poorly resolved basidiomycete-specific ITS1 region with high tibial recombination rates. In contrast, other species of Scedosporium have been reported to contain a single telomere-reticulate repeat [17], [18], [19]. We therefore have chosen to use the ITS1 region of S. apiospermum as the barcode for the species of Scedosporium. Based on its morphology, this species has been well-characterized in the literature [17], [18], [19]. However, we also observed the presence of a few cryptic species in the species complex. We do not know whether the isolated species is a member of the Teichosporium clade or not, as it is known that the species is quite rare in Antarctica. Therefore, we have re-purposed the LSU-based ITS1 region of S. apiospermum and re-evaluated the species distribution. The ITS1 region of S. apiospermum is distinguished by a relatively long tibial repeat with three non-canonical introns. In addition, it has several introns that are short and non-canonical. The ITS1 region of S. apiospermum shows a relatively low tibial recombination rate, and the ITS1 region shows the typical morphology of Scedosporium apiospermum. The ITS1 region of S. apiospermum has one additional intron in the exon-intron structure. The ITS1 region of S. apiospermum has two introns in the first intron, one in the telomere and one in the telomeric tail, which are present in S. apiospermum. We have identified this introns in all of the tested isolates. In our opinion, these introns are not associated with any species of Scedosporium and they are unique in the fungal kingdom. The ITS1 region of S. apiospermum is a relatively large gene. It has been shown that the ITS1 gene of S. apiospermum is not only highly expressed during vegetative growth, but also during in vivo development [17].
