@@ -1,0 +1,37 @@
+# Fungal virulence genes: can we be certain?
+Quaglee Dragontacos
+
+
+## Abstract
+The opportunistic fungal pathogen Candida glabrata has emerged as a major public health threat since it readily acquires resistance to multiple drugs and, thus, mandates aggressive therapy. This adaptation, termed resistance, is a mechanism whereby cells acquire resistance to disease-causing molecules that may have broader spectrum of activity. The C. glabrata genome encodes a set of 14 cytokines which are known to be involved in many cell processes. In this work, we report that, within the C. glabrata genome, resistance to multiple antifungal drugs is also being defined.
+
+Our data, obtained using a comparative genomic approach, identifies two cytokines, CGF-ß1 and CGF-ß2, encoded by the large subunit of the Cry1 gene, and also in other related fungi, in C. glabrata. CGF-ß1 and CGF-ß2 were expressed in Saccharomyces cerevisiae and were found to be expressed differently in the two fungal lineages. The C. glabrata genome was not altered in response to the antifungal drugs used in this study. However, the gene content, expression levels, and activity were different between the two lineages. The C. glabrata genome contained genes associated with resistance to multiple antifungal drugs.
+
+
+## Introduction
+ 2006; Tudzynski and Lyon, 2011. The innate immune system plays a critical role in fungal pathogenicity, as evidenced by the capability to produce and release antimicrobials (Gomley, 2007). The fungal cell wall is an important structure for maintaining this commensal life form. The cell wall has two distinct phases, called ascus or apical or apical cell, and a network of interconnected structures termed conidiophores (finger-shaped) (Matsumoto and Bonfante, 2011). The apical cell structure consists of several cell-wall-associated structures (basal structures, or chlamydospores) that form at least three main layers: the chlamydospores, which are produced from the external environment and form chains on the cell wall, and the phialides that can be produced from the internal environment (Brizendine et al., 2012). However, the role of phialides in the infection process remains unclear. Phialides are not exclusively responsible for fungal infections (Siebert et al., 2010; Davies et al., 2011). In addition, many fungal pathogens exhibit phialides as surface or extracellular structures, as shown in Candida albicans (Siebert et al., 2010).
+
+The life cycle of C. albicans is a complex, multi-layered network of interconnected interconnected cells that are mainly comprised of asexual and sexual stages. The sexual phase is characterized by filamentous growth of the yeast cells and the formation of biofilms that establish a protective barrier against antifungal drugs (Ratledge, 2013). Under conditions of stress such as drug exposure, stress-induced gene expression, and drug toxicity, the sexual cycle can undergo many different transitions, resulting in different resistance phenotypes (Ratledge, 2013). The transition from yeast to filamentous growth is believed to be a critical factor for the virulence of C. albicans. Although the presence of the yeast-to-filamentous transition is not always a feature, the importance of the yeast-to-filamentous transition in the virulence of C. albicans is clear (Ratledge, 2013).
+
+
+## Methods
+In this way, we searched for the most virulent species in the study using the criterion of the following criteria: virulence was predicted using the criteria of the previous section: P = .5 × 10^-10^-3, M = 100, we included a second category for M = 100. The study was carried out in a minimum-logarithmic growth rate of 1.0 × 10^-5, we assumed that species will grow in the absence of additional organisms. The number of organisms used was 5.0 × 10^-5, we analyzed the number of species for each species (Table 1).
+
+C. glabrata can be divided into three levels. First, it is classified as a microorganism, where it is composed of 1 × 10^8 CFU/mL, which is equivalent to 1 × 10^8 CFU/mL. Second, C. glabrata can be classified as a fungus, where it is composed of 1 × 10^7 CFU/mL, which is equivalent to 1 × 10^7 CFU/mL. Third, C. glabrata can be classified as a symbiotic fungus, where it is composed of 1 × 10^6 CFU/mL, which is equivalent to 1 × 10^6 CFU/mL. Fourth, C. glabrata can be categorized as a high virulence organism, where it is composed of 1 × 10^5 CFU/mL, which is equivalent to 1 × 10^5 CFU/mL. Lastly, C. glabrata can be classified as a low virulence organism, where it is composed of 1 × 10^4 CFU/mL, which is equivalent to 1 × 10^4 CFU/mL. The P value for the category is 0.05.
+
+Isolation and molecular analysis of C. glabrata from the cells
+The cells were isolated from blood and sputum of healthy subjects. After the addition of 1 mL of sterile, sterile water, the cells were immediately placed in a 96-well plate. The cells were suspended in 1 mL of PBS, and 1 mL of the suspension was then added into 96-well plates. The concentrations of C. glabrata were adjusted to 1 × 10^6 CFU/mL.
+
+
+## Results
+glabrata, including their expression levels, and to determine their expression levels during fungal infectio. The majority of the putative virulence factors, which were identified by other methods, were not confirmed by quantitative PCR or in silico analyses. We also failed to identify any virulence factors in all the genes tested.
+
+We next conducted RNA-Seq analysis to examine the expression levels of the putative virulence factors. We used the qRT-PCR library [9] to compare the expression levels of the genes with the qPCR data obtained from the qPCR data of the reference strain and the growth conditions (Table 2).
+
+
+## Discussion
+., Cryptococcus neoformans) is much larger than that of C. gattii, and that C. gattii is closely related to C. neoformans. This is also reflected in the ability of C. gattii to infect humans, although in C. neoformans, C. gattii has a genome size comparable to that of C. neoformans. This is similar to the results for Cryptococcus neoformans in which C. gattii isolates were found to have a large genome (18). The ability of C. gattii to infect humans and C. neoformans is also similar to C. albicans and C. neoformans, but C. gattii has a smaller genome than C. albicans and C. neoformans (17). This difference is in line with the observed differences in the genetic structure of C. gattii and C. neoformans (18), in that C. gattii has a larger genome than C. albicans and C. neoformans, and therefore has a larger capacity to infect humans.
+
+While the mechanisms by which C. gattii infects humans remain unknown, C. gattii has been shown to cause diseases in humans in both laboratory and clinical settings (30, 31). This is supported by our results, in which C. gattii isolates were found to be more susceptible to fluconazole than C. albicans isolates. This is similar to C. albicans, in which the ability of C. albicans to cause disease in humans is limited to C. albicans and C. neoformans (17).
+
+The resistance to fluconazole is most evident in C. gattii, with the highest resistance rate observed in C. neoformans (C. gattii = 2.3% of isolates). This is comparable to C. gattii in which the highest resistance rate was observed in C. neoformans (2.1%) (32). Interestingly, C. gattii isolates were found to be more resistant to fluconazole than C. albicans isolates (C. albicans = 0.8%, C. neoformans = 1.0%, C. gattii = 0.3%, C.
