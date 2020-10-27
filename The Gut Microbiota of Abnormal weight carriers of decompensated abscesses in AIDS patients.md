@@ -1,0 +1,39 @@
+# The Gut Microbiota of Abnormal weight carriers of decompensated abscesses in AIDS patients
+Quaglee Dragontacos
+
+
+## Abstract
+In this study, the genus Trichoderma (Agaricomycotina) was revised and the species section redone to include species previously recorded in Europe and America. New references and illustrations were provided, as well as the genus descriptions removed from books and illustrated and re-colored descriptions. Four new species, T. harzianum, T.lamaeonaeonii, T.minorum and T.saginamica, were added to the genus list. The new species T.balamumba was introduced to accommodate this genus, and the two species T.cricotiorum and T.kaurensii were also introduced to accommodate Trichoderma gen. nov., which bears a well-known species in Europe and America. In addition, several species in Trichoderma that have not been previously recorded were included in the new taxa, as well as numerous other species from Europe and America. This study validates the Trichoderma genus as an important group of fungi and reexamines the species in this taxon, which were previously regarded as rare or even excluded from it. The Trichoderma species are a group of fungi that have been increasingly recognized as being associated with a wide range of host- and ecological - host-pathogen interactions and the new genus T.babecomycs was established to accommodate these findings.
+
+
+## Introduction
+Pathogenic fungal infections are a significant cause of morbidity and mortality worldwide and can be caused by a wide range of species of Candida, Cryptococcus, Aspergillus, and others. Inhalation of aerosols by humans, particularly birds, animals, birds’ and bats, and bird droppings may cause pathogenic yeast (erythematous) infections. These infections usually develop in immunocompromised hosts, and can affect the respiratory, urinary, skin, and central nervous system (CNS). The yeast-like fungi can survive and proliferate within the respiratory and/or urinary systems for long periods, even in healthy hosts. However, the mucous membrane of the upper respiratory tract is home to a large number of microbial species, including Candida albicans, Candida tropicalis, Candida glabrata, Candida krusei, Candida parapsilosis, Candida parapsilosis, Candida krusei, and Candida parapsilosis [1].
+
+
+## Methods
+The control group consisted of controls (non-infected human feces) and the abcesses (internalized abscesses. All the patients were healthy. All the animals were from the Faculty of Medicine, Sichuan University.
+
+After discharge from the hospital, abdominal ultrasound (AUS) was performed on each of the abcesses, the internalized abscesses, and the abcesses surrounding the colon. After the AUS, the bacterial culture was performed on each abcess using the standard diagnostic methods [36, 37]. The results of the AUS were recorded and the results of the standard diagnostic methods were subsequently compared.
+
+Evaluation of the antimicrobial effect of the abcesses
+The antimicrobial effect of the abcesses was assessed on the bacterial culture obtained from each abcess using the standard diagnostic methods [38]. The results of the antimicrobial effect of the abcesses were recorded and the antimicrobial effect of the standard diagnostic methods were compared.
+
+Evaluation of the antimicrobial effect of the abcesses
+To determine the antimicrobial effect of the abcesses, the presence of a contaminating microorganism in the abcesses was evaluated using the standard diagnostic methods [39]. The results of the antimicrobial effect of the abcesses were recorded and the antimicrobial effect of the standard diagnostic methods were compared.
+
+Evaluation of the antimicrobial effect of the abcesses
+To determine the antimicrobial effect of the abcesses, the presence of a contaminating microorganism in the abcesses was evaluated using the standard diagnostic methods [40]. The results of the antimicrobial effect of the abcesses were recorded and the antimicrobial effect of the standard diagnostic methods were compared.
+
+Evaluation of the antimicrobial effect of the abcesses
+To determine the antimicrobial effect of the abcesses, the presence of a contaminating microorganism in the abcesses was evaluated using the standard diagnostic methods [41, 42]. The results of the antimicrobial effect of the abcesses were recorded and the antimicrobial effect of the standard diagnostic methods were compared.
+
+
+## Results
+Phylogenetic analysis
+To identify fungal and bacterial species that were likely present in all four foodborne insects, the ITS and LSU datasets of the concatenated sequences of the closely related species, B. aphidis, B. repens, and B. repens was used for maximum likelihood analyses of the concatenated data. The resulting trees were used to determine the phylogenetic relationships among the four isolates of B. aphidis, B. repens, and B. repens. The tree topologies of the concatenated sequences were similar to those of the combined dataset (Figure 1). The LSU dataset of B. aphidis was closest to the topology of the single-locus phylogeny (Figure 1). The Bayesian phylogenetic tree obtained from the concatenated data was similar to the Bayesian tree of the single-locus phylogeny (Figure 2). The final combined phylogenetic tree, which included seven isolates of B. repens and three of B. repens, had similar topology to that of the single-locus phylogeny (Figure 1). The concatenated ITS and LSU datasets were placed in the same branch with the B. aphidis and B. repens sequences. The single-locus phylogeny of B. repens grouped closely with the B. aphidis single-locus phylogeny, with the LSU sequences of B. aphidis and B. repens placed in the same branch with the B.
+
+
+## Discussion
+The human microbiota is found to be highly diverse and often contains diverse members of the Firmicutes, Proteobacteria, and Eukaryotes [26,27. The common Firmicutes, Firmicutes and Eukaryotes are the major classes of phylum, which comprise over 70% of the total microbial community, which is the second largest phyla after the other phyla. The Proteobacteria are the dominant class of phylum. Many phyla belonging to Proteobacteria are involved in the treatment of various diseases. This results in the classification of the human microbiota into Firmicutes, Proteobacteria, and Eukaryotes [28,29]. The Firmicutes are classified into four phyla, the phyla Proteobacteria is the predominant phyla and Eukaryotes are the dominant class of phyla. In the study, the microbial communities of Abnormal weight carriers of decompensated abscesses were found to be comprised of Proteobacteria, Firmicutes, and Eukaryotes. This results in the classification of the human microbiota into Firmicutes, Proteobacteria, and Eukaryotes.
+
+In addition to the human microbiota, the microorganisms identified in the decompensated abscesses of Abnormal weight carriers of decompensated abscesses were various genera and genera of the Chloroflexiaceae, Rhizoctylum, Stigmastrum, Pseudomonas, and Flavobacterium. Rhizoctylum is a typical genus associated with decomposition of organic matter. This is because of the presence of decomposing bacteria in the same state of decomposition. The genus Rhizoctylum has been found in the Brazilian Abnormal weight carriers of decompensated abscesses [30]. Pseudomonas is a typical genus associated with degradation of organic matter in the environment, especially in the tropics. This genus is known for its ability to decompose organic matter and the release of alkaloids from decaying wood [31]. The genus Stigmastrum has been found in the Abnormal weight carriers of decompensated abscesses in the USA [32]. Stigmastrum is a genus related to the decomposition of organic matter in the environment, including in the tropics, in the tropics and the temperate zones [33]. It is present in all the Brazilian Abnormal weight carriers of decompensated abscesses.
