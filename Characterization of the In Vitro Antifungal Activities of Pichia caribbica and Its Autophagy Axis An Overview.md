@@ -1,0 +1,47 @@
+# Characterization of the In Vitro Antifungal Activities of Pichia caribbica and Its Autophagy Axis: An Overview
+Quaglee Dragontacos
+
+
+## Abstract
+The use of antifungals in the therapy of visceral leishmaniasis (VL), leishmaniasis/ebola, cytomegalovirus (LHV) and bartonellosis is limited by the high toxicity and high drug reaction of antifungals. The use of alternative antifungals for the treatment of leishmaniasis, LHV and cytomegalovirus are under consideration. A2C has been shown to exhibit in vitro and in vivo antifungal activity against the common opportunistic Candida species. This study aims to synthesize antifungal activity of natural a2c and the natural a2b of LHV and evaluate the Performance of the Synthetic Enzyme Avastin (CAA) towards Candida species.
+
+The production of antifungal metabolites was performed by the microdilution of ethyl acetate, nystatin, and dichloromethane, respectively. The evaluation of the antifungal activity of the synthetic enzyme avastin against Candida species was performed by the microdilution of ethyl acetate, nystatin, and dichloromethane, respectively. The response time of the synthetic enzyme avastin towards Candida species was evaluated by the checkerboard method. The response time of the natural a2c was evaluated by the checkerboard method. The evaluation of the antifungal activity of the synthetic enzyme avastin towards Candida species was performed by the checkerboard method. The response time of the synthetic enzyme avastin towards LHV was evaluated by the checkerboard method. The comparison of the reaction time of the checkerboard and the microdilution methods was as follows: checkerboard method with 20 µM of synthetic enzyme avastin and 15 µM of LHV and LHV and 15 µM of CAA, respectively. The results were compared regarding the affinity of the synthetic enzyme avastin towards Candida species.
+
+The results showed that the synthetic enzyme avastin exhibited an activity against Candida species with an affinity of 134.85%. The reaction time of the checkerboard method was 2.
+
+
+## Introduction
+The necrotrophic fungal pathogen Cryptococcus neoformans causes fatal meningoencephalitis in immunocompromised individuals, mainly those with HIV/AIDS, cancer and transplant patients. The most common sites of infection are the central nervous system, the lungs, skin, and the central nervous system as well as the central nervous system of the central nervous system, the brain [1]. Cryptococcosis is an opportunistic fungal pathogen that can cause disease in both immunocompromised and apparently healthy hosts. In the immunocompromised, the most common sites of infection are the lungs and skin, although, occasionally, the path can also be transmitted to the central nervous system [2]. In the apparently healthy, the infection is usually contained in the brain or in the blood or in the serum or cerebrospinal fluid (CSF), but in the apparently immunocompromised, it can cause meningoencephalitis [2]. The pathogen can survive and proliferate within host cells, although such cells often exhibit apoptotic or necrotrophic characteristics [3]. Cryptococcus neoformans typically grows in the yeast form, but can also cause disease in immunocompromised hosts, particularly patients with HIV/AIDS.
+
+The main opportunistic fungal pathogen in humans is Cryptococcus neoformans. This yeast-to-hypha-that consists of two distinct cell types: yeast and mycelium, and has a worldwide distribution and is capable of infecting more than 200 different countries [4,5]. Most cases of cryptococcosis are caused by C. neoformans var. grubii (serotype A), with a few exceptions, such as C. neoformans var. neoformans (serotype D), with both serotype A and D isolates, as well as a few cases of serotype D infection [4,6]. Within the C. neoformans var. grubii population, infection is most commonly seen in patients with an intact immune system.
+
+Cryptococcal meningitis is the most common clinical presentation, and most cases are caused by C. neoformans var. grubii, which has a worldwide distribution [7,8].
+
+
+## Methods
+caribbica) was isolated from Pichia sp. (Thiabunensis) and from several other species (Thiabunensis, Tomastatus, Heraclitus, Pichia herba, Thymus sp., Ustilago maydis, and Leptosphaeria nodorum). The isolated species Pichia terebinthiana (P. terebinthiana), was used as the model for the evaluation of in vitro antifungal activities in P. terebinthiana. The yeast extract and peptone dextrose (YPD) agar medium was prepared from Pichia. The agar medium contained 2% yeast extract, 1% peptone, 1% dextrose, and 0.5% yeast nitrogen base. The density of yeast extract and peptone dextrose was adjusted to 2.5 × 10^8 colony-forming units (CFU)/mL. The plates were incubated at 35 °C for 18-24 h. The best inhibitory concentration (IC_50) was calculated according to the following equation:
+
+2.2. In Vitro Antifungal Activity of P. terebinthiana
+To assess the antibacterial activity of P. terebinthiana against P. konzii and its autophagy axis, a previously described method was used, in which yeast cells were obtained by a single centrifugation (10,000 rpm, 5 min, 4 °C) and washed twice with cold water. The yeast cells were suspended in 500 µL of RPMI 1640 medium (Sigma) and adjusted to 5 × 10^7 cells/mL. To perform the in vitro antifungal activity, the yeast cells were washed twice with cold water and then resuspended in PBS. The PBS was replaced with fresh RPMI medium to obtain RPMI-1640 medium without P. konzii (P. konzii) and with P. caribbica (P. caribbica). The suspension was incubated at 35 °C for 24 h. The cell suspensions were used for the experiments. The antifungal activity of P. terebinthiana was tested against the yeast cells using the method described above.
+
+2.3. In Vitro Antifungal Activity of P.
+
+
+## Results
+caribbica
+In order to evaluate the in vitro antifungal activities of . caribbica and its autophagy axis, P. caribbica was grown in minimal medium (MM) at 4°C, 28°C, and 37°C and the cell viability was measured by the Candida albicans and H. watticus assay (Figure 2A). The results indicated that the autophagy axis has a potent effect on the in vitro antifungal activity of P. caribbica, which showed a significant increase in the cell viability over the control of the growth condition (Figure 2A). The in vitro antifungal activity of P. caribbica was evaluated using an in vitro antifungal drug concentration assay with the concentration of the drug concentration in the presence of the P. caribbica MIC (MIC_50) at 28°C, 37°C, and 28°C. The results indicated that the MIC_50 was sufficient to cause a statistically significant decrease in the antifungal activity of P. caribbica (Figure 2B).
+
+Effect of Fungicidal Activity of P. caribbica on the Microbiota of S. cerevisiae
+The effect of P. caribbica on the microbial populations of S. cerevisiae was further evaluated. S. cerevisiae cells were grown in liquid MM for 3 h, and the number of viable cells was determined by an in vitro assay (Figure 2C). The results showed that the CFU of S. cerevisiae was significantly decreased when P. caribbica was used to inhibit the growth of S. cerevisiae (Figure 2C). The in vitro activity of P. caribbica against the S. cerevisiae was also evaluated using an in vitro antifungal drug concentration assay with the concentration of the drug concentration in the presence of the P. caribbica MIC (MIC_50) at 28°C, 37°C, and 28°C. The results showed that the MIC_50 of P. caribbica was sufficient to cause a statistically significant decrease in the in vitro antifungal activity of P. caribbica (Figure 2C).
+
+Effect of Fungicidal Activity of P. caribbica on the Microbiota of S.
+
+
+## Discussion
+albicans, . tropicalis, C. dubliniensis and C. parapsilosis. Antifungal activity of Pichia caribbica against Candida albicans was determined and the results are summarized in Fig 7. The data showed that antifungal activity of Pichia caribbica was significantly higher than that of other species in comparison to C. albicans and C. dubliniensis. Pichia caribbica has the ability to secrete a wide variety of prodrugs with antitumor, antipyretic, and antipytotic activity. These molecules have been demonstrated to inhibit the growth of C. albicans and C. dubliniensis, respectively [21, 22]. The antibacterial activity of Pichia caribbica against C. albicans and C. dubliniensis was determined and the results are summarized in Fig 8. The data showed that antifungal activity of Pichia caribbica against C. albicans and C. dubliniensis was significantly higher than that of C. albicans.
+
+It has been reported that Pichia caribbica exhibits a wide variety of secondary metabolites and biological activities [23]. In this work, the antifungal activity of Pichia caribbica against C. albicans was determined and the results are summarized in Fig 9. The data showed that antifungal activity of Pichia caribbica was significantly higher than that of other species in comparison to C. albicans.
+
+It has been reported that the antifungal activity of Pichia caribbica against C. albicans was determined and the results are summarized in Fig 10. The data showed that antifungal activity of Pichia caribbica against C. albicans was significantly higher than that of other species in comparison to C. albicans.
+
+It has been reported that the antifungal activity of Pichia caribbica against C. dubliniensis was determined and the results are summarized in Fig 11. The data showed that antifungal activity of Pichia caribbica against C.
