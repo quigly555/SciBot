@@ -1,0 +1,32 @@
+# Ecological Modelling and Virtual Screening Using Microbial Diversity
+Quaglee Dragontacos
+
+
+## Abstract
+Cryptococcus gattii is a fungal pathogen that is responsible for ~ 180,000 cases of meningitis each year in human. As a human pathogen, C. gattii can cause severe disease in immunocompetent hosts, it is very important to study its epidemiology and control strategies. The recent publication of two genomes of C. gattii associated with C.
+
+
+## Introduction
+Invasive fungal infections (IFIs) are a major cause of morbidity and mortality in patients with impaired immunity. Of the fungal diseases, IFIs are life-threatening due to the potential pathogen dissemination in a healthy host. The ability of these fungi to evade host defenses and to invade immune cells is critical for successful infection [1].
+
+The ability of Cryptococcus to evade host defenses and to cause infection has been well characterized, and C. neoformans and C.
+
+
+## Methods
+The experiment was conducted in a pilot study with the airway stimulan. For this, the airway stimulant was dispensed in a volume of 250 µL, with the total volume kept constant at 1.0 L. The airways were opened and a volume of 0.5 mL of saline solution was added. The samples were vortexed vigorously for 15 min, then the vortex was allowed to dry completely. Subsequently, the saline solution was removed from the vortex and mixed with 500 µL of distilled water, and the mixture was vigorously vortexed again. The mixture was then placed in a warm water bath, and then the speed of a blender was increased to 3.0 rpm, and then the mixture was vortexed vigorously for 10 min. Finally, the mixture was thoroughly mixed with a plastic pick and vortexed. The samples were then placed in a desiccator for 48 h at 25 °C. To control for potential contamination, the airways were rinsed twice with sterile deionized water and then airways were air-dried for 48 h. Then, the samples were stored in a temperature-controlled chamber for future observation.
+
+2.3. Fungal Diversity in the Airways of the 37% and 20% of the Population
+A total of 11,478 samples were included in the study, of which 1,394 samples were from the airways, of which 12,583 were from the bronchial space (BSA).
+
+
+## Results
+These were used to predict the soil microbial community based on the 16S rRNA gen. The total number of housekeeping genes was 0.861 (95%CI, 0.904-1.098), corresponding to 1.16% of the total number of housekeeping genes. The average number of housekeeping genes for the soil microbial community was 0.931 (95%CI, 0.924-1.142), corresponding to 0.79% of the total number of housekeeping genes. The average number of housekeeping genes for the soil microbial community was 0.88 (95%CI, 0.847-0.983) for every 1001 total housekeeping genes. The average number of housekeeping genes for the soil microbial community was 0.94 (95%CI, 0.86-0.963). The average number of housekeeping genes for the soil microbial community was 0.99 (95%CI, 0.89-0.982) for every 1001 total housekeeping genes. The average number of housekeeping genes for the soil microbial community was 0.95 (95%CI, 0.86-0.983) for every 1001 total housekeeping genes. The average number of total housekeeping genes for the soil microbial community was 1.09 (95%CI, 0.96-1.106) for every 1001 total housekeeping genes.
+
+To determine the number of microbial genera in the soil microbial community, we also compared the number of genera observed in the soil microbial community by the neighbor-joining method (NJ). NJ was used to predict the number of genera present in the soil microbial community and the NJ method was used to identify the top 10 genera in the soil microbial community (Fig 3A). The NJ method was used to predict the number of genera in the soil microbial community based on the 16S rRNA gene. The NJ method was used to predict the number of genera in the soil microbial community based on the 16S rRNA gene. The NJ method was used to predict the number of genera in the soil microbial community based on the 16S rRNA gene. The NJ method was used to predict the number of genera in the soil microbial community based on the 16S rRNA gene.
+
+
+## Discussion
+To assess the applicability of this approach in the field, we compared the results obtained using the metagenomic and environmental isolation method. In general, the results obtained by the metagenomic approach showed a significant positive correlation between the number of detected bacterial and fungal phylotypes and the number of detected fungal phylotypes and their abundance. This is consistent with the results obtained using the Illumina MiSeq platform (Table 1). The metagenomic approach also showed a significant positive correlation between the number of detected microbial phylotypes and the abundance of the phylotypes detected with the DNA extraction from the bacterial microbiota. This suggests that the isolation of bacterial phylotypes in the microbiome can be a common method for the detection of microbial diversity in the soil, which could be a good predictor for microbial community structures and health.
+
+Microbial diversity and distribution in soils
+The soil microbial community showed higher diversity in soils with higher number of bacterial phylotypes and abundance in the deep sequencing approach than in the metagenomic approach. For the deep sequencing approach, soil microbial communities were dominated by a high number of bacterial phylotypes with higher number of fungal phylotypes and abundance in the deep sequencing approach. This may be due to the higher number of organisms isolated from the microbial microbiota in the soil, which resulted in the bacterial phylotypes being isolated from the soil. It has been reported that some soil bacteria, such as Pseudomonas sp., are associated with the soil microbiome and this can lead to the colonization of other soil bacteria by these bacteria [28]. These bacteria colonize the soil and form a complex that is followed by a strong increase in the number of fungal phylotypes and abundance in the deep sequencing approach. In addition, the bacteria colonizing the soil could increase the bacterial diversity and fungal phylotypes in the soil. This could be due to the bacterial taxonomic composition of the soil, which could be associated with the soil micro-ecological parameters [28]. The enrichment of bacteria in the soil could be due to the abundance of the bacteria in the soil, which could be associated with the soil micro-ecological parameters.
