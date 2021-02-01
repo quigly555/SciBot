@@ -1,0 +1,48 @@
+# Endophytic Fungi from Terminalia Species: Their Internal Bioactivity Profile and Molecular Docking Protocols
+Quaglee Dragontacos
+
+
+## Abstract
+In recent years, there has been a noticeable increase in interest in the medicinal potential of mushrooms in the treatment of respiratory and gastrointestinal disorders. The use of mushrooms in folklore medicine has promoted belief in the power of consuming mushrooms for control of illnesses, as it is believed to provide a source of nutritional and health benefits to the people and also to the animals. The present study demonstrates the efficacy of the ethnomedicinal term “mungo-oinsorgia” (Blastomyces fusarium strains) for the treatment of pulmonary fungal infections in rats using the pre-deoxychaged broth (PDA) Mungo-oinsorgia extract and two fractions of the dried, hemicellulose-dried, hemicellulose-dried, and hydrolyzed dried mushrooms. The pulmonary and animal studies demonstrated that the hemicellulose fraction exhibited better results compared to PDA Mungo-oinsorgia extracts and hemicellulose-dried M. fusiforme.
+
+
+## Introduction
+The genus Terminalia, typified by . oryzae, is commonly found in the soil, rotting, and in rotting vegetation. It is a saprophyte, which lives mainly in soil and in soil-trees, and its ecological niche is restricted to terrestrial, marine, and aquatic habitats. It is a phytopathogen, growing mainly on leaf litter, decaying leaf material, and decaying plant material, with a few other yeast species found in decaying material, such as Cladosporium, Pichia, and others. It is found in soil, with a high content of substrate, submerged wood, and decaying plant material.
+
+Ecology - The species are found in soil, under roots, and in dead branches. They are frequently isolated from soil, dead leaves, wood, dead branches, and in cracks or cracks of trees.
+
+Habitat - Terminalia species are found in moist, hardwood, hardwood, and/or hardwood-y trees, and often inhabit these substrates. They can be found in soil, especially under softwood or in under branches, although their distribution in these trees is unknown.
+
+Habitat - Terminalia species are found in moist, hardwood, hardwood, and oak trees. In these trees, the soil is dominated by hardwood or hardwood-y. The soil horizons are very narrow, with the lowest layer of trees lying between the two layers. The soil horizons are generally wide and narrow, and the habitats are mainly woody and wet places. The fungal diversity and distribution in the woody habitats is still unknown.
+
+Habitat - Terminalia species are found in moist, hardwood, hardwood, and oak trees.
+
+Habitat - Terminalia species are found in dead, decaying, and mosses. The fungi in these trees are usually classified according to their habitat, either as saprobic or as biotrophic, and classified according to the species of their habitat, as saprobic species, or as biotrophic species.
+
+Habitat - Terminalia species are found in softwood or in dead branches.
+
+
+## Methods
+Fungi were isolated from the vegetative stage from the midgut of infected leaf tissu. The fungi were identified as those with a low, middle or high fungal contamination and that had a wide distribution in the plant tissues. The samples were cultivated in a plastic bag in a plastic shaker at 37°C with 100 rpm. After cultivation, the samples were stored at 4°C for seven days and then transferred to a container with the frozen tissue for further use.
+
+Microbial community was measured on MOPS agar (5% malt extract, 0.5% peptone, 0.5% dextrose, 0.1% yeast extract, 0.05% chloramphenicol) plates. In order to determine the microbial contamination of the MOPS plates, a small number of fungi was isolated from the fungi and the number of mycelium was increased to 10. The plates were incubated at 37°C for 7 days.
+
+MOPS plates were prepared in a 1% peptone solution and the mycelium was removed by filtering through sterile Miracloth. The mycelium was collected by filtration, washed with distilled water and dried under a vacuum to obtain a semi-preparative MOPS media. The medium was supplemented with 10% of ethanol. The MOPS plates were incubated at 37°C for 7 days.
+
+To analyze the mycelium, the mycelium and the medium were removed by filtration through a 0.45-µm-pore-size filter and then dried under a vacuum. The material was weighed, and the pellets were dissolved in distilled water. The dry weight of the material was determined using a gas chromatograph equipped with a capillary column, a flame ionization detector and an autosampler. The chromatographic program consisted of a temperature of 60°C, a gas flow of 0.5 ml/min, and an oil flow of 1 ml/min. The data were collected on a Shimadzu GC-2010 (Shimadzu Corporation, Japan).
+
+Phenol–Lysine (PMS) and L-proline–L-l-lactate (L-L-proline) Assays
+PMS was determined by the method of Haynes and Russell [38] with slight modifications. The l-proline solution was composed of 0.
+
+
+## Results
+The RNA-seq data are generated by mapping reads from individual microRNAs to RNA-seq reads from different exons in the 3' UTR of a gene. For the RNA-seq data, the data from a gene in the promoter were mapped onto the 3' UTR of a genomic sequence.
+
+
+## Discussion
+rosetta and . brasiliensis are morphologically similar (Ostrusseva & Braun, 1974; Heitman et al., 2014). However, S. brasiliensis and S. rosetta differ in their ability to form and secrete bioactive metabolites and their interactions with other strains are different (Ostrusseva & Braun, 1974; Heitman et al., 2014). In this study, the results from the antifungal activity assays on the yeast strains that were isolated from the soil and soil were compared with the results obtained in the bioactive metabolites assays.
+
+Antifungal Activity of Yeast Strains on Various Prokaryotic Strains
+The antifungal activity of the yeast strains isolated from the soil and the soil was tested against various microorganisms. The antifungal activity of the strains was based on the presence of the terpenes terpenes and pyrrolidine and the piperidines piperidine and pyrrolidine (Ostrusseva & Braun, 1974; Heitman et al., 2014). The MICs of the strains ranged from 0.25 µg/ml to 2.5 µg/ml for terpenes and pyrrolidine, respectively, and from 0.25 µg/ml to 4 µg/ml for piperidines and piperidine, respectively. The MIC values for the terpenes were 2.35 and 3.72 µg/ml, respectively. The pyrrolidine was the MIC_50 for all the strains. The MIC_50 values of the piperidines and piperidines were 2.36 and 3.72 µg/ml, respectively. The bioactive metabolites were evaluated for their antifungal activity by the inhibition of the enzymes in the fungal cell wall biosynthesis, including the enzymes in the cell wall biogenesis and biosynthesis of lipids. The results showed that the bioactive metabolites are different in their chemical and biological activities.
+
+The antifungal activity of the yeasts in the tested treatment groups was considered as good for studying the antifungal activity of the selected strains. However, the antifungal activity was not reproducibly observed in any of the tested strains, except for S. rosetta, which showed the highest antifungal activity (MIC_50) against the S.
