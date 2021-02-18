@@ -1,0 +1,39 @@
+# Antifungal Activity of Tremella polysaccharides against Candida albicans and Candida parapsilopsis
+Quaglee Dragontacos
+
+
+## Abstract
+The life cycle of Paracoccidioides brasiliensis is regulated in three distinct stages: generation, fusion, and transition. The first stage is characterized by sexual reproduction, followed by the formation of the mycelia.
+
+
+## Introduction
+The fungal genus Fusarium contains many different species, and their importance as saprobes of plants and human health is well established. Fusarium species are found in various parts of the world, including parts of Asia, Africa, and Australia, as well as in plants, animals, and humans [1]. Fusarium species are important plant and human pathogens that cause infections of both warm-blooded and warm-blooded animals, including humans, cats, dogs, and horses [2,3,4]. Fusarium species are known to produce mycotoxins in human and animal products, such as mycotoxin-inhibiting rods, which are carcinogenic and immunosuppressive to humans and animals [5,6,7]. Additionally, fungal diseases are known to cause serious economic losses, especially in agriculture and forestry [8]. The worldwide distribution and epidemiology of fungal diseases in humans are dependent on geographic area, season, and variety of animals involved, and the presence of specific fusaria is responsible for some of the most severe diseases in humans and animals [9,10]. Fusarium oxysporum is a slow-growing fungal pathogen that is endemic in the United States, Europe, Asia, and Australia [11]. The number of individuals infected with Fusarium species has increased over the last two decades due to the HIV epidemic, and this has resulted in a rise in the number of people with weakened immune systems, such as cancer patients and individuals undergoing immunosuppressive treatment [12,13]. The most common clinical form of the disease is fusariosis, which is characterized by the spread of the infection to multiple sites in the body, including the skin, mucosa, and nails, where it causes significant health problems, such as irritation of skin, irritation of mucous membranes, and inflammation of the skin [14,15,16,17,18].
+
+
+## Methods
+The MIC and MFC were determined after 24 h incubation at 37°C in RPMI-1640 medium (Sigma-Aldrich) with appropriate antibiotics (100 µg/mL. The fungicidal activity was defined as the lowest concentration of the drug that resulted in complete inhibition of visible growth of Candida species compared with a drug-free control (0.5-2.0 mg/mL). The antifungal activity was defined as the lowest concentration of the drug that resulted in complete inhibition of visible growth of Candida species compared with a drug-free control (0.5-2.0 mg/mL).
+
+2.5. Antifungal Activity of Methylprednisolone (MNP) against C. albicans
+The MIC and MFC of MNP was determined according to the standard method proposed by the Clinical and Laboratory Standards Institute (CLSI) [20]. The antifungal activity of MNP against C. albicans was defined as the lowest concentration of the drug that resulted in complete inhibition of visible growth of Candida species compared with a drug-free control (0.5-2.0 mg/mL). The antifungal activity of MNP against C. albicans was defined as the lowest concentration of the drug that resulted in complete inhibition of visible growth of Candida species compared with a drug-free control (0.5-2.0 mg/mL). The minimum fungicidal concentration (MFC) was defined as the lowest concentration of the drug that resulted in complete inhibition of visible growth of Candida species compared with a drug-free control (0.5-2.0 mg/mL). The minimum fungicidal concentration (MFC) was defined as the lowest concentration of the drug that resulted in complete inhibition of visible growth of Candida species compared with a drug-free control (0.5-2.0 mg/mL).
+
+2.6. Determination of Minimum Dose (MDCK)
+The MDCK was determined according to the CLSI M27-A3 method [21]. The MIC of MDCK was determined at the concentration of 0.3 µg/mL. The MFC of MDCK was determined at the concentration of 0.2 µg/mL.
+
+2.7. Antifungal Activity of Glucanex and Amphotericin B against C.
+
+
+## Results
+As shown in Figure 3, they were able to significantly inhibit fungal growth and produce in vivo, although the activity of the fungi was weaker than that of Candida albicans and Candida parapsilopsi. In contrast, the antifungal activity of the Candida parapsilopsis isolates was much weaker than that of the Candida albicans isolates (Figure 3). The antifungal activity of the Candida albicans isolates and Candida parapsilopsis isolates was more pronounced than that of the Candida parapsilopsis isolates and Candida parapsilopsis isolates (Figure 3). The antimicrobial activity of the Candida albicans isolates and Candida parapsilopsis isolates was more pronounced than that of the Candida albicans isolates and Candida parapsilopsis isolates (Figure 3). The antifungal activity of the Candida parapsilopsis isolates and Candida parapsilopsis isolates was more pronounced than that of the Candida albicans isolates and Candida parapsilopsis isolates (Figure 3). The antifungal activity of the Candida albicans isolates and Candida parapsilopsis isolates was more pronounced than that of the Candida parapsilopsis isolates and Candida parapsilopsis isolates (Figure 3). The antifungal activity of the Candida parapsilopsis isolates and Candida parapsilopsis isolates was more pronounced than that of the Candida albicans isolates and Candida parapsilopsis isolates (Figure 3).
+
+Antifungal Activity of Listeria monocytogenes and Cryptococcus neoformans against Candida albicans and Candida parapsilopsis
+The antifungal activity of L. monocytogenes and Cryptococcus neoformans against Candida albicans and Candida parapsilopsis were investigated. As shown in Figure 4, the antifungal activity of the L. monocytogenes isolates and the C. neoformans isolates was more pronounced than that of the C. neoformans isolates and Candida parapsilopsis isolates.
+
+
+## Discussion
+ µg/mL) as a contro. To detect the antifungal activity of C. albicans, we prepared polysaccharides containing 1% BHT (2.5 µg/mL) as a control. We found that the activity of C. albicans is decreased by increasing the concentration of BHT. As expected, C. albicans was not sensitive to BHT and the activity of BHT was also decreased. As a result, we treated the polysaccharides with the antifungal agent caspofungin (0.5 µg/mL), and the activity of C. albicans was increased by increasing the concentration of BHT.
+
+The antifungal activity of polysaccharides against C. albicans was also observed by using E. coli as a control. The activity of polysaccharides against C. albicans was significantly increased by increasing the concentration of BHT. In addition, we used bicarbonate (0.5 µg/mL) as a control. Bicarbonate is a compound that is found in most polysaccharides, and it can be found in the oil of many strains of Candida. Bicarbonate is known to have antifungal activity against C. albicans. Therefore, it is important to investigate the antifungal activity of polysaccharides against C. albicans, since it is known to have antifungal activity against many species of Candida.
+
+Our results demonstrated that the antifungal activity of polysaccharides against C. albicans and C. parapsilopsis was increased by increasing the concentration of BHT. The results showed that the antifungal activity of polysaccharides against C. albicans was increased by increasing the concentration of BHT. These results indicate that the antifungal activity of polysaccharides against C. parapsilopsis is increased by increasing the concentration of BHT.
+
+The antifungal activity of polysaccharides against C. albicans was also observed by using C. albicans as a control. The antifungal activity of polysaccharides against C.
