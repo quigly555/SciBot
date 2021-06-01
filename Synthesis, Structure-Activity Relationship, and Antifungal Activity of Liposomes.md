@@ -1,0 +1,32 @@
+# Synthesis, Structure-Activity Relationship, and Antifungal Activity of Liposomes
+Quaglee Dragontacos
+
+
+## Abstract
+Molecular phylogenetic analyses based on the rDNA SSU1-ITS2 and 28S nrDNA (ITS-LSU) of the ITS-LSU and SSU genes of a large metazoan (M0) revealed that the genus Hyrum is monophyletic, and Hyrum agaricus is polyphyletic. Based on the ITS-LSU and SSU sequences, it is divided into eight new species: Hyrum daubthra and Hyrum agaricus, and the new name Hyrum chauni and Hyrum aspera. The genus Parapterulicium is reduced to synonymy under Hyrum. Epitypeologies of Parapterulicium are given for Hyrum and Apiospora, and epitypeologies for Hyrum are given for Apiospora. Apiospora domingense is introduced to accommodate Hyrum. Hyrum citriense is synonymy under Hymenaea. Epitypeologies of Hymenaea are given for Hyrum, and epitypeologies for Hyrum agaricus. Hyrum eoliensis is reduced to a distinct genus under Hymenaea. Epitypeologies of Hymenaea are also given for Hyrum, and epitypeologies for Hyrum agaricus. Hymenaea pombe is reduced to a distinct generic sub-dom, and Hymenaea werneckii is reduced to a generic sub-dom. Apiospora aquatica is reduced to a generic sub-dom, while Hymenaea arboreum and Pseudoplagiostoma are reduced to generic sub-dom. Apiospora viciae is reduced to generic sub-dom. The generic sub-dom Hyrum, which is now reduced to generic synonymy to avoid the generic sub-dom Hyrum agaricus, is also made generic under Hymenaea.
+
+
+## Introduction
+Glycosylation is an essential feature of many eukaryotic enzymes and their substrates. Glycans, which are formed by different glycosyltransferases (GTs) that transfer a carbohydrate moiety from one sugar donor to another, are considered major glycosyltransferases (Glycans) (Watling, 2015). GT1 and GT2 are major glycosyltransferases and are classified according to their catalytic efficiency as they have a higher catalytic efficiency than GT1 and GT2 (Watling, 2015). However, GT2 is a rare GT3 enzyme, as GT3 was classified as a GT2 enzyme only in the last eukaryotic taxonomic study (van der Veen et al., 2019). In contrast to GT1, GT3 is a major GT2 enzyme and GT4 is a GT3 enzyme. This difference in catalytic efficiency may be due to the three types of GT3: GT3a, GT3b, and GT3c (Watling, 2015). Although the catalytic efficiency of GT3 is higher than that of GT2, it does not exceed that of GT2. The current classification of GT enzymes is based on three characteristics: a) the catalytic efficiency of GT3 is better than that of GT2 (Watling, 2015). b) GT enzymes are more stable than GT enzymes in the presence of glucose. However, the presence of glucose in GT3 enzyme does not influence GT3 enzyme activity.
+
+
+## Methods
+The assay was performed according to the following protoco. Briefly, 50 µL of 100 µg/mL of the antifungal compounds were dispensed into the wells of a 96-well microtiter plate (Greiner Bio-One, Germany) and incubated at 37°C for 24 h. Then, the OD_600 was measured (D-L) using a microplate reader (Synthesis DTM, BioTek Instruments, Inc., Winooski, VT, USA). The concentration of the compound which caused the inhibition of growth of the control group was determined as the lowest concentration that caused no growth of the samples. The compound exhibited a similar activity against the test sample.
+
+Phenotypic Characterization of the Antifungal Compound
+The ability of the antifungal compound to inhibit the growth of the test cells was determined by the formation of a yellow halo around the test sample. The halo was measured with a microplate reader (Synthesis DTM, BioTek Instruments, Inc., Winooski, VT, USA). The halo was measured with a microplate reader (Synthesis DTM, BioTek Instruments, Inc., Winooski, VT, USA). The color change of the cell wall was determined with a microplate reader (Synthesis DTM, BioTek Instruments, Inc., Winooski, VT, USA). The cell wall was detected with a microplate reader (Synthesis DTM, BioTek Instruments, Inc., Winooski, VT, USA). The cell wall-protective effect of the antifungal compound was measured with a microplate reader (Synthesis DTM, BioTek Instruments, Inc., Winooski, VT, USA). The halo of the test cell wall was measured with a microplate reader (Synthesis DTM, BioTek Instruments, Inc., Winooski, VT, USA). The viability of the test cell wall was determined with a microplate reader (Synthesis DTM, BioTek Instruments, Inc., Winooski, VT, USA).
+
+
+## Results
+albicans and . neoformans. The antifungal activity of liposomal lipase was confirmed by ELISA (Fig 1) and Western blotting (Fig 2) (Fig 3). Liposomal lipase displayed the most potent antifungal activity with IC_50 values ranging between 1.03 and 2.5 µg/ml. Liposomal lipase also demonstrated an inhibition in the growth of C. neoformans (IC_50 of = 1.7 µg/ml) with a MIC of 1.125 µg/ml (Fig 4). These data suggest that lipidolysis is a positive determinant of antifungal activity.
+
+Effect of liposomal lipase activity on lipid accumulation in C. albicans
+
+The liposomal lipase activity of lipase has been shown to inhibit lipid synthesis by inhibiting lipid metabolism and the glyoxylate cycle (9). We therefore next evaluated the effect of liposomal lipase activity on lipid accumulation in C. albicans. We first analyzed the lipid accumulation of C. albicans after treatment with liposomal lipase. In the presence of 1 mM liposomal lipase, the mean and the standard deviation of lipid accumulation were increased by approximately 2.8-, 3.2-, and 2.3-fold, respectively, compared with the control (Fig 5A). Liposomal lipase also showed an inhibitory effect on C. albicans by approximately 1.5-fold, 2.3-fold, and 2.3-fold, respectively. Liposomal lipase was also more effective at inhibiting lipid metabolism of C. albicans (Fig 5B).
+
+Effect of Liposomal Lipase Activity on C. neoformans Infection
+In order to evaluate whether liposomal lipase activity is associated with pathogenicity, we evaluated the effect of liposomal lipase on C. neoformans. For this purpose, C. neoformans was inoculated into the peritoneal cavity of C. albicans and the fungal burden was evaluated. The results of the inoculation showed that liposomal lipase was not able to inhibit the growth of C.
+
+
+## Discussion
+The most commonly used triazole antifungal for treating the mycoses caused by Cryptococcus neoformans and Cryptococcus gattii is amphotericin B, followed by fluconazole [6, 9]. In this study, we identified the conserved azole in S. marcescens, S. cerevisiae and S. pombe. The major azole in S. marcescens, S.
