@@ -1,0 +1,33 @@
+# Macrophage activation by histone chaperones during mast cell division
+Quaglee Dragontacos
+
+
+## Abstract
+The notion that genes are somehow linked to virulence is an immensely influential assumption.
+
+
+## Introduction
+In the presence of Histones H3K9-9R1 and H3K9-9R2, the response to infection is dependent on the amount and type of lipids present on the surface of the cell. As the cells rapidly shift between the macrophage and the phagocytic cell, their ability to sense and respond to the presence of Histone H3K9 and H3K9-9R1 has been termed histone tail modification. Histone H3K9-9R1 itself has been shown to regulate macrophage polarization [11]. On the other hand, H3K9-9R2 is expressed at higher levels in the primary immune system and the presence of H3K9-9R1 results in an increase in macrophage polarization in macrophages in a process dependent on the amount and type of lipids present on the surface of the cells [11].
+
+The ability of Histone H3K9-9R1 to regulate macrophage polarization was first demonstrated in the phase of monocyte development [12]. Monocytes express H3K9 and H3K9R1 in vitro and in vivo models. In these models, H3K9-9R1 is repressed in the presence of lipids, including L-Histone H3K9, L-Mast 2K9, M-Fet3, M-Glu 4, and Glc3 [13]. In contrast, activation of macrophages by H3K9-9R1 results in an increase in the expression of these genes and stimulates their polarization toward the macrophage phenotype [14].
+
+Lipids, including H3K9, H3K9-9R1, H3K9-9R2, and H3K9-9R3, are synthesized as precursors by various enzymatic reactions catalyzed by H3K9-9R1 and H3K9-9R2. In macrophages, these precursors are classified into different categories: a-limit acyl-CoA, acid-base acyl-CoA, and lipoacylglycerol (LAG).
+
+
+## Methods
+brasiliensis Pb18 strains were cultured overnight at 37°C in complete medium (CM) or in liquid medium (MM) containing 10% heat-inactivated fetal bovine serum, 2 mM L-glutamine, and 1% penicillin-streptomycin (Invitrogen. Cultures were then grown in a shaking incubator at 37°C with continuous shaking (150 rpm) for 24 h. For selection of Pb18-specific enrichment of brefeldin A, culture supernatants were collected at different time points (0, 1, 2, 4, 8, 16 h and 24 h) as previously described (51). A single colony from each culture was picked and inoculated in CM containing 10% heat-inactivated FBS and 1% penicillin-streptomycin and incubated at 37°C with continuous shaking (150 rpm) for 24 h. Mice were anesthetized with an intraperitoneal injection of ketamine-xylazine (80 mg/kg) and xylazine (10 mg/kg) and subcutaneously injected with 0.4 mg/kg of streptomycin sulfate (1 mg/kg) (47) in 400 µl of saline solution. For neutrophil enrichment, lungs were removed, weighed, homogenized and filtered using a 0.45-µm filter and homogenized again using a sterile pestle. The homogenate was centrifuged at 2000 rpm for 10 min at 4°C and the supernatant was removed. The resulting pellet was washed three times in PBS and stored at -80°C until use. CFUs were enumerated by using standard histopathological methods (42). For all experiments, CFUs were considered to be present when they were above 100cells/µl.
+
+Determination of phagocytosis by flow cytometry
+Mice were treated with 1.25 M sorbitol (Sigma-Aldrich, St. Louis, MO) to kill filamentation. The mice were perfused with sterile PBS, then perfused with a solution containing 0.5% (wt/vol) Triton X-100 in PBS and perfused with 0.5% (wt/vol) polyethylene glycol 400 (PEG 400, Sigma-Aldrich).
+
+
+## Results
+To understand the mechanisms by which mast cells induce mast cell activation, we used mast cell (BM) cells to determine whether mast cell cell activation was induced by other stresses or by a host cell lin. Mast cells were grown in the presence of different stresses (sorbitol, sodium dodecyl sulfate (SDS)), either an inactivated by the environment (e.g., by either low osmolarity or oxidative stress) or by a host cell line (e.g., by exogenous proteins, RNAi, or neutrophils). Each stress was assessed by measuring the production of ROS in mast cells following stimulation with an oxidant (0.5 mM H_2O_2). Using the standard protocol described in the Materials and Methods, mast cells were pretreated with 5 mM H_2O_2 for 10 min. After the mast cell was preincubated for 20 min, ROS production was measured by Western blotting. Compared with that in the absence of H_2O_2, the production of ROS was significantly increased in mast cells stimulated with SDS (Fig 3A). It was also significantly increased in the presence of sodium dodecyl sulfate (SDS). These results suggested that mast cell activation was triggered by an oxidant.
+
+To test whether a host cell line primed mast cells with ROS and/or oxidative stress induced by SDS was able to trigger the activation of mast cell mast cell polarization, we also used the intracellular ROS-inducing agents, sodium dodecyl sulfate (SDS) or sodium nitrite (NaNO_3) to measure the levels of specific ROS in mast cells after stimulation with SDS. The production of ROS in the presence of SDS increased in the presence of sodium dodecyl sulfate (SDS), whereas in the absence of SDS only the production of ROS was detected (Fig 3B). In contrast, the production of ROS in the presence of sodium nitrite decreased significantly in the absence of SDS, albeit to a lesser extent than that in the absence of SDS (Fig 3C).
+
+
+## Discussion
+In the present study, the results revealed that the expression of the histone deacetylase H3K4 was increased in the mast cells of the wild-type and <U+0394>SreA^d062 strain. The H3K4 gene is involved in cytoskeleton remodeling and cell wall remodeling, and it is regulated by the H3K4 gene promoter. The H3K4 gene is located on the promoters of a number of histone chaperones and their modulation by both CDR1 and CDR2. CDR1 regulates the transcription of CDR1 in human mast cells, whereas CDR2 plays a role in the transcription of CDR1 in other cells (30). The expression of the CDR1 gene is upregulated in the <U+0394>SreA^d062 strain (Figure 6C) and the expression of CDR1 is upregulated in the <U+0394>SreA^d062 strain (Figure 6D).
+
+As an important response to the stress, a number of factors have been reported to be involved in the response to this condition (34). The activation of the host response in response to the stress is a key process in the development of an infection by pathogens. The protease inhibitor, caspofungin, plays a major role in the production of Caspofungin by a number of phytopathogens (35). This inhibitor acts by activating the protein kinase C-1 (PKC) pathway (36). The caspofungin inhibitor, caspofungin, also causes increased Caspofungin levels (37).
