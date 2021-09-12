@@ -1,0 +1,39 @@
+# Pirin1 (ORAC), a proteomic fingerprint of Sporothrix biota, identifies variable genes encoding protein assimilatory proteins and variable genes encoding internal breakowing pathways
+Quaglee Dragontacos
+
+
+## Abstract
+The resistance of pathogens to antimicrobial drugs from within their host organism is a prerequisite to the development of resistance to prevent the establishment of a World Health Organization (WHO) million million life-threatening infection every day. One of the ways in which this host-pathogen interaction contributes to the progression of a disease is through the activity of surface specific antimicrobial peptides (PSPs). PSPs target the surface protein EPSporium spp. In this study, we evaluated the antimicrobial activity of a novel, self-propelled PSP called Cup1p, a G1/S vector-based delivery system for delivery of a series of peptides, known as Cup2p, Cup3p, and Cup4p. Cup2p and Cup3p delivered a series of hydrophobic peptides, Cup1p, Cup2p, and Cup3p, respectively, to the C3-macrophage surface and, in one case, Cup1p and Cup3p, respectively, to the surface of the opportunistic human pathogen Candida albicans. These peptides are potent inhibitors of the proteasomal proteasomal decoys Cup1p and Cup3p and effectively inhibited C3-Macrophage growth. Moreover, Cup4p and Cup2p were synergistic against the C. albicans growth-promoting activity of C. albicans. These results strongly suggest that the surface specific antimicrobial peptides delivered by C. albicans Cup1p and Cup3p have a molecular-base basis and are therefore potent PSPs with potential wide application.
+
+The antimicrobial activity of a novel, self-propelled surface protein known as Cup (PLP) was evaluated in vitro and in vivo.
+
+
+## Introduction
+Fungi are among the most ecologically important groups in terms of production and abundance, but they can also be a source of food, fiber and other necessities for humans. While large populations of fungi have been estimated to exist, and the taxonomy of the kingdom of fungi is complex, there are fewer taxonomically informative groups. The genus Cryptococcus, for example, encompasses over 200 species [1] and accounts for approximately 15% of fungal infections worldwide [2]. Most Cryptococcus infections are caused by Cryptococcus gattii, an encapsulated basidiomycetous yeast, and Cryptococcus neoformans, an encapsulated species, which occur predominantly in bird excreta and rotting vegetation [3].
+
+C. neoformans is a heterogeneous and wide-ranging pathogen that is currently the most common cause of opportunistic fungal infections in immunocompromised patients [4]. Several molecular types of serotypes have been identified, and these differ in virulence [5]. In addition to C. neoformans var. grubii and C. neoformans var. neoformans, several other species have recently been classified into four separate groups: VNI, VNII, and VNB [6]. Cryptococcus neoformans is the predominant species in the Vancouver Island outbreak and in the Pacific Northwest outbreak, while C. gattii and C. neoformans are more commonly found in other parts of the world [7].
+
+In contrast to the well-known ubiquitous species, cryptococcal infections are relatively uncommon in immunocompromised patients. Here we describe a case of cryptococcal meningoencephalitis in an immunocompetent man with no apparent predisposing condition.
+
+
+## Methods
+Study Area
+The study area in the coastal region of S. falciparum was located in the eastern seabed of the city of São Luís. This region has a mean elevation of approximately 7.0 m above sea level and is a coastal region with a total mean annual rainfall of 1250 mm and a mean annual temperature of 21°C [11]. The climate is humid, rainy, and arid in the north, while the south is semiarid and tropical. The mean annual temperature in the coastal region of S. falciparum ranges from 20.6°C to 30.5°C [11]. The mean annual precipitation is 2788 mm in the coastal region of S. falciparum, which is the warmest region of the island. The mean annual precipitation is 35.1 mm in the coastal region of S. falciparum, which is the dryest region of the island.
+
+Preparation of the Cryptococcus gattii serotype A strain
+The Cryptococcus gattii strain SC5314 was used as the recipient strain for the in vitro antifungal and antifungal assays. For antifungal assays, a conidial suspension of each strain was inoculated on Sabouraud dextrose agar (SDA) and incubated at 37°C for 48 h. A suspension of each strain was adjusted to the required concentrations using sterile 0.1% Tween 20 and was serially diluted in PBS to obtain a final stock concentration of 10^4-10^6 CFU/mL. Each test was performed in duplicate.
+
+
+## Results
+The genomic data of our libraries suggest that the proteome of an . parva mutant is highly conserved, and the gene sets of L. parva are highly divergent.
+
+Analysis of Gene Ontology (GO) term enrichment
+For the analysis of gene ontology (GO) terms that are associated with a specific pathway, we also applied the Gene Ontology (GO) term enrichment method to the proteomic datasets. In addition to GO terms that are associated with genes involved in metabolism, protein and nucleotide metabolism, the two most common GO terms that are associated with transport were protein transport (GO:0016170), signal transduction (GO:0069220), and metabolic process (GO:0008808). The L. parva mutant is significantly enriched for GO terms related to metabolism (P<0.05) and signal transduction (P<0.05) (Table 2). The three GO terms associated with protein transport (P<0.05) are translation (GO:00069220), signal transduction (GO:0008808), and nucleotide metabolism (P<0.05) (Table 2). We also identified GO terms that are associated with protein metabolism (P<0.05) and that are associated with signal transduction (P<0.05) and nucleotide metabolism (P<0.05) (Table 2). The L. parva mutant is significantly enriched for GO terms associated with carbohydrate transport (P<0.05) and signal transduction (P<0.05) (Table 2). The L. parva mutant is significantly enriched for GO terms associated with protein transport (P<0.05) and signal transduction (P<0.05) (Table 2). The L. parva mutant is significantly enriched for GO terms associated with nucleotide metabolism (P<0.05) and signal transduction (P<0.05) (Table 2).
+
+L. parva is also significantly enriched for GO terms associated with protein metabolism and nucleotide metabolism (P<0.05) (Table 2). The L.
+
+
+## Discussion
+The work described here provides an overview of the biodiversity of the mycobiome of P. acutatum, and the results support the hypothesis that the fungal community is driven by the host's needs for nutrients and other nutrients. This is consistent with previous studies of the mycobiome of mycobiome of P. acutatum, in which the fungi were found to be abundant and colonized the host [3,16].
+
+The fungus P. acutatum is characterized by its predominant yeasts and the ability to grow at temperatures ranging from 42°C to 55°C [2,17]. As expected, the majority of the isolates were isolated from dark woody hosts. In contrast, only two out of the 83 fungal isolates were able to grow at 37°C. This is probably due to the higher number of fungi observed at the same temperatures. The filamentous fungus Aspergillus niger, which is dominant in the dark woody hosts and also occurs in the dark woody habitats [18,19], was also observed to be abundant in this study. A phylogenetically closely related species, Phanerochaete chrysosporium, is a dark-rosy fungus that was also observed to be abundant in the dark woody hosts of this study. This fungus was previously observed to be a major source of carbon for the fungal community [20]. It is thus not surprising that this fungus was also the most abundant fungus observed in the mycobiome of the dark woody hosts.
