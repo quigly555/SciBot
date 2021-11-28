@@ -1,0 +1,50 @@
+# In Silico Sequencing of Human Internal Medicine Bacterial Meningitis Virus
+Quaglee Dragontacos
+
+
+## Abstract
+Cryptococcus gattii is an emerging fungal pathogen of immunocompetent hosts in Brazil that is primarily associated with the meningitis subtypes B and C strains. The majority of cases of disease are acquired immunodeficiency. In the second decade, the emergence of the emerging subtypes has been highlighted only sporadically. We report two new isolates from a patient with tuberculous meningitis in Brazil that were confirmed by PCR amplification of the 18S ribosomal DNA gene and/or by sequencing of ribosomal fragments. The results showed that the new strains were less virulent than the old strains and were more readily resistant to fluconazole. The two new strains also exhibited greater resistance to voriconazole and caspofungin. The two isolates also displayed greater potency for cryptococcal antigen expression in vitro. The two clinical strains were highly virulent in a subtype A murine model of cryptococcosis. Both clinical strains also showed higher titers of fluconazole when compared to the reference strains, although the clinical strains were also highly susceptible to voriconazole and caspofungin. In conclusion, the two clinical strains showed higher levels of susceptibility to fluconazole, but the virulence of these two clinical strains was not as high as that of the reference strain. The two clinical strains were highly virulent and highly effective against meningitis.
+
+
+## Introduction
+Human immunodeficiency virus (HIV) infection is a multi-faceted process, and it is often associated with opportunistic infections, such as mucocutaneous candidiasis, acquired immune deficiency syndrome, mycetoma, and latent infections. Several predisposing factors have been identified, such as HIV infection itself, solid organ transplantation, malnutrition, and recent HIV pandemic (1-3). Candida albicans is the most common yeast-filamentous opportunistic pathogen in HIV patients, although other fungi, such as Cryptococcus neoformans and C. glabrata, can also cause infections in HIV patients (4-7).
+
+In Brazil, one of the largest urban centers in the state of Amazonas, the average number of HIV patients admitted to the hospital in the first 48 hours of infection was 17.3 per 100 patients, which was compared to 8.4 per 100 patients in the general population in the city of Maranhão in the state of Amazonas (8.1) (1, 2). In a retrospective study, patients admitted to the hospital in Maranhão had higher mean seroconversion and/or clearance rates compared to those admitted to the general population in the hospital (10.7 vs. 17.4%) (6.5 vs. 13.7%) (3.9 vs. 10.7%) (5.9 vs. 22.1%) (3.9 vs. 42.4%) (2.8 vs. 55.8%) (3.9 vs. 86.2%) (2.4 vs. 186.2%) (2.4 vs. 5%) (3.3 vs. 1.6%) (2.4 vs. 6.3%) (2.4 vs. 100.0%) (1.7 vs. 20.6%) (2.4 vs. 22.1%) (2.3 vs. 40.8%) (1.7 vs. 50.9%) (1.3 vs. 67.0%) (1.3 vs. 68.0%) (1.3 vs. 80.0%) (1.2 vs. 86.0%) (1.3 vs. 95.
+
+
+## Methods
+The virulent bacterial pathogens that are different from other bacterial pathogens that are studied in this study are as follows: Bacillus subtilis, Salmonella typhimurium, Staphylococcus aureus, Streptococcus pyogenes, Enterococcus faecalis, Enterobacter aerogenes, Enterobacter aerogenes and Escherichia col. We also analyzed the pathogens that contribute to the virulence of these pathogens in the patient with eosinophilia. In addition, we analyzed the virulence of these pathogens in the patients with eosinophilic eosinophilic eosinophilia.
+
+In order to obtain sufficient information on the viral load, we have compiled the results of the multiple sequence alignment of the microbial pathogens from the different organisms in each study. We have compared the phylogenetic relationships of the bacterial pathogens, as they are classified as genera in the phylogenetic study. The phylogenetic relationship of the bacterial pathogens in the genus level is a good indicator of their virulence in this study, and can be used to analyze the virulence and susceptibility of these pathogens in this study.
+
+Statistical Analysis
+All the tests were performed in Microsoft Excel 2012. The levels of the individual variables were analyzed by Student’s t-test or the Mantel-Haenszel test. The correlation between the levels of the individual variables were examined by Spearman rank correlation, Pearson correlation, or Pearson correlation coefficient, depending on the sample size. The relationship between the level of the individual variables and the level of the group of bacteria was analyzed by Student’s t-test, and the relationship between the level of the individual variables and the level of the group of fungi was analyzed by Pearson correlation.
+
+The correlation between the levels of the individual variables and the level of the group of fungi was analyzed by Student’s t-test, or the correlation between the level of the individual variables and the level of the group of bacteria was analyzed by Pearson correlation.
+
+The correlation between the level of the individual variables and the level of the group of fungi was analyzed by Spearman rank correlation, or the Spearman rank correlation coefficient, depending on the sample size.
+
+
+## Results
+We first identified the majority of bacterial pathogenic isolates to be able to form disease structures in the skin and the intestine at late stages of the infectio. We then screened a subset of these isolates to determine if they could form disease structures in the host tissue by mapping the epitopes of the epitopes to a reference gene, using a 1 kb deletion mutant library. All of these isolates were then subjected to immunofluorescence for the presence of the epitope in the culture supernatant. We confirmed the absence of any epitope using a streptavidin-conjugated smear kit. As shown in Fig 1, the epitope in the culture supernatant was not detectable in the immunofluorescent assay (Fig 1, lane 2).
+
+To ensure that the epitope was not a false negative, we used a serially diluted sera sample from a patient with an apparent pathogenicity defect. A small amount of the epitope was detected in the immunofluorescence assay, but not in the sera sample (Fig 1, lane 3). We confirmed by western blotting that the epitope was indeed a false negative using a serially diluted sera sample from a patient with a apparent pathogenicity defect (Fig 1, lane 4). In contrast, the epitope in the culture supernatant was not detectable in the immunofluorescent assay (Fig 1, lane 3).
+
+Molecular Characterization of Human Infected Lactobacillus
+The L. amazonensis reference strain, H99, was used to construct the serological assays. The results demonstrated that the L. amazonensis strain was able to form the epitope in the culture supernatant and also that the epitope was detectable in the sera sample (Fig 2). The epitope was also detected in the culture supernatant by immunofluorescent staining of the epitope in the sera sample (Fig 2).
+
+To further validate the method used, we next confirmed that the epitope in the culture supernatant was indeed a false negative using a serially diluted sera sample from a patient with an apparent pathogenicity defect. The epitope was detected in the culture supernatant by immunofluorescent staining of the epitope in the sera sample (Fig 2).
+
+
+## Discussion
+We found that gene expression was generally lower in primary bacterial pathogens compared to invasive bacterial pathogen. However, in addition, we found that gene expression of the Streptococcus-induced gene in primary bacterial pathogens was significantly increased compared to that in invasive bacterial pathogens. The Streptococcus-induced gene was also found in the human primary bacterial pathogens.
+
+Our results suggest that the infection induced by Streptococcus pneumoniae infection is highly regulated by the promoter and promoter region of the gene, as was found in the human primary bacterial pathogens. The presence of a large number of genes in the promoter region of the gene, along with the presence of several genes in the promoter region of the gene, strongly suggests that the gene expression is significantly different between the two bacterial pathogens.
+
+The expression levels of the gene were higher in primary bacterial pathogens than in invasive bacterial pathogens. The result suggested that the presence of genes in the promoter region of the gene could play an important role in the pathogenicity of the pathogen. However, the gene expression was higher in the primary bacterial pathogens than in the invasive bacterial pathogens. The reason for this is unknown.
+
+The gene expression level of the gene was higher in primary bacterial pathogens than in the invasive bacterial pathogens. The gene expression level of the gene was higher in the primary bacterial pathogens than in the invasive bacterial pathogens. This result suggested that the gene expression could be highly induced in the bacterial pathogens.
+
+The gene expression of the gene was higher in primary bacterial pathogens than in the invasive bacterial pathogens. The result indicated that the gene expression was highly induced in the bacterial pathogens. The gene expression was higher in the primary bacterial pathogens than in the invasive bacterial pathogens. The result suggested that the gene expression could be highly induced in the bacterial pathogens.
+
+Gene expression analysis of the gene in the promoter region of the gene indicated that it had been transcribed by the promoter of the gene. The promoter region was also expressed in the human primary bacterial pathogens. The result indicated that the gene was highly expressed in the primary bacterial pathogens. The gene expression was higher in the primary bacterial pathogens than in the invasive bacterial pathogens. The result indicated that the gene expression was highly induced in the bacterial pathogens. The result suggested that the gene was highly expressed in the bacterial pathogens.
