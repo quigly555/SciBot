@@ -1,0 +1,45 @@
+# Insect Amoebae Parasites of the Rice Blast Fungus Asgwallacea subiotherms
+Quaglee Dragontacos
+
+
+## Abstract
+capsulatum, suggesting that the fungus may carry an evolutionary link with other fungi or endophytes within its hos. We also confirmed that the core host was H. subiotherms UC-83, the first such connection being confirmed in the H. capsulatum model fungi. Our results expand a host-specific evolutionary scenario and suggest that a H. subiotherms-associated fungus-bacterial association may have occurred between the host and its endophytes.
+
+The H. subiotherms-associated fungus H. subiotherms UC-83 are the second fungus after the H. subiotherms fungi Coprinus perenziatum and R. pastoris to gain entry into the host and is considered to carry the core host H. subiotherms’ endophytes. We found that H. subiotherms UC-83 can successfully co-exist with H. subiotherms UC-83 at both the infection site and during infection. Furthermore, we observed that H. subiotherms UC-83 can be rapidly colonized by H. subiotherms UC-83 when H. subiotherms UC-83 is present in the environment and in the gut, both at 37°C and at 37°C. H. subiotherms UC-83 can also effectively suppress H. subiotherms UC-83 during infection. Furthermore, H. subiotherms UC-83 can be used to digest smaller organisms, including amoebas, at 37°C. Together, these results provide a tool to improve the utilization of fungi to digest larger organisms and to provide a tool for fungal endophytes within the host.
+
+IMPORTANCE The yeast-like fungi that inhabit the human gut are responsible for providing an abundant source of iron and zinc for human physiology and for driving a vigorous energy metabolism that includes iron-sulphur-containing food, the very rich red wine. The human intestinal tract is the primary nutrient source for numerous classes of life-threatening diseases, including Candida albicans, the most common cause of fungal meningitis. The human gut is also a source of numerous classes of natural and health-promoting molecules, including several that we term Mg-proteins, whose activities are at least partially attributable to their ability to modulate the host's gut microbiota.
+
+
+## Introduction
+The genus contains more than 220 species, all of them from the Anelid Desert regions [15,31. A very important species is O. amoebae of the Anelid Desert region, found in the semi-arid area of Rajasthan in India and Bangladesh, with a maximum maximum temperature of 9°C and a rainfall of ca. 5-10 m. The majority of these species can be isolated from the air and soil, and the airborne population of O. amoebae can be divided into two populations, the a and the a-populations [32].
+
+The species of O. amoebae are found in the arid regions of Rajasthan, Analassia and Khandeburganj in India, Bangladesh, Nepal, Sri Lanka and West Bengal in India and West Bengal in India [33-35]. The majority of them live in the sub-arid areas of the Indian Himalayan deserts, especially in the southwest regions of India and Bangladesh. The largest number of isolates obtained was recorded in the Auranginar forest, which was found to have a very restricted number of isolates, ranging between 5 and 20 species per hectare [32]. The most abundant habitats in the southern parts of India are the Ganges and Ganges flood plains regions, especially in the state of Karnataka and the state of Madhya Pradesh, India [36]. The most abundant habitats in the west regions of India are in the Tola Amazon basin and Ganges delta valleys, with the greatest diversity found in the Jat-Rana mountains and the Jat-Rana high belts, including Madhya Pradesh, India [33,36,37,38,39,40].
+
+The genus Ochroconis, known as ochreconiosis in South Africa, has been listed as an endangered species in the International Union for Conservation of Nature and Natural Resources (IUCN) [41]. Ochroconis sp. belongs to the Chaetosphaeriaceae, order Chaetosphaeriales, family Ceratocystidaceae, order Chaetosphaeriales, family Ochroconidaceae, family Chaetosphaeriales, family Ochroconidaceae and the order Chaetosphaerellaceae [42].
+
+
+## Methods
+% peptone and .5% yeast extract at 30°C and 37°C, respectively. The medium was supplemented with 10% glycerol and 1% (v/v) ascorbate. The fungal pathogen was kept on a sterile filter paper slants at room temperature in the dark for 1-2 days. Then, the fungi were transferred to fresh medium containing 1% (v/v) ascorbate. Then, the plates were incubated at 30°C for 3-4 days. The fungal colonies were counted to determine their number of CFU/mL. The mycelial weight was determined by inoculating 20 µL of fungal suspension onto the tissue of a sterile glass slide. The fungal burden was calculated by the following equation:where the number of CFU/mL (the number of mycelial portions of the agar plate) represents the weight of the mycelial portions of the agar plate and the number of CFU/mL (the number of mycelial portions of the plate) is the weight of the mycelial portion of the agar plate and the number of CFU/mL (the number of mycelial portions of the agar plate) is the weight of the mycelial portion of the agar plate.
+
+2.3. Fungal Burden
+The fungal burden was determined using the method described by Bligh and Dyer [19]. The fungal burdens were determined using the method described by Dehn and Egan [20], using the number of CFU/mL (the number of fungal colonies on the agar plate) represents the weight of the agar plate and the number of CFU/mL (the number of fungal colonies on the agar plate) is the weight of the agar plate and the number of CFU/mL (the number of fungal colonies on the agar plate) is the weight of the agar plate.
+
+2.4. Antifungal Susceptibility Testing
+The antifungal susceptibility of the rice blast fungus was determined using the method described by Qi et al. [21]. The antifungal susceptibility of the rice blast fungus was determined by broth dilution method, using the method described by Deng et al. [22] and using the method described by Vazquez-Ramos et al. [23].
+
+
+## Results
+subiotherms as well as the ITS and LSU rRNA genes of the . fumago subiotherms. Of the 16S rRNA genes, the species of A. fumago, A. flavus, A. oryzae, A. niger, A. oryzae, A. terreus, A. oryzae, and A. terreus showed the highest similarity, with 77.6%, 67.4%, and 53.1%, respectively, with the sequences of A. flavus, A. fumago, A. terreus, A. oryzae, A. niger, A. oryzae, A. terreus, A. oryzae, and A. terreus (Table 1). The 16S rRNA gene of A. flavus, A. fumago, A. oryzae, A. terreus, A. oryzae, A. oryzae, and A. terreus were the most similar, with 97.6% and 83.3% similarity, respectively, with the sequences of A. flavus, A. fumago, A. oryzae, A. oryzae, A. terreus, A. oryzae, A. oryzae, and A. terreus (Table 1).
+
+The phylogenetic analyses of the 16S rRNA gene sequences showed that the A. flavus and A. fumago subiotherms belong to a well-supported clade (Fig 1). The A. flavus subiotherms are closely related to the A. niger subiotherms and A. terreus subiotherms and the A. oryzae subiotherms, which are monophyletic subclades. The A. flavus subiotherms are closely related to A. terreus subiotherms and A. oryzae subiotherms, which are monophyletic subclades. The A. flavus subiotherms belong to a well-supported clade (Fig 1).
+
+Phylogenetic analysis of ITS and LSU rRNA gene sequences showed that the A. fumago and A.
+
+
+## Discussion
+
+The occurrence of ophiostomatoid protospores on Plasmodium falciparum is very rar. On the other hand, the occurrence of protospores on the phaeococcal-like fungus, Aspergillus niger is very rare. Thus, we think that the two phenotypic features that are characteristic of P. pachyrhizi in this species are the occurrence of ophiostomatoid protospores on P. pachyrhizi, and the presence of plasmodium-like protospores on Plasmodium falciparum, which is the most commonly used host for P. pachyrhizi.
+
+In the present study, we compared the behavior of P. pachyrhizi with other Pachyrhizium species and found that P. pachyrhizi was much more tolerant of nematodes, fungi, and insect cuticles than the other species. This finding is in accordance with those of Khan et al. (2014) who reported the isolation of P. pachyrhizi from nematodes and fungi, and showed that this fungus is a major pathogen of eggs of C. elegans. Khan et al. (2014) also reported that P. pachyrhizi has a higher survival rate in nematodes compared to C. elegans. Furthermore, our results showed that P. pachyrhizi can be a better indicator of the severity of infection of insects and insects. In the present study, we also found that P. pachyrhizi can be a better indicator of the severity of insect cuticle infection.
+
+In this study, we showed that P. pachyrhizi can produce the mature plasmodium-like protospores on Plasmodium falciparum, which is the most commonly used host for P. pachyrhizi. The ability of P. pachyrhizi to produce plasmodium-like protospores on Plasmodium falciparum is higher than that of P. falciparum and C. elegans. However, this result was not verified by microscopic observation and it may be due to the different host species.
