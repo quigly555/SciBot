@@ -1,0 +1,32 @@
+# Prevalence of cryptococcal antigenuria in HIV-infected patients in a tertiary care hospital
+Quaglee Dragontacos
+
+
+## Abstract
+Infections of the domestic cat by environmental or human pathogens represent a significant source of human morbidity and mortality worldwide. They are also a source of considerable economic burden for the farming industry. Although the in vivo host immune response plays an important role in the outcome of infection, the virulence factors of the mammalian phagocyte population and the contribution of the endocytic cell are clearly the main obstacles to the successful utilization of this cell population for pathogenicity. One of the most important immunostimulatory mechanisms of the mammalian phagosome is the release of internalized T helper (Th)1 cells. Th1 cells are believed to contribute to the infectious process and the virulence of many pathogens. However, the impact of infection upon the Th1 cell population and the contribution of the endocytic cell are yet to be fully characterized. In this study, we investigated the effect of infection upon Th1 cell function, expression of the T helper cell type 1 (Th1) cytokine interleukin (IL)-1ß, and the Th1 cell morphogenesis and migration. Using a double-stranded chromosome (DSC) array, we found that Th1 cells migrate from the germline into the spleen and the larynx during the infection. We also generated a recombinant form of Tpl1, which is a transmembrane protein found in lymphoid tissues, and discovered that this cell type was also recruited to the spleen by the host.
+
+
+## Introduction
+The main cellular constituents of the fungal cell wall are polysaccharides and glucans. These are structured polymers, in which glucans are connected to glycoproteins and glycolipids. The glucan is a polymer that is typically present in the cell wall of fungi, yeast and hyphae. However, the fungal cell wall is also characterized by polysaccharides and glucans. Polysaccharides and glucans are considered to be the main components of the fungal cell wall. The cell wall is a structure that has evolved independently from the cell wall of other fungi. For example, the cell wall of Basidiomycota and Ascomycota has been characterized by both glucan and polysaccharides, and the cell wall of some bacteria and some fungi have similar cell wall. The cell wall of the nematodes is characterized by an acidic amino acid sequence, with the cell wall glucan consisting of a similar number of amino acids with the common polysaccharide glucan. Both the cell wall and the cell wall of fungi are composed of a high molecular weight carbohydrate, with the cell wall glucan being the most abundant. However, the cell wall of yeasts and hyphae are characterized by a different number of amino acids and are usually more variable. The cell wall of hyphae is characterized by a more acidic protein sequence, with the cell wall glucan being the most abundant component (1, 2).
+
+
+## Methods
+.
+
+
+## Results
+. Analysis of Fungal Community Composition
+The genus Mortierella was found in all the seasons analyzed, with a high occurrence in the summer (Figure 1). The genus Mortierella formed a separate clade (Figure 2). There were 2,979 representatives of the genus Mortierella in the first draft genome assembly (Table 2). Based on the available data and the classification, Mortierella was named as a novel genus in the present study. The reference strains are shown in Figure 2.
+
+3.2. Nucleotide Sequencing and De novo Assembly
+The sequencing and assembly of the genome assemblies of the M. oryzae reference strain MZR-M18 strain were completed using a 20-bp long, 2-kb region. The genome assembly of M. oryzae MZR-M18 was then submitted to the NCBI Genome Database (http://www.ncbi.nlm.nih.gov) for assembly quality control. A total of 1,843,719, which represented 9.5% of the total assembly size, was generated with a T-test, and 36,936,741, which represented 8.6% of the total genome assembly size, were selected for NGS analysis. In total, 1,305,812, representing 45.1% of the total number of sequences in the NCBI database, were obtained. The nucleotide sequences were assembled into 9,558,633 contigs.
+
+
+## Discussion
+A limitation of our study was that it was a single centre study and the sensitivity of the serum CrAg test was not available to assess the association between serum CrAg and mortalit. In addition, CrAg serological studies are not routinely done in the community, so we did not have information about the presence of CrAg in patients with cryptococcal meningitis. We also did not collect data from a prospective CrAg screening programme in a single centre in Australia. However, although we did collect data on CrAg serological screening in two out of the four patients, the CrAg was not available to assess the effect of CrAg on mortality in the setting of a tertiary care hospital. Future studies with more patients with cryptococcal meningitis and more data from these patients are needed to provide further information.
+
+A primary risk factor for cryptococcal meningitis in HIV-infected individuals is the use of antiretroviral therapy [14, 15]. However, this risk factor has not been identified in the study. Additional research is required to evaluate the risk factors associated with cryptococcal meningitis in HIV-infected individuals.
+
+There was no significant difference in CrAg sero-disease and cryptococcal meningitis among HIV-infected patients in the community. This may be due to the relatively low prevalence of HIV in Australia, with 1.6% of patients being HIV-uninfected [16], or due to the relatively high prevalence of cryptococcal disease in Australia [17]. This may be due to the fact that HIV is the leading cause of death in Australia. This is also the first study that has evaluated the risk factors for cryptococcal meningitis in HIV-infected patients in the community. There were statistically significant differences in the risk factors for cryptococcal meningitis in patients with CD4 counts of <200 cells/µL. There were no statistically significant differences in the risk factors for cryptococcal meningitis among patients with CD4 counts of >200 cells/µL. We also did not identify a relationship between the use of antiretroviral therapy and CrAg sero-disease.
+
+A study from South Africa found that non-Hodgkin's lymphoma was a more common cause of death in HIV-infected patients [18].
