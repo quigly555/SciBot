@@ -1,0 +1,32 @@
+# Refractory Cryptococcal Meningitis with Necrotizing Fasciitis in a Patient with Chronic Lymphocytic Leukemia
+Quaglee Dragontacos
+
+
+## Abstract
+This review highlights the eco-friendly, multi-tissue-activity-method, antifungal, and antibacterial uses of Calcinell and its derivatives in medicinal and scientific fields. The use of these compounds in folk medicine, particularly in its purification for the treatment of fungal diseases, has received considerable attention in recent years. Calcinell has been reported to be a promising drug for the treatment of neglected tropical diseases, mainly, mycoses, leishmaniasis, and infectious diseases. The main activities of the compounds studied were coupled to the principles of pharmacotherapy. The literature study carried out so far shows that these compounds are active against a broad range of mycoses and dermatoses, with most of the activity being dose-dependent and their effects being synergistic. Most of the studies report the clinical improvement of the treated patients receiving compounds from the pharmacological source. This review mainly surveys the reported data from the various scientific databases and presents the different aspects of the research on the topic.
+
+
+## Introduction
+Cryptococcal meningitis is an opportunistic infection of the central nervous system caused by Cryptococcus neoformans and Cryptococcus gattii species [1]. The disease is characterized by the respiratory symptoms of meningoencephalitis, but also by the aggressive manifestations of the disease [2]. The disease can be life threatening [3] if it is not treated, especially in patients with impaired immunity [4].
+
+Cryptococcal meningitis is an opportunistic infection caused by Cryptococcus gattii species. The disease is typically diagnosed by imaging in the cerebrospinal fluid (CSF) and by histopathological examination of the brain microvascular spaces. The CSF examination is followed by a biopsy and a diagnosis of cryptococcosis. In most cases, infection is confirmed by histopathological examination of CSF and culture. However, the diagnosis of cryptococcosis is often not made until the patient has undergone an immunosuppressive therapy, and the cryptococcal infection is often detected in CSF [5]. A more frequent and severe presentation of cryptococcosis is fulminant fulminant meningitis. This is a rarely seen entity, and it is rarely seen in the literature. We present a rare case of fulminant fulminant cryptococcal infection in a patient with persistent cerebrospinal fluid (CSF) cryptococcal antigenemia.
+
+
+## Methods
+
+Definitions of CLL
+The diagnosis of CLL was made based on a proven and probable diagnosis of . gattii infection in a patient with CD4 count < 100 cells/µL with a score of 4 or less. The diagnosis of CLL was confirmed by polymerase chain reaction (PCR) of the CD4-62 cell count and/or the CD4 count > 200 cells/µL. The diagnosis of CLL was confirmed by a culture-confirmed C. gattii infection in a patient with CD4 count < 100 cells/µL with a score of 4 or less. The diagnosis of CLL was confirmed by a positive culture of C. gattii.
+
+Isolation of monocytes and ELISA
+Total monocyte isolation and ELISA were performed according to the Clinical and Laboratory Standards Institute (CLSI) M27-A3 protocol [39]. Briefly, CD4^+ T cells (250-350 cells/µL; PerCAP) were added to monocyte-derived mononuclear cells in 96-well plates (Greiner, Germany). The wells were incubated at 37°C for 30 min with 5% CO_2. Cells were then pelleted by centrifugation and the supernatant was removed. The supernatant was removed and the cells were lysed with 0.05% Triton X-100 and centrifuged again. The supernatant was removed and the cell lysate was removed by dialysis against phosphate-buffered saline (PBS) at 37°C for 1 h. The number of viable C. gattii cells was determined using the Cell Counting Kit (BD Bioscience, USA) following the manufacturer's protocol. The mean number of viable C. gattii cells in each well was calculated and expressed as the percentage of cells in each well (well/well) in which there were no C. gattii cells.
+
+Flow cytometry
+Lipid analysis was performed using the FlowJo 6.0 software (Treestar, USA). Briefly, C. gattii cells were incubated with RPMI-1640 (Invitrogen, USA) in phosphate-buffered saline (PBS) for 30 min at 37°C.
+
+
+## Results
+The patient presented with a progressive multifocal leukaemia with erythematous lymphadenopath. The patient was also on antiretroviral therapy at the time of the neutropenic rash. The patient was receiving an anti-fungal drug at the time of the neutropenic rash. The patient was diagnosed with lymphadenopathy by histopathology and a pulmonary inflammatory cell infiltrating the lung. The patient had a neutropenia of mild to severe mucosal inflammation. The patient was receiving an anti-fungal drug at the time of the neutropenic rash. The patient had a fever and cough at the time of the neutropenic rash. The patient had a multifocal leukaemia with erythematous lymphadenopathy. The patient was receiving an anti-fungal drug at the time of the neutropenic rash. The patient was receiving anti-fungal drug at the time of the neutropenic rash. The patient had a fever and cough at the time of the neutropenic rash. The patient had a fever and cough at the time of the neutropenic rash. The patient was receiving an anti-fungal drug at the time of the neutropenic rash. The patient had a fever and cough at the time of the neutropenic rash. The patient had a multifocal leukaemia with erythematous lymphadenopathy. The patient was receiving anti-fungal drug at the time of the neutropenic rash. The patient was receiving an anti-fungal drug at the time of the neutropenic rash. The patient was receiving anti-fungal drug at the time of the neutropenic rash. The patient had a fever and cough at the time of the neutropenic rash. The patient had a multifocal leukaemia with erythematous lymphadenopathy. The patient was receiving an anti-fungal drug at the time of the neutropenic rash. The patient had a fever and cough at the time of the neutropenic rash. The patient was receiving an anti-fungal drug at the time of the neutropenic rash.
+
+
+## Discussion
+The O-SOD was found to be the most potent estrogenic sterol for the first time in mammalian cells. This was unexpected as the O-SOD was previously thought to be a biosynthetic sterol that did not synthesize any sterols [26].
