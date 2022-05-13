@@ -1,0 +1,32 @@
+# Gene dynamics in the dynamic intein-inhabiting fungus Trichoderma visci
+Quaglee Dragontacos
+
+
+## Abstract
+In this study we present the draft genome sequence of Trichoderma reesei, the most important industrial producer of chitosan (CPN) for use as a biorefinery for production of chitosan-based food ingredients. Comparative sequence analysis of the trichoderma transcriptome provides a framework for comparative and phylogenetic studies of this important crop. Comparative analyses of gene expression differences between Trichoderma and related yeasts suggested that gene expression is strongly affected by the substrate available substrate for growth. The present study also identifies and characterizes putative substrate binding regions (TBB and TBB-binding regions) of Trichoderma spp. including its main substrate, CBM, that have potential applications in food, biotechnological, and human food industries. A novel substrate binding prediction tool was developed to predict substrate binding regions of Trichoderma and related species. The tool, Agricultura Hortaea Tablea, is presented as a trade format focusing on previously published predictions of substrate binding regions for the two species.
+
+
+## Introduction
+.
+
+
+## Methods
+Briefly, a small amount of yeast cells were grown in liquid medium at room temperature (25°C) for 24 . Then, the media was collected and the intracellular dye was removed by ultracentrifugation (15,000 × g for 20 min, 40,000 × g for 30 min). The cells were resuspended in an equal volume of PBS containing protease inhibitors (100 µg/ml in PBS) and lysed by bead beating with a Mini-Beadbeater-16 (Bio-Rad, Hercules, CA, USA). The cell lysates were incubated with proteinase K (50 µg/ml in 50 mM Tris, pH 8.0) for 1 h at 37°C, followed by incubation with Protein A (500 µg/ml in 50 mM Tris, pH 8.0) for 4 h at 37°C. The lysate was transferred to a new tube and centrifuged at 10,000× g for 10 min. The supernatant was collected and the protein concentration was determined using the Bradford method.
+
+In vitro drug susceptibility testing of the drug-susceptible Aspergillus strains
+The Aspergillus strains used in this study are listed in Table 1. The inoculated yeast cells were cultured at 37°C for 24 h in yeast-extract-peptone-dextrose (YPD) broth (BD, Sparks, MD, USA) supplemented with 0.2% gelatin (Gibco, Life Technologies, Carlsbad, CA, USA) and were harvested by centrifugation at 10,000× g for 10 min. The cells were washed with PBS (0.85%), adjusted to an OD_600 of 0.1, and stored at -80°C. The Aspergillus strains were maintained on YPD agar plates for the required period.
+
+Phagocytosis assay
+The fungal cells were counted using a hemocytometer. The number of fungal cells per 100 µl of culture was determined by counting after inoculation of 5 µl of RPMI-1640 (Sigma-Aldrich, St. Louis, MO, USA) in RPMI-1640 medium with 10% heat-inactivated FBS and 1% penicillin-streptomycin.
+
+
+## Results
+The vesicle size of the <U+0394>xrA strain was significantly smaller than that of the wild-type (Fig 4C, Supplementary Table 3), indicating that the intracellular vesicles have been deforme. To investigate the importance of these vesicles during the fungal infection, we stained the wild-type and <U+0394>xrA strains with the FITC-labeled exogenous cell marker MitoTracker Red. The MitoTracker Red stain was used as a positive control to identify exogenous cell markers. The <U+0394>xrA strain was also stained with the MitoTracker Red stain (Fig 4D, left panel). The MitoTracker Red stain can stain MitoTracker Red-labeled cells, but not other cell markers, which can be used as a negative control for detection of MitoTracker Red-labeled exogenous cell markers [15]. MitoTracker Red-labeled exogenous cell markers are also used to identify MitoTracker Red-labeled exogenous cell markers [15]. We then stained the wild-type and <U+0394>xrA strains with the FITC-labeled exogenous cell marker FITC-streptavidin. We observed the FITC-labeled exogenous cell marker FITC-streptavidin to be present in all strains, while the <U+0394>xrA strain was more frequently stained with the MitoTracker Red stain. These results are consistent with the hypothesis that the intracellular vesicles are maintained in the cell and that the intracellular vesicles have been degraded in the <U+0394>xrA strain. These results are also consistent with the hypothesis that the intracellular vesicles have been degraded in the <U+0394>xrA strain. These data indicate that the intracellular vesicles in the <U+0394>xrA strain have been degraded in the exogenous cell.
+
+
+## Discussion
+The presence of these genes was reported by others, in particular the putative PTH domain homolog of the MTL family, which is highly expressed in . neoformans and C. gattii [45]. In this context, we highlight the importance of intein-inhabiting genes in the evolution of the trait of eukaryotic genes. The study of intein-inhabiting genes suggests that their frequency increases as the trait of eukaryotic genes increases, and the emergence of this trait is likely to be driven by an increase in intein-inhabiting genes.
+
+The results presented in the present study show that in all eukaryotic lineages, the presence of inteins was related to the presence of the mating type locus (MTL). It is important to note that intein-inhabiting genes are highly expressed in C. neoformans and C. gattii, and this observation is in line with the observation that C. neoformans and C. gattii genes encode homologs of sex-determining genes in other fungal species [27]. In addition, the presence of intein-inhabiting genes in several species of fungi, such as C. neoformans, C. gattii, and A. fumigatus, supports the notion that the intein-inhabiting gene clusters were present in the evolution of the mating type locus in these species, as well as in other fungal species. Thus, the results of our study suggest that the presence of inteins in the evolution of the mating type locus in these species is linked to the presence of intein-inhabiting genes.
+
+In addition to the presence of intein-inhabiting genes, the presence of gene clusters related to other genes of the sex chromosome and other genes involved in the mating process, such as those related to the mating-type locus, as well as the sex-determining locus, have been reported by others, for example, [48], [49]. The discovery of a set of genes that encode a MAT-associated gene in the progenitor of the sexual cycle in C. neoformans and C.

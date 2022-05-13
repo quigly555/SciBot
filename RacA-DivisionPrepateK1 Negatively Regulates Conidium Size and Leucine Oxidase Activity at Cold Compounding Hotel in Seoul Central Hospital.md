@@ -1,0 +1,31 @@
+# RacA-DivisionPrepateK1 Negatively Regulates Conidium Size and Leucine Oxidase Activity at Cold Compounding Hotel in Seoul Central Hospital
+Quaglee Dragontacos
+
+
+## Abstract
+Cryptococcus gattii (Group B species) contains three phylogenetically distinct groups, namely C. gattii, C. neoformans and C. deneoformans. These pathogens are frequently exposed to the ionizing radiation of neutrons, and are therefore highly drug resistant. In this study, we used in situ hybridization assays to gain insight into the roles of these ionizing radiation systems in pathogen transmission. In addition, we conducted in situ transcriptome analysis in the presence of melanin and in the absence of melanin. Analyses of the genes and pathways regulated in the presence of melanin revealed that melanin specifically targets cell wall degrading enzymes that transmit ionizing radiation radiation signals to the nucleus, and those that are involved in metabolism, especially in melanin biosynthesis. Furthermore, we found that melanin protects the fungus against neutrophils and macrophages, and in contrast, melanin is not involved in virulence. Our results suggest that melanin is not required for radiation exposure by C. gattii.
+
+Cryptococcus gattii is a deadly fungal pathogen that infects immunocompromised patients. The fungus is found in all major geographic areas of North America, South America, and Europe. Outbreak strains were first described in the Pacific Northwest of Canada in the late 1980s, and then in the temperate regions of the United States, and the first reported presence was documented in Oregon. Isolates from Mexico and other regions were previously identified as C. gattii, but molecularly, genetic and morphologically similar to C. neoformans have been rarely reported. Recent collections of C.
+
+
+## Introduction
+Fungi are a major source of bioavailable nutrients and habitat in a vast range of terrestrial ecosystems and are among the most abundant bioactive groups in nature (Brown et al., 2012). As well as being opportunistic saprophytes, fungi are also important pathogens of plants, animals, and other vertebrates (Rossi et al., 2007). They have the ability to accumulate phenolic compounds (e.g., sterols) that are involved in the synthesis of various types of compounds, such as lipids, sterols, polysaccharides, and cell wall polysaccharides (Cerri et al., 2004; Ramirez et al., 2005; Perlin et al., 2007). These compounds are often used as a starting material for the development of new therapeutic approaches, such as anti-fungal drugs (Joffe et al.
+
+
+## Methods
+The experiment was performed in accordance with the manufacturer’s instruction. Conidium size (conidia/conidial) was measured in a 0.8 cm × 0.2 cm assay plate with a Coulter 2425 C18 100 µm molecular-scale UV-visible spectrophotometer (Bio-Rad, Hercules, CA, USA) using the Bio-Rad C.H. Reader software (Bio-Rad, Hercules, CA, USA). The assay plates were incubated at 30°C for 24 h, and conidia/conidial count were counted. The total fluorescence intensity (t), which represents the fluorescence intensity of the cells, was calculated using the software ImageJ version 1.47 (http://rsb.info.nih.gov/ij/).
+
+2.3. Measurement of Determination of Glucuronoxylatric Peroxides and Total Glycerol Content
+Total sugar, glycerol, and acetate content (glycerol content) was measured according to the method of Peeters et al. [18]. The method consists in the addition of glucose to the diethylpyruvate (DNP) (10% w/v) and to the diethylsorbitol (DSS) (0.2% w/v) to a final concentration of 0.025% (w/v). The final concentrations of the DNP and DSS are 1.0, 2.0, 2.5, and 3.0% (w/v) and 0.025% (w/v), respectively. Glycerol content (glycerol/glycerol/acetic acid content) was measured using the method of Cramer et al. [19]. The method consists in the addition of 0.5% (w/v) DNP and 0.5% DSS. The final concentrations of DNP and DSS are 0.5, 0.75, 0.75, and 0.75% (w/v), respectively. Glycerol content (glycerol/glycerol/acetic acid content) was measured using the method of Giannopidis et al. [20]. The method consists in the addition of 0.5% (w/v) DNP and 0.5% DSS. The final concentrations of DNP and DSS are 0.5, 0.75, 0.
+
+
+## Results
+luteus LAC/. luteus are strongly ovoid, and as such the shape of the conidial dimensions are not well defined. The shape of conidial dimensions is an important factor in the formation of the typical hyphal and mucilaginous structures in vitro [35]. In order to assess the influence of the mycelial size of M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M. luteus LAC/M.
+
+
+## Discussion
+Molecular identification of the type strain of the ascomycete fungus M. oryzae
+The type strain of M. oryzae was collected in Japan and a molecular characterization was performed. The phylogenetic tree of the sequence of the genomic DNA of the type strain was supported by phylogenetic analyses (Fig 1). The molecular identification of the species M. oryzae was based on a single ITS sequence, which was obtained from a collection of the species in the genus M. oryzae. The molecular sequence of the type strain was deposited in GenBank under the accession number JX374964. The type strain was designated M. oryzae as the type strain.
+
+Genetic analysis of the type strain
+The MATa and MATa-1 strains of M. oryzae were obtained using MATa and MATa-2 as the reference loci. The strains of M. oryzae were identified as M. pachydermatis (MATa-2) and M. oryzae as M. schmalensis. In addition, the strains of M. schmalensis were identified as M. sympodialis, M.

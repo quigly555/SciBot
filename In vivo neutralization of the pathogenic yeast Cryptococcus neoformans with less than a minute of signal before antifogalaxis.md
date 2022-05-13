@@ -1,0 +1,44 @@
+# In vivo neutralization of the pathogenic yeast Cryptococcus neoformans with less than a minute of signal before antifogalaxis
+Quaglee Dragontacos
+
+
+## Abstract
+Here we show that the inositol transporters Dectin-1 and Mucor circinelloides 1,3,4,3,4A, and Mucor s. 1,2,3,4,3E are essential for the growth and virulence of C. neoformans. The inositol transporter mutants <U+0394>docrin1, <U+0394>drinkydendrovent (DRV), <U+0394>drinkydendrovent (DRVd), and <U+0394>drvdrv.5 and <U+0394>drvdrv.6 were more virulent in murine kidneys than wild-type C. neoformans, but wild-type DRV strain <U+0394>drvdr.drv was as pathogenic in kidneys as wild-type DRV strain <U+0394>drv.drv. DRVd mutants were more resistant to hydrogen peroxide in serum than wild-type DRV, but wild-type DRV strain <U+0394>drvdr.drv was as pathogenic in kidneys as wild-type DRV strain <U+0394>drv. DRVd mutants were equally more virulent as DRVd strains <U+0394>drvdr. DRVd mutants were also more susceptible to hydrogen peroxide in serum than wild-type DRV, but wild-type DRV strain <U+0394>drv.drv was as pathogenic in kidneys as wild-type DRV strain <U+0394>drv. DRVd mutants were also more resistant to heat shock in serum than wild-type DRV, but they were as pathogenic as wild-type DRV strains <U+0394>drv. DRVd mutants were also more resistant to azole in serum than wild-type DRV, but they were as pathogenic as wild-type DRV strains <U+0394>drv. In vitro host cell immunoprecipitation assays demonstrated that DRV, DRVd, and DRVd strains were immunoprecipitated to a single antigen in the absence of the major fungal component in the fungal cell wall.
+
+
+## Introduction
+The Centers for Disease Control and Prevention (CDC) of the states of the world, including Mexico, Puerto Rico, United States, and Canada, are the leading source of vector-borne pathogens responsible for outbreaks in healthcare institutions, especially in Mexico. In 2016, the total number of HIV-associated cryptococcal meningitis cases reported in the United States was 17,287, with an estimated incidence of 223 per 100,000 inhabitants (1.4 per 100,000), with an incidence in Canada ranging from 5 to 10 cases per 100,000 people (1.3 per 100,000). The United States was the third leading source of cases of cryptococcal meningitis in this study (2).
+
+Cryptococcosis is caused by two species, Cryptococcus neoformans and Cryptococcus gattii. C. neoformans is a soilborne, human-to-human ubiquitous pathogen with a worldwide distribution and a high frequency of HIV infection. C. neoformans causes disease predominantly in immunocompromised patients, while C. gattii is primarily a pathogen of immunocompetent individuals (3). The major molecular types, VNI and VNII, are responsible for cryptococcosis, while the other molecular types comprise VNB and VGII (4).
+
+C. neoformans is divided into two molecular types, C. neoformans var.
+
+
+## Methods
+neoformans isolated from the nasal cavity was used in the present study to evaluate the safety of the tested agent. The microconidial strain was grown in Sabouraud dextrose broth (SDB) at 37°C for 7 days. Then, the mycelium was harvested by filtration, washed twice with sterile water and re-suspended in the same solution. This suspension was shaken in sterile water at a speed of 350 rpm for 30 min. Then, the mycelium was immediately ground with a mortar and pestle. The powder was suspended in sterile water and serially diluted. The resulting number of CFU was expressed as a mean of three independent experiments.
+
+Antifungal susceptibility testing
+The minimum inhibitory concentration (MIC) of a tested compound was determined using the microdilution method with modifications. A. fumigatus isolate ATCC 10231, obtained from the American Type Culture Collection (ATCC), was used for the susceptibility testing. A. fumigatus ATCC 10231 was grown on Sabouraud dextrose agar (SDA) slants at 37°C for 7 days and then the mycelium was harvested by filtration, washed twice with sterile water and re-suspended in sterile water. This suspension was shaken in sterile water at a speed of 350 rpm for 30 min. Then, the mycelium was immediately frozen at -20°C and re-suspended in PBS, which was then serially diluted and plated on SDA at 37°C for 24 h. The plates were incubated at 37°C for 48 h and the MIC value was determined as the lowest concentration of the tested compound that prevented further growth.
+
+Antifungal activity of the antifungal drugs against C. neoformans
+The antifungal activity of the tested compounds against C. neoformans was tested in accordance with the previously described method [20]. Briefly, C. neoformans ATCC 10231 was grown in SDB for 7 days at 37°C. Then, the mycelium was harvested by filtration, washed twice with sterile water and re-suspended in PBS. This suspension was shaken in sterile water at a speed of 350 rpm for 30 min.
+
+
+## Results
+neoformans was incubated with 50% L-NAME as the antifogalant agent, the serum from the experimentally infected patient showed a small increase in the peak antigen titers of about .25 fold (Figure 2B). This is in line with the observed increases in antigen titers in serum from the experimentally infected patient.
+
+The increasing increase in antigen titers in serum from the experimentally infected patient is not due to increased serum C. neoformans antigen levels, but is due to a decrease in the serum C. neoformans antigen titers (Figure 2C). We believe that the increase in serum C. neoformans antigen titers in serum is due to an increase in the degree of serum C. neoformans antigen production in the serum from the experimentally infected patient. In addition, the change in the degree of serum C. neoformans antigen titers is in line with the increase in serum C. neoformans antigen titers in serum [30].
+
+The increase in serum C. neoformans antigen titers in serum is due to the change in the degree of C. neoformans antigen production in the serum from the experimentally infected patient
+The serum of the experimentally infected patient showed a decrease in the peak antigen titers of about 2.5 fold in the serum C. neoformans antigen titers in serum in the presence of 50% L-NAME as the antifogalant agent (Figure 3A). This is in line with the observed increase in the peak antigen titers in serum from the experimentally infected patient.
+
+The increase in serum C. neoformans antigen titers in serum is due to a decrease in the degree of C. neoformans antigen production in the serum from the experimentally infected patient
+The serum from the experimentally infected patient showed a decrease in the peak antigen titers of about 2.5 fold in the serum C. neoformans antigen titers in serum in the presence of 50% L-NAME as the antifogalant agent (Figure 3A). This is in line with the observed decrease in the peak antigen titers in serum in the experimentally infected patient.
+
+The increase in serum C. neoformans antigen titers in serum is due to the decrease in the degree of C.
+
+
+## Discussion
+The results of the present study also provide an example of a Th17 cell subset that contributes to protection against invasive Cryptococcus infection, as shown in our previous study [35. In contrast to the previously described IL-17A and IL-17P response to intracellular cryptococcal infection, the presence of a Th17 cell subset in the lungs of mice infected with Cryptococcus neoformans (and not with Cryptococcus neoformans alone) led to a decreased proliferation and reduced production of IL-17A and IL-17P in the lungs of infected mice [33]. The absence of the Th17 cells in the lungs of infected mice did not correlate with the severity of disease, however, and the mice’ survival was found to be significantly reduced in mice that were Th17-deficient [34]. The present study found that Th17 cells were involved in protection against Cryptococcus infection, and the differences in the presence of Th17 cells between infected and control groups were found to be significant. However, this is a first demonstration of a significant contribution of Th17 cells to protection against invasive Cryptococcus infection in the lungs of infected mice.
+
+IL-17A is a major cytokine that is important for the production of IL-17R in response to infection and protection against Cryptococcus infection in vitro [36, 37]. In addition, IL-17 is also involved in the protection against invasive Cryptococcus infection in vivo [39]. In this study, we found that the Th17 cells that were present in the lungs of infected mice, but not in control mice, had a significant effect on the Th17 cell response and survival. Th17 cells are required for protection against invasive Cryptococcus infection in vitro [40]. In addition to Th17 cells, we found that the Th17 cells that were present in the lungs of infected mice were differentially expressed in response to intracellular cryptococcal infection.

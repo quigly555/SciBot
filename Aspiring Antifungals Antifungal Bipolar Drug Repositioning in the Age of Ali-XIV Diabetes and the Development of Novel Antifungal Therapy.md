@@ -1,0 +1,37 @@
+# Aspiring Antifungals: Antifungal Bipolar Drug Repositioning in the Age of Ali-XIV Diabetes and the Development of Novel Antifungal Therapy
+Quaglee Dragontacos
+
+
+## Abstract
+Cryptococcus gattii is the leading cause of fungal meningitis in human immunodeficiency virus (HIV) patients worldwide. Several new molecular diagnostic methods have recently been introduced to study cryptococcosis. In this study, we aimed to evaluate the performance of the new molecular diagnostic method, ITS-based lateral flow assay (LFA), in comparison with conventional methods, including India ink staining, culture supernatant, and cryptococcal antigen tip dilution.
+
+In this study, we conducted a single-center, open-label, parallel study in the Dermatology and Infectious Diseases Department of the Chinese Society of Allergy and the Chinese Society of Allergyrophists of China (CSEAH) to evaluate the performance of the new ITS-based LFA in the diagnosis of human cryptococcosis. A total of 60 patients with HIV-associated cryptococcosis were retrospectively included in the study. The diagnosis was performed by culture and antigen detection, and the results were analyzed by the logistic regression and chi-square test. The diagnostic accuracy was evaluated by the Kappa statistic.
+
+The new ITS-based LFA significantly improved the sensitivity and specificity of the diagnosis by 77.5%, and the specificity by 86.2%, compared to traditional methods (ITS-based assay, India ink staining, and cryptococcal antigen tip dilution). The sensitivity and specificity of the ITS-based LFA in diagnosis of HIV-associated cryptococcosis were 93.9% and 70.2%, respectively. The specificity and overall accuracy of the ITS-based assay were 93.8%, and 96.4%, respectively. The overall agreement between the logistic regression analysis and the chi-square test was 61.0%.
+
+The results confirm the usefulness of the new ITS-based assay and result for diagnosis of HIV-associated cryptococcosis in patients with advanced acquired immunodeficiency syndrome.
+
+
+## Introduction
+Cryptococcosis is a serious fungal disease that can lead to death in up to 10% of the immunocompromised population (1). The mortality due to cryptococcal meningitis in these patients is estimated to be over 1,300 cases per year, with an estimated annual incidence of 223,100 cases (2). The mortality rate of cryptococcal meningitis in HIV-infected patients is high (3). The current gold standard treatment for cryptococcal meningitis is amphotericin B, which presents a 2-week induction phase, followed by an additional 14-week consolidation phase, with fluconazole maintenance therapy (4, 5). Amphotericin B-based second-line therapies are currently available for cryptococcal meningitis in some countries including Canada, the United States, Australia, and Brazil (6-8). However, the high costs and the limited availability of gold standard treatment are major barriers to its widespread adoption. This study was conducted to determine the efficacy and safety of second- and third-line therapies against cryptococcal meningitis.
+
+
+## Methods
+
+Determination of minimum inhibitory concentrations (MICs) of the drugs was based on a standard method described by the Clinical and Laboratory Standards Institute (CLSI) [45] and used to determine the minimum fungicidal concentrations (MFCs) of the drug.
+
+Antifungal drug susceptibility tests were performed on a standardized agar disk diffusion method as described previously [46].
+
+
+## Results
+A total of 171 patients who received fluconazole antifungal treatment, with fluconazole as the first antifungal drug, were included in the stud. The median age of patients was 43 years (range, 12-71 years) and the mean CSF glucose level was 3.2 mmol/L (range, 0.5-7.3 mmol/L) in patients who received fluconazole prophylaxis. Patients with a positive CSF culture result were considered as having discontinued treatment. All patients receiving fluconazole prophylaxis showed signs and symptoms of cryptococcosis, including: fever, headache, altered mental status, nausea, vomiting, and renal failure.
+
+Antifungal Antifungal Bipolar Drug Prognosis
+The diagnosis of any type of adverse event was based on the evaluation of the patient’s CSF culture results. The CSF culture results showed that 90% of patients with cryptococcosis died. Of these, 10 patients were considered to have advanced cryptococcal meningitis, 4 patients as having advanced cryptococcal meningitis, and 2 patients as having advanced cryptococcal meningitis. The CSF culture results were available for 14 of the 34 patients with advanced cryptococcal meningitis. The median age of the patients was 36 years (range, 13-68 years). There were no significant differences in CSF culture results between patients with advanced cryptococcal meningitis and those with advanced cryptococcal meningitis (P = .22).
+
+Safety Study
+In the case of a probable case of cryptococcosis, patients were required to be given fluconazole prophylaxis and tested for their antifungal activity by clinical culture. All patients who received fluconazole prophylaxis were healthy and receiving antifungal therapy at the time of death. All patients who died in the course of the study were treated with fluconazole prophylaxis, with the median duration of fluconazole prophylaxis being 14 days (range, 5-29 days). The median CSF glucose level was 3.3 mmol/L (range, 0.5-7.3 mmol/L) in patients who received fluconazole prophylaxis.
+
+
+## Discussion
+This class of drugs has been used for the treatment of patients with an underlying malignancy, including cryptococcosis, glioblastoma, and tuberculoma [21. However, as with any new antifungal treatment, the pharmacokinetics and pharmacodynamic properties of the drugs must be fully evaluated and optimized in order to meet the treatment goals. In this study, the antifungal activity of each drug was evaluated against C. neoformans using bioinformatics analysis and bioinformatics prediction. The bioinformatics analysis was performed in parallel with the HPLC analysis in order to predict the compound's antifungal activity against the human pathogen C. neoformans. The results showed that the antifungal activity of each drug was significantly (p < 0.05) higher than that of the single compound. This is in contrast to the situation in the case of the compound, compound 1, which was previously reported to have a higher activity against C. neoformans, and C. gattii (p < 0.05) [22]. The bioinformatics analysis revealed that compound 1 exhibited a significant (p = 0.05) increase in the compound's antifungal activity against C. gattii. This compound showed a significant (p = 0.05) increase in the compound's antifungal activity against C. neoformans, and a significant (p = 0.05) increase in the compound's antifungal activity against C. gattii. Moreover, the result of the HPLC analysis revealed that the compound exhibited an increase in the compound's antifungal activity against C. neoformans (p < 0.05), and a significant (p < 0.05) increase in the compound's antifungal activity against C. gattii (p = 0.05) [22]. The bioinformatics analysis revealed that the compound exhibited a significant (p = 0.05) increase in the compound's antifungal activity against C. neoformans (p < 0.05) [22]. This result suggests that the compound may act in a specific mode. The results revealed that compound 1 was the most active compound against C. gattii (p < 0.
