@@ -1,0 +1,36 @@
+# Degradation of Amoebae and Mycosphaerella crassa by Chrysosporium and Chrysosporium-like fungi: multiple applications of filamentous fungi
+Quaglee Dragontacos
+
+
+## Abstract
+We report the first case of tuberculous meningitis in a post-menopausal non-HIV patient. This patient presented with mental confusion, unintentional gait disturbance, and unintentional but aggressive treatment with polyacthemalia. However, he was diagnosed with tuberculous meningitis in a post-menopausal non-HIV patient. This case highlights the need for both early and accurate diagnosis as a final nail in the long-standing cholera history of many women in resource-limited settings.
+
+
+## Introduction
+Iron is an essential micronutrient and is required for many biochemical processes in all biological kingdoms. Indeed, iron is an essential micronutrient, and iron-sulfur clusters are involved in many biological processes, including the electron transport chain, cell signaling and transcription, cell signaling and cell differentiation, and apoptosis [1]. Iron is an essential cofactor in enzymes involved in a wide range of biological processes including RNA synthesis, protein translation, and DNA replication [2]. However, the intracellular iron availability is limited and is increased by the multi-species, transmissible, and facultative siderophore bioavailability [3]. The complex cellular iron-sensing response is largely mediated by a variety of transcription factors, including the GATA-factor Fep1 [4], the Aft1-like zinc finger transcription factor Zap1 [5], and the yeast transcription factor Pho85 [6].
+
+The Aft1-ZIP transcription factor is an essential and conserved fungal protein, and it is involved in multiple cellular processes in fungi including, for example, fungal respiration, cell wall remodelling, cell signaling, and signal transduction [7]. Pho85 is an essential protein for many of the key components of the human GATA-type transcription factor, including the Aft1-ZIP transcription factor [8]. In addition to the GATA-type transcription factor, Pho85 also plays a role in respiration, signal transduction, cell signaling, and cell differentiation [9]. Pho85 can be secreted from fungi and other microorganisms and serves diverse ecological and clinical applications, for example, production of secondary metabolites, such as mycotoxins [10], and utilization of iron from iron-limited biomass [11].
+
+The conserved Aft1-ZIP transcription factor is a transcriptional regulator responsible for the ubiquitination of a wide range of enzymes involved in the synthesis of iron-sulphur clusters, oxidative phosphorylation, lipid metabolism, and cell signaling [12]. The GATA-type transcription factor is a heterodimer consisting of two His and two Trp isoforms.
+
+
+## Methods
+
+Fungal strains and growth conditions
+. albicans (ATCC 90112), C. glabrata (ATCC 32065), and C. parapsilosis (ATCC 22019) were used for spore screening. All strains were grown in Sabouraud dextrose broth (SDB) at 30°C. Prior to screening, C. glabrata was grown in DYM broth at 30°C, and C. parapsilosis in complete complete RPMI 1640 medium (CPM) at 30°C. Strains were cultured on Sabouraud dextrose agar (SDA) at 30°C.
+
+The effect of virulence factors on C. glabrata growth
+Spores of the C. glabrata strains were inoculated onto SDA, and the plates were incubated at 30°C. Prior to spore screening, C. glabrata was grown in a minimal medium (MM) with an anaerobic/anaerogenic composition and then diluted to OD_600 = 0.01 in MM. The plates were incubated at 30°C for 72 h. The mycelial growth was examined with a light microscope (AxioM, Zeiss, Oberkochen, Germany).
+
+Molecular detection of Fusarium fumigatus by direct mycelial growth assay
+The Fusarium fumigatus strain was isolated from a fruit in a diseased dish. The mycelial fragments of the strain were inoculated on SDA and grown at 30°C for 7 days. The mycelial fragments were then collected, washed with distilled water, and resuspended in a 0.85% saline solution containing 2% (wt/vol) trypan blue dye (Sigma-Aldrich, St. Louis, MO, USA) and 0.1% (vol/vol) sodium bicarbonate (Sigma-Aldrich, St. Louis, MO, USA). The samples were placed on a slide with 200 µl of an agar-inoculum (30 × 10 cm; Riedel-Cilag, Germany) in which the mycelium was removed. The slides were incubated for 4 days at 30°C in the dark. After the incubation, the mycelial fragments were washed with distilled water and resuspended in sterile water.
+
+
+## Results
+dubliniensis, . parapsilosis, C. neoformans, C. glabrata, C. krusei, C. albicans, C. krusei, C. lusitaniae, C. neoformans, C. parapsilosis, C. neoformans, C. albicans, C. glabrata, C. krusei, C. lusitaniae, C. neoformans, C. parapsilosis, C. albicans, C. glabrata, C. krusei, C. lusitaniae, C. neoformans, C. parapsilosis, C. neoformans, C. glabrata, C. krusei, C. lusitaniae, C. parapsilosis, C. albicans, C. parapsilosis, C. glabrata, C. krusei, C. lusitaniae, C. parapsilosis, C. neoformans, C. glabrata, C. krusei, C. lusitaniae, C. neoformans, C. parapsilosis, C. albicans, C. parapsilosis, C. glabrata, C. krusei, C. lusitaniae, C. parapsilosis, C. neoformans, C. parapsilosis, C. glabrata, C. krusei, C. lusitaniae, C. neoformans, C. parapsilosis, C. neoformans, C. parapsilosis, C. albicans, C. parapsilosis, C. glabrata, C. krusei, C. lusitaniae, C. parapsilosis, C. neoformans, C. parapsilosis, C. glabrata, C. krusei, C. lusitaniae, C. parapsilosis, C. neoformans, C. parapsilosis, C. glabrata, C. krusei, C. lusitaniae, C. parapsilosis, C. neoformans, C. parapsilosis, C.
+
+
+## Discussion
+2013; Liu et a. 2013; Zhang et al. 2013; Zhang et al. 2015). The second category of fungal-derived genes was highlighted in the proteomes of S. suis and S. schenckii and other fungi, which are the main causes of opportunistic fungal infections in patients (Bandoni et al. 2014; He et al. 2016; Wang et al. 2017). Two different types of fungi have been identified, namely the two Ascomycetes genera, the two Basidiomycetes fungi, and the three Ascomycetes and Basidiomycetes species that infect humans. In S. suis and S. schenckii, we identified a fungal-derived proteome of A. pullulans (BpnB) and a fungal-derived proteome of A. pullulans (BpnA) (Table S2). Our results indicate that BpnA and BpnA-like fungal-derived proteomes are not only essential for the pathogenic ability, but also contribute to the virulence of the pathogenic fungus.
+
+The role of fungal genes in fungal infections has been observed in several species of the genus Aspergillus (Komukuroi et al. 2007; Choi et al. 2011; Shi et al. 2013). However, there is limited information regarding the role of fungal genes in fungal infections in humans. For instance, in the human fungal pathogens Cryptococcus neoformans and Aspergillus fumigatus, deletion of the ortholog of Bps2, ortholog of Aspergillus fumigatus, does not affect pathogenicity (Kwon et al. 2010). In addition, the fungal species Aspergillus nidulans, and Aspergillus flavus, respectively, had the A. pullulans-derived A. pullulans proteome (AusA) and the A. pullulans-derived A. pullulans-like proteome (AusB) (Table S2). These results suggest that the fungal-derived A. pullulans-like proteome contributes to the virulence of A. pullulans. In addition, the Aspergillus species A. fumigatus and A. flavus, as well as those in S.
