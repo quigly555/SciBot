@@ -1,0 +1,40 @@
+# Candida albicans T-27 Cell Cytokine Type I Mediate Antifungal Drug Deposition, and Clinically Enhanced Fungicidal Activity Against MDR Spoilage Drug Resistant Antigens
+Quaglee Dragontacos
+
+
+## Abstract
+A 49-year-old female presented with cough, night sweats and anorexia and had been diagnosed with cryptococcal meningitis in the past. She had been taking fluconazole at the Pharmacopoeia class. Her symptoms improved with fluconazole infusion but she then developed fever and had suffered anorexia. Magnetic resonance imaging of the brain showed destruction of macrophage mitochondria and increased T-cell count. Histopathology of the brain biopsy revealed multiple round tumors with mitochondria and a malignant tumor in situ. A combination chemotherapy and immunosuppressive therapy was initiated and her symptoms improved. Immunosuppressive treatment for cryptococcal meningitis included amphotericin, voriconazole, posaconazole, flucytosine and terbinafine as well as regimens of methyl-inositol blue therapy. Her symptoms improved and she was started on high-dose lumbar and ventriculo-pulmonary amphotericin B. The combination of high-dose fluconazole, high-dose voriconazole and high-dose lumbar dilation was felt to be the most effective protocol. Follow-up examinations regularly revealed a non-favorable malignant transformation in skin lesions in addition to the transformation of the tumor in the brain biopsy. This case illustrates the importance of a thorough evaluation of a differential diagnosis of cryptococcal meningitis and the necessity of considering combination antifungal therapy when considering treatment of cryptococcal meningitis.
+
+
+## Introduction
+Vitamin D is an essential micronutrient that plays a crucial role in the cellular processes of nutrition and metabolism. The physiological status of vitamin D depends on the number and type of circulating vitamin D (VDD) in the circulating organism. In healthy individuals, vitamin D levels typically are comparable to the levels of circulating vitamin D (VD), and this vitamin D is found in a variety of tissues and forms of cells, including the bone marrow, liver, spleen, gastrointestinal tract, and skin [1,2]. However, excessive levels of vitamin D may lead to disorders such as asthma, myalgias, and skin diseases [3]. In addition to being found in the skin and the gut, vitamin D is also found in other organs such as the respiratory and circulatory system and is found in the blood [4,5]. In addition to the body, vitamin D is also found in other cells of the organism, such as neurons and chromatin, and in different tissues, such as the mitochondria, mitochondria from blood, mitochondria from the respiratory chain, and mitochondria from outer tissues. For instance, in the respiratory chain, vitamin D is found in the mitochondrial respiratory chain [6,7] and the arachidonic acid pathway [8].
+
+The significance of vitamin D in the regulation of cellular processes has been well established. Recent studies have shown that vitamin D has an important role in regulating the cellular response to different environmental conditions. For example, in mice, vitamin D is required for the development of lung cancer [9], and vitamin D deficiency causes an increased susceptibility to infection by C. neoformans [10]. Although, this study shows that vitamin D is a potent agent for fungal infections in human lungs, the role of vitamin D in this process is still not fully understood.
+
+To better understand the physiological role of vitamin D in the regulation of the lung response to a variety of environmental conditions, we investigated the role of vitamin D in the development of lung diseases.
+
+
+## Methods
+
+MDR assay
+MDR assay was performed by the “MDR cytotoxic assay” metho. Briefly, MDR was prepared by adding MDR (3.2 mg/mL in DPBS) to the supernatant of a 96-well plate (4 mL per well) with or without antifungal drugs, and then incubation at 37°C for 30 min, and then centrifuged at 1000×g for 10 min to remove non-adherent cells. The supernatant was discarded and the MDR solution was replaced with DPBS. The absorbance of the supernatant was measured at 540 nm. The results were expressed as mg/mL.
+
+Determination of cell viability
+The cytotoxic effect of MDR on MDR viability was determined as described previously [19]. Briefly, the MDR assay was performed at an OD_600 = 0.1 in 96-well plates (Costar) in RPMI 1640 medium (Invitrogen) supplemented with 10% heat-inactivated FBS and 1% penicillin/streptomycin. The cells were incubated for 6 h at 37°C with 5% CO_2, then centrifuged at 12,000×g for 15 min. The supernatant was discarded and the MDR solution was replaced with DPBS. The absorbance of the supernatant was measured at 540 nm. The results were expressed as mg/mL.
+
+Preparation of the MDR-polarized MDR
+The concentration of MDR in the presence of different concentrations of the antifungal drugs was determined using the MDR^™ Thermometer (MACHIN®) (Megazyme Technologies, UK). The MDR-polarized MDR was prepared by adding MDR (2.0 mg/mL in DPBS) to the supernatant of a 96-well plate (4 mL per well) with or without the antifungal drugs. The absorbance of the supernatant was measured at 540 nm. The results were expressed as mg/mL.
+
+Polarized MDR
+The concentration of MDR in the presence of different concentrations of the antifungal drugs was determined using the MDR^™ Polarizer (MACHIN®) (Megazyme Technologies, UK) with a UV-vis detector.
+
+
+## Results
+The antifungal drug fluconazole was used as a positive control to induce T-27 cell lysis and antifungal drug resistance in . cerevisiae. This is because the T-27 cell lines are highly susceptible to fluconazole. As shown in Table 1, in the presence of fluconazole, the intracellular fluconazole concentration was increased from 8.25 to 16.50 µg/ml, and the concentration of fluconazole remained high throughout the experiment. The intracellular fluconazole concentration was also increased in the presence of fluconazole and decreased in the presence of fluconazole.
+
+
+## Discussion
+
+MDR-Cytokines mediate cell death in several phagocytic and inflammatory cells, such as macrophages and monocytes, leading to their production of cytokines, such as IL-6 and TNF-. Thus, these cytokines are produced by cell death in the brain and are critical for the generation of inflammatory cytokines and chemokines by the host. A number of cytokines, including IL-10, IL-12, IL-23, IL-17, IL-18, IL-22, and TNF-a, are produced by phagocytic cells, such as macrophages and monocytes, leading to the generation of apoptosis in many types of human pathogens. These cytokines are also produced by various inflammatory cells including neutrophils, dendritic cells, monocytes, and eoscytes. In this study, the patients presented with signs of phagocytosis and cytokine production by macrophages, dendritic cells, and eoscytes, leading to the development of the systemic inflammatory response. These cytokines were induced by the fungus L. monocytogenes, which has been shown to be an antifungal drug target [51]. These cytokines are produced by phagocytic cells, such as dendritic cells, monocytes, and eoscytes, leading to the generation of the systemic inflammatory response. In addition, the inflammatory cytokines produced by macrophages, dendritic cells, and eoscytes, and the MDR-Cytokines, such as IL-17, IL-22, IL-23, IL-18, IL-22, and TNF-a, were increased in the patients. These cytokines are also produced by inflammatory cells including dendritic cells, monocytes, and eoscytes, leading to the development of the systemic inflammatory response.
+
+The results of the present study showed that the patients in this study had significantly increased levels of MDR-Cytokines, such as IL-17, IL-22, IL-23, IL-18, IL-22, and TNF-a, which were important for the development of the systemic inflammatory response. The high levels of these cytokines in patients’ blood and the intracellular concentration of these cytokines were significantly increased in patients with HIV infection.
