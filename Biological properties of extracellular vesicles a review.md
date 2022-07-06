@@ -1,0 +1,38 @@
+# Biological properties of extracellular vesicles: a review
+Quaglee Dragontacos
+
+
+## Abstract
+It is well known that the skin is a major barrier in mammals, and is a very important site of invasion and colonization by fungi. However, it is unknown if the microbial communities in the skin are also important factors in colonization and development in other parts of the body. In this study, we found that the skin microbiome in other parts of the body, including the skin flap, was dominated by fungi. The fungal community was dominated by the phyla Ascomycota, Zygomycota, and Basidiomycota. Interestingly, the skin had a very diverse fungal community, with a diversity of fungal genera and incertae, which was dominated by Aureobasidium, Geomyces, Debaryomyces, and Alternaria, whereas an incertae-dominated fungal community was dominated by Candida and Aspergillus. Interestingly, we observed a large difference in the fungal communities between the skin and outside of the skin, with the skin being more dominated by Aureobasidium more frequently, followed by Candida more frequently, and Alternaria more frequently. This observation suggests that the skin is a site of microbial colonization, which is significantly different from other parts of the body, which may have important consequences for the development and health of the host.
+
+It is well known that the skin is a major barrier in mammals, and is a very important site of invasion and colonization by fungi. However, it is unknown if the microbial communities in the skin are also important factors in colonization and development in other parts of the body.
+
+
+## Introduction
+The plant pathogenic fungus, Cryptococcus neoformans, causes opportunistic infections in immunocompromised patients, including AIDS patients, those with haematological disorders such as cystic fibrosis, cancer patients and patients receiving immune suppressive therapies such as those directed against HIV/AIDS (1, 2). Although C. neoformans can cause severe diseases in otherwise healthy hosts, the vast majority of the deaths due to cryptococcal meningitis are caused by a non-lethal dose of the immunosuppressive drugs cyclosporine (CsA) and tacrolimus (FK506) (3, 4).
+
+
+## Methods
+The study was approved by the ethics committee of the University of Cambridge, U. Liposomal lipase (L1310) and liposome supplementation (R7441) were dissolved in DMSO, and 100 µL of the solution was added to the test tube. A 10 µL aliquot was taken from the aliquot. The liposomal lipase and liposome were dissolved in DMSO, and 100 µL of the solution was added to the test tube. The test tubes were incubated at 30°C for 3 h. The absorbance of the samples was measured at 450 nm with a spectrophotometer (Varioskan, Männedorf, Switzerland). The results were expressed as the percentage inhibition of lipid per unit of volumetric absorbance compared to that of DMSO.
+
+Statistical analysis
+A paired Student’s t-test was used to compare the number of isolated compounds and their concentrations in the treatments. A one-way analysis of variance (ANOVA) was used to compare the means of the data from the control group and the experimental group. The data were compared with the data from the treated group. The unpaired Student’s t-test was used to compare the means of the data from the treated group and the experimental group. The data were compared with the data from the untreated group.
+
+Statistical analysis
+One-way ANOVA was used to compare the means of the data from the treated group and the experimental group. The data were compared with the data from the untreated group. The data were compared with the data from the treatment group.
+
+Statistical analysis
+The effect of duration of supplementation on the viability of the cells was determined by the MIC values and the number of viable cells. The data were compared with the data from the treated group. The data were compared with the data from the untreated group.
+
+
+## Results
+fumigatus is known to produce extracellular membrane vesicles, (iv) several extracellular vesicles have been described to be secreted by . nidulans and A. fumigatus [18]. However, no evidence of extracellular membrane vesicles was found in the literature.
+
+Extracellular vesicles are not formed in vivo
+In the murine model of cryptococcosis, cryptococcal vesicles are formed in vivo by the generation of extracellular vesicles by a rapid and persistent internalization mechanism [17]. In the murine model of cryptococcosis, a vesicle has been described as “present” (expressed as a granular material) or “secreted” (expressed as secreted) [17]. In the murine model of cryptococcosis, a vesicle has been described as “present” (expressed as a granular material) or “secreted” (expressed as secreted) [17]. To examine the temporal profile of extracellular vesicles, we used flow cytometry to study the temporal distribution of vesicles in the brain and spleen. Our previous work showed that extracellular vesicles are distributed within the brain and spleen in a time-dependent fashion [17]. In the brain, a vesicle is present in the first 24 h post-inoculation, followed by a rapid transient (24 h) and transient (24 h) maturation in the brain and spleen. In the brain, a vesicle is present in the first 48 h post-inoculation, followed by a rapid transient (24 h) and transient (24 h) maturation in the brain and spleen. In the spleen, a vesicle is present in the first 48 h post-inoculation, followed by a rapid transient (24 h) and transient (24 h) maturation in the brain and spleen. In the brain, a vesicle is present in the first 48 h post-inoculation, followed by a rapid transient (24 h) and transient (24 h) maturation in the brain and spleen.
+
+
+## Discussion
+neoformans and the cells are treated with fluconazol. The vesicles are attracted to the cell membrane by intracellular vesicles and by a water-mediated migration process. The vesicles are then expelled by the intracellular route by a phagocytic pathway, followed by a transacytosis pathway. These processes require the secretion of ATP, which is required for the extracellular vesicles to reach the cell membrane. The release of vesicles is very rapid and involves a rapid time course. Fluconazole treatment does not affect the release of vesicles. The ability of C. neoformans to form extracellular vesicles is similar to other fungi. In contrast, the ability of C. albicans to form extracellular vesicles has been shown to be very slow, and it requires a lot of energy [28]. Thus, the ability of C. neoformans to form extracellular vesicles is a very different property to other fungi. The number of extracellular vesicles in C. neoformans, compared to other fungi, was smaller than that of C. albicans, but it was still much larger than C. albicans. The number of extracellular vesicles in C. neoformans is very similar to that of C. albicans, but it was much larger than C. albicans. The cell wall integrity has been shown to be an important factor in the cell wall integrity of C. neoformans [29]. The cell wall of C. neoformans consists of arabinosidic polysaccharides, and arabinosidic polysaccharides are the major constituents of the cell wall of this fungus. These polysaccharides are composed of mannoproteins, mannoproteins, and ß-glucans. These proteins are involved in cell wall organization and development and are involved in fungal virulence [30]. Therefore, the cell wall is an important factor in the virulence of C. neoformans.
+
+The release of vesicles from the cell membrane was observed in some extracellular vesicles and not in the extracellular vesicles.
