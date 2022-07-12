@@ -1,0 +1,44 @@
+# The Effect of Microbes and Human Proteins on Prophylaxis and Treatment of Psoriasis in Resource-Limited Settings
+Quaglee Dragontacos
+
+
+## Abstract
+Fungal infections are an increasing cause of morbidity and mortality. The in vitro and in vivo response of these fungi to inhibitors of myeloid differentiation is thus an important topic of research. Recently, it has been shown that myelofibrosis (MF) is associated with a reduced susceptibility to azole drugs. Yet, the regulatory mechanisms of fungal infection remain unknown. Drug-induced inflammation of the innate immune system is not uncommon. In this review, we discuss the potential involvement of NF-<U+03BA>B, IL-1RA, and C-type lectin signaling in the development and progression of MF. Additionally, we highlight the emerging role of NF-<U+03BA>B signaling signaling pathways in the development and progression of a new, life-threatening, and resistant profile of MF. The use of antifungal drugs and host-induced immunopathology in refractory cases of fungal infections may contribute to the development and progression of an aggressive and life-threatening case of fungal MF.
+
+
+## Introduction
+Plant biomass is extensively used as food and feed and is a key component of modern biofuel. However, the use of plants as food and feed is problematic due to the limited yields they provide, their high toxicity, and their high economic cost. These drawbacks hinder their widespread use as a renewable feedstock and in biofuel production. In this context, plants have been extensively studied for their biotechnological potential. For example, a plant-derived fuel for ethanol production could be produced from biomass, using low-cost substrates and growing conditions that are similar to those of the plant. Utilizing biotransformed plant biomass as feedstock could also be a viable alternative to use for biodiesel production, for example, using biofuels as feedstock. The advantages of using biomass as feedstock include: (1) the production of high-value compounds from biomass (Bartletti, 2013; Gow et al., 2015); (2) protection against surface and (re-) physical damage (Nosanchuk, 2012); and (3) direct utilization by the plant itself (Gow et al., 2015). The aim of this study was to study the biotransformed plant biomass as feedstock for biodiesel production using B. cinerea and to compare the performance of biodiesel from B. cinerea and B. cinerea grown on different substrates and growing conditions. The analysis of the biogeochemical characteristics of the plant biomass was also performed to assess its potential to produce high-value chemicals and enzymes from biomass.
+
+
+## Methods
+The JMRI Tropical Research Institute (TIRF) is Kenya's leading provider of HIV care and treatmen. In Kenya, the government-funded health service takes care of about 5% of the population, and Tanzania has the highest HIV prevalence. The study was conducted in JMRI, which is the only tertiary referral hospital in Kenya. The study was approved by the Kenya Medical Research Institute Ethics Committee and received a waiver of informed consent in accordance with the Kenya Medical Research Institute (MRI) guidelines.
+
+Ethics Statement
+The study was conducted in accordance with the principles outlined by the World Health Organization (WHO) and in accordance with the principles of good patient care and ethical principles. The protocol was approved by the Kenya Medical Research Institute Ethics Committee and the JMRI Tropical Research Institute (JMRI) Ethics Committee.
+
+Ethics Statement
+The ethical considerations and concerns of the study were analyzed and approved by the JMRI Ethics Committee and the ethical principles outlined by the World Health Organization (WHO).
+
+Ethics Statement
+This study was conducted with approval number E-10/09 (Moosman University, Kenya) and approval number E-10/12 (University of Texas Medical Branch, San Antonio, TX).
+
+Evaluations
+The study was conducted in three clinical settings: a neonate (n = 2), a group of HIV-infected adult males (n = 2) and a group of HIV-infected female patients (n = 2). A total of 10,000 admissions were collected in this study. The study was approved by the institutional review boards at JMRI and University of Texas Medical Branch (UTMB) and the University of Texas Medical Branch (UAMS). The study was performed in accordance with the ethical principles of the Declaration of Helsinki. The study was performed in accordance with the ethical principles of the Declaration of Helsinki and the UAMS.
+
+Statistical Analyses
+The data were analyzed using the SPSS software version 18.0 (SPSS, Chicago, IL, USA). Comparisons between the groups were made using the Student’s t-test or Fisher’s exact test as appropriate, respectively.
+
+
+## Results
+In this study, a particular host environment was selected for this evaluation as it represents a potential host-patient interaction, which could be a useful tool for evaluating antimicrobial resistanc. For this evaluation, we performed a comparison of the antimicrobial response of pathogens from various host species in resource-limited settings. Antimicrobial resistance assays were performed with gram-negative bacteria (GBM) from the three human pathogens from the evaluation of the potential host-patient interactions using a murine model of infection. The fungal burden in the lungs and brains was assessed every 24 h using a standard model of infection. This was repeated with the nematode species representing the nematode-bacterial interaction. For both the fungal burden assays, the mouse strains (GBM1 and GBM2) were found to have higher bacterial burdens in the lungs compared to the nematode species (Figure 1A). The mice were then infected with GBM1 and GBM2 strains and their lungs were examined by microscopy every 24 h. Figure 1B shows that the mice infected with GBM1 and GBM2 strain were significantly more resistant to infection than the mice infected with GBM1 and GBM2 strains. The mice infected with GBM2 strain showed no significant differences in their susceptibility to infection (p = 0.56). The fungal burden in the lungs and brains was assessed every 24 h using a standard model of infection. This was repeated with the nematode species representing the nematode-bacterial interaction. The mice infected with GBM1 and GBM2 strain showed no significant differences in their susceptibility to infection (p = 0.51) or in the fungal burden in the lungs and brains (p = 0.24) compared to the mice infected with GBM1 and GBM2 strains.
+
+Molecular Characterization of the Species of Microbes Involved in Psoriasis in Resource-Limited Settings
+For both the mouse strains (GBM1 and GBM2) and the nematode species representing the nematode-bacterial interaction, the susceptibility of the mice to infection was determined.
+
+
+## Discussion
+In some cases, such as septic shock, the use of a broad spectrum antibiotic, such as amoxicillin, chloramphenicol, or carbapenem, may be necessary to achieve the maximum in safety for the patien. The use of antibiotics is not recommended in patients with HIV or other infections, which are known to be associated with the use of antibiotics in most cases [14].
+
+The use of antibiotic therapy for fungal infections is a common practice in resource-limited settings. However, only a few studies have investigated the use of antibiotic therapy in these settings. In the current study, there were only two patients with microbiologically confirmed infections with Pneumocystis jiroveci pneumonia (PJP), which is an opportunistic fungal infection of the lung that is rarely diagnosed in resource-limited settings [15]. In the present study, the patients in the study were both immunocompromised and had CD4 counts of 200/mm^3 and 201/mm^3, respectively, making them eligible for treatment with antibiotics.
+
+In the case of sepsis, the use of antibiotics in these patients is recommended and the patient is often treated with penicillin or amoxicillin [16]. In the case of sepsis, the use of antibiotics is essential in order to minimize the risk of severe adverse effects. In the present study, there were 2 patients with pneumocystis pneumonia (PCP) who were all treated with ciprofloxacin and the patient received ceftazidime for treatment of PCP. Although penicillin was not used in the present study, the pneumocystis pneumonia in this patient was diagnosed on the basis of the negative result. It has been reported that in patients with PCP who receive ciprofloxacin, the patient may have a higher risk of bacterial infection than that in the case of PCP treated with ceftazidime [17]. However, the presence of PJP in this case did not appear to be associated with PJP infection. PJP is an opportunistic fungal infection of the lung that is rarely diagnosed in resource-limited settings. In the present study, 2 patients had PJP, which was confirmed in the present study.
