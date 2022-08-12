@@ -1,0 +1,42 @@
+# Activation of MAPK-2 and Vd1 and Activity of Anti-fungal Drugs against Some Fungi
+Quaglee Dragontacos
+
+
+## Abstract
+Immune Reconstitution Inflammatory Syndrome (IRIS) refers to a spectrum of inflammatory disorders which present with increased numbers of white matter and altered function. This increased susceptibility to inflammatory disorders may be related to multiple genetic mutations which are known to be associated with increased susceptibility to neurodegenerative diseases. These mutations may hinder the process of neurodegenerative diseases such as Alzheimer’s and Parkinson’s disease and affect the ability of the brain to remask structural changes and restore function. The genetic predisposition of immune cells to these disorders can be explained by the expression of genes encoding proteins which are involved in the regulation of signaling cascades which mediate the clearing of reactive oxygen species and the generation of the type 2 (Th2) T cell-macrophage inflammatory protein family cytokines which contribute to neurodegenerative diseases. Furthermore, there is now increasing evidence that the activation of Th1-type T cell (Th1)-priming T cells (TFSCs) is essential for the clearance of neurodegenerative diseases. In the present article, we review the mechanisms by which T cells are differentially recruited to the defense of a pathogen.
+
+
+## Introduction
+
+MAPK signaling has been reported to play significant roles in fungal growth and virulenc. It was shown to be involved in the regulation of hyphal growth, conidiation, and hyphal growth in A. fumigatus [18,19,20,21,22,23]. In Candida albicans, an activation of MAPK signaling was essential for virulence [24,25]. In Aspergillus nidulans and Fusarium oxysporum, MAPK signaling was involved in the control of growth and conidiation [26,27]. In the human pathogenic fungus Cryptococcus neoformans, Ras1 and SakA kinases were involved in the regulation of C. neoformans growth [28,29,30,31]. In P. brasiliensis, C. albicans MAPK signaling was essential for virulence [32]. In Fusarium graminearum, Ras1 and SakA kinases were involved in the regulation of virulence [33,34,35]. In C. neoformans, Ras1 and SakA kinases were involved in the control of growth and conidiation [36,37]. In A. fumigatus, the MAPK signaling was important for pathogenicity and virulence [38,39,40]. In P. brasiliensis, the MAPK signaling was important for the control of hyphal growth, conidiation and pathogenicity [37,40]. In C. albicans, the MAPK signaling was required for pathogenicity, pathogen-induced death, and pathogenicity in the context of host-parasite interactions [41,42,43,44]. In the opportunistic fungal pathogen Candida albicans, Ras1 and SakA kinases are involved in the control of pathogenicity and virulence [44,45,46,47,48,49]. In P. brasiliensis, C. albicans Ras1 and SakA kinases were required for the control of pathogenicity, pathogen-induced death, and virulence [50,51,52,53]. In P. brasiliensis, the MAPK signaling was important for the control of pathogenicity and virulence [50,51,52,53]. In A.
+
+
+## Methods
+expansum (. venezuelae) were cultured for 3 days in 2 mL of complete medium (CM) (Difco) at 37°C. Then, the cells were plated in 24-well plates and were incubated for 24 h at 37°C. The C. glabrata cell line (C. glabrata, ATCC#27579) was cultured in medium without antibiotics (i.e., sterile saline) and then the cells were treated with the drugs for 24 h at 37°C. The drugs were then added to the culture medium (CM) in the same manner for 24 h. The culture supernatant was removed, and the culture was centrifuged at 4000 rpm for 10 min to separate the fungal cells from the macrophages. The supernatant was collected and stored at -20°C until use.
+
+To determine the activity of MAPK-2 and Vd1 against the non-phagocytosed C. glabrata fungus, the cells of C. glabrata were cultured for 3 days in a 2-mL culture medium (CM) (Difco) at 37°C. Then, the cells were treated with the drugs for 24 h at 37°C. The culture supernatant was collected and stored at -20°C until use.
+
+To determine the activity of MAPK-2 and Vd1 against the non-phagocytosed C. glabrata fungus, the cells of C. glabrata were cultured for 3 days in a 2-mL culture medium (CM) (Difco) at 37°C. Then, the cells were treated with the drugs for 24 h at 37°C. The culture supernatant was collected and stored at -20°C until use.
+
+To determine the activity of MAPK-2 and Vd1 against the non-phagocytosed C. glabrata fungus, the cells of C. glabrata were cultured for 3 days in a 2-mL culture medium (CM) (Difco) at 37°C. Then, the cells were treated with the drugs for 24 h at 37°C. The culture supernatant was collected and stored at -20°C until use.
+
+
+## Results
+graminearum has been propose. A key mechanism by which MAPKs regulate the fungal pathogen F. graminearum is the activation of the MAPK pathway. MAPK activation is associated with the activation of the active TCA cycle, the production of the phosphatidylinositol 3-kinase (PI3K), and the activation of the phosphatidylinositol 3-kinase (PIP3). To explore the effect of MAPK activation on F. graminearum, the pathogen was grown in YPD media for 48 h. In addition to the MAPK pathway, MAPK activation has also been proposed to affect the fungal pathogenicity. MAPK activation has been proposed to be involved in the formation of the TCA cycle, the production of the phosphatidylinositol 3-kinase (PI3K), and the activation of the phosphatidylinositol 3-kinase (PIP3). To study the effect of MAPK activation on F. graminearum, the pathogen was grown in YPD media for 48 h. In addition to the MAPK pathway, MAPK activation has also been proposed to affect the fungal pathogenicity.
+
+To study the effect of MAPK activation on the fungal pathogen F. graminearum, the pathogen was grown in YPD media for 48 h. In addition to the MAPK pathway, MAPK activation has also been proposed to affect the fungal pathogenicity. In fact, MAPK activation has been suggested to be involved in the formation of the TCA cycle, the production of the phosphatidylinositol 3-kinase (PI3K), and the activation of the phosphatidylinositol 3-kinase (PIP3). To explore the effect of MAPK activation on F. graminearum, the pathogen was grown in YPD media for 48 h. In addition to the MAPK pathway, MAPK activation has also been suggested to affect the fungal pathogenicity.
+
+The effect of the MAPK pathway on the morphogenesis of F. graminearum
+The effect of MAPK activation on the morphogenesis of F. graminearum was studied by using liquid culture.
+
+
+## Discussion
+oryzae during interaction with host plant. The results showed that M. oryzae responds to host plant pathogen and determines its ability to colonize the plant. Our results are consistent with previous studies that showed that the MAPK-2 and Vd1 are highly activated by host plants. However, in this study, the activity of Vd1 was not affected by host plant pathogen. This result suggests that M. oryzae does not activate the MAPK-2 and Vd1 during infection and colonization.
+
+In the present study, we reported that the M. oryzae MAPK-2 and Vd1 are highly activated by host plant pathogen and activate them to colonize and invade plant roots and subsoil. In contrast, the activity of Vd1 was not affected by plant pathogen. In addition, the MAPK-2 and Vd1 is highly activated by host plant pathogen and express their activity on M. oryzae roots and subsoil. This indicates that M. oryzae activates MAPK-2 and Vd1 to colonize and invade plant roots and subsoil.
+
+In this study, we revealed that the MAPK-2 and Vd1 are highly activated by host plant pathogen and produce cytokines that may be associated with plant defense. In addition, we showed that the MAPK-2 and Vd1 are activated by M. oryzae during interaction with host plants.
+
+The results showed that the M. oryzae MAPK-2 and Vd1 are activated by M. oryzae during interaction with plant pathogen and are upregulated during plant interaction. In this study, the M. oryzae MAPK-2 and Vd1 were highly activated by host plant pathogen and express their activity on M. oryzae roots and subsoil. These results suggest that M. oryzae activates the MAPK-2 and Vd1 to colonize and invade plant roots and subsoil.
+
+Our results indicate that the MAPK-2 and Vd1 are highly activated by M. oryzae during interaction with host plant. In addition, the MAPK-2 and Vd1 were activated by M. oryzae during interaction with host plant and produce cytokines that may be associated with plant defense.
