@@ -1,0 +1,44 @@
+# In vitro activity of imidazolium bromide against Candida albicans via affinity and scavenging of glutaminase
+Quaglee Dragontacos
+
+
+## Abstract
+However, the mechanism of interaction between imidazolium bromide and . albicans in the scavenging of glutaminase remained unclear. Here, we show that imidazolium bromide acts as an antifungal agent in vitro and in vivo, both at a glioblastoma cell death (GDC) and in vivo, both in vitro (in the Galleria mellonella model) and in vivo (in the vaginal model) via the scavenging of glutaminase. Our data show that imidazolium bromide can be used as an antifungal agent in the Galleria model of vaginal candidiasis, which is a very relevant clinical subtype of vaginal Candida.
+
+IMIDazolium bromide (Isamrilab) is a highly bioactive natural compound with clinical potential due to its broad spectrum of biological activities. Clinical studies of medical malpractices in the diagnosis of invasive candidiasis and candida infections have highlighted the antifungal activity of the compound against clinical Candida species. This study aimed to evaluate the in vitro activity and toxicity of isavuconazole (Isavucona) against clinical Candida species using in vivo and in vitro models.
+
+In vitro, we treated Candida albicans with isavuconazole (Isavucona) at a dose of 600 mg/kg for 16 days. We investigated the in vivo activity of isavuconazole (Isavucona) following the in vivo administration using an in vivo model of vaginal candidiasis. We evaluated the in vivo activity of isavuconazole following the administration of isavuconazole (Isavucona) following vaginal swabs contaminated with Candida albicans. In addition, we used a cadaverin-independent assay to evaluate the in vivo activity of isavuconazole following the administration of isavuconazole following vaginal swabs contaminated with Candida glabrata.
+
+Isavuconazole significantly increased the in vivo activity of isavuconazole (Increasing the number of days from 21 to 71 in the time of the double swab administration), but did not increase the in vitro activity of isavuconazole (Increasing the number of days from 21 to 71 in the time of the double swab administration).
+
+
+## Introduction
+The genus Fusarium is characterised by being a multigene family, comprising a large number of morphologically similar species. Fusarium graminearum is one of the most important plant pathogenic fungi and has been used as a model organism to study fungal pathogenesis, pathogenesis, and virulence of many important plant pathogens (1-5). The F. graminearum genome is available and contains approximately 3000 proteins with more than 25% amino acid sequences (6). The F. graminearum genome sequence has been used to address the questions of phylogenetic relationships and virulence factors (7).
+
+The role of fungal pathogens in agriculture is expanding due to the emergence of crops and pathogens resistant to a wide range of antifungals, such as the rice blast fungus Magnaporthe oryzae (8, 9). Fusarium graminearum is one of the main causal agents of rice blast, a disease that can affect several crops including wheat, barley, and rice wine (10-13). The pathogen can infect host plants by forming appressoria and cause severe damage to the host plant (14). In order to reduce the economic losses caused by the disease, various biotic and abiotic stresses are applied to the plant. These stresses include chemical, physical, and biological stresses (15). During the infection process, F. graminearum is exposed to the plant defence system and is exposed to a range of environmental conditions that can alter the plant's physiology, development, and also the plant-microbe interaction (16). The stress proteins are known to be involved in the interaction between the host and the pathogen (17).
+
+
+## Methods
+The inhibitors were evaluated against the Candida albicans ATCC 90028 (ATCC 90028) and the yeast Candida albicans ATCC 90028 (ATCC CRL-97110. To test the antibacterial activity of the inhibitors, the following assay was performed using the same protocol except that the inhibition of bacterial growth was carried out in RPMI-1640 medium (Sigma-Aldrich). The assays were performed in duplicate and the data were analyzed with SPSS software (version 20). The minimum inhibitory concentration (MIC) for imidazolium bromide was determined by determining the minimum inhibitory concentration (MIC_50) of imidazolium bromide and its analogues using the broth microdilution method according to the Clinical and Laboratory Standards Institute (CLSI) document M27-A3 (Clinical and Laboratory Standards Institute) and the CLSI document M27-A3 (Clinical and Laboratory Standards Institute).
+
+2.3. Antimicrobial Activity of Fungi Isolates
+The antimicrobial activity of the isolate F. oxysporum was evaluated using the broth microdilution method as described by the Clinical and Laboratory Standards Institute (CLSI) with modifications. Briefly, the bacterial isolate was grown in brain heart infusion broth (BHI) for 18 hours at 37 °C. The culture was diluted to an OD_600 of 0.1 in RPMI-1640 medium and then the suspension was added to the bacterial culture and incubated for 18 hours at 37 °C. The culture was diluted to an OD_600 of 0.1 in RPMI-1640 medium and then the suspension was added to the bacterial culture and incubated for 18 hours at 37 °C. The culture was diluted to an OD_600 of 0.1 in sterile water and then the bacterial culture was centrifuged at 5,000 rpm for 15 minutes and the supernatant was removed. The pellet was resuspended in PBS and the cell density of the suspension was adjusted to a concentration of 1 × 10^5 CFU/mL. The diluent of F. oxysporum was prepared by adding 0.5% (w/w) of sodium dodecyl sulfate and the bacterial culture was incubated at 37 °C for 3 hours. The supernatant was removed and the cells were resuspended in sterile water.
+
+
+## Results
+Identification of a novel effector gene in the F. pedrosoi FKBP12/ACT5 complex
+To identify candidate effector genes in F. pedrosoi FKBP12/ACT5 complex, the FKBP12/ACT5 complex was generated by adding a GFP-tagged FKBP12 gene to the FKBP12/ACT5 complex. The FKBP12/ACT5 complex gene is present in the genome of the F. pedrosoi FKBP12/ACT5 complex and harbors a frameshift mutation at the 5' end of the FKBP12/ACT5 complex gene (FKBP12/ACT5). This gene is essential for FKBP12 function (31). We screened the FKBP12/ACT5 complex from our laboratory as a candidate effector gene for a possible function in FKBP12/ACT5 complex. FKBP12/ACT5 gene is 1.5 kb long and contains a frameshift mutation at the 5' end of the FKBP12/ACT5 complex gene (Fig 1A). The FKBP12/ACT5 complex gene was chosen as a suitable control because it contains two additional frameshift mutations at the 3' end and one frameshift mutation at the 5' end (31). The FKBP12/ACT5 complex gene is predicted to encode a GFP-tagged effector protein (Fig 1B).
+
+
+## Discussion
+
+The MIC values of the imidazole against the . albicans strain were determined (Table 3). A comparison of the MIC values against C. albicans reference strain (C. albicans ATCC 10231) and the C. glabrata strain (C. glabrata ATCC 10231) shows a more or less similar result, showing a greater inhibitory activity against the yeast than the C. albicans strain (MIC = 125 µg/mL) (Table 3).
+
+A comparison between the MIC values of different substances and the CLSI standards (Table 3) shows that there was no significant difference in the activity of all the four substances against C. albicans (MIC = 125 µg/mL). This result was in accordance with the report of Koroshko et al. (2008) in which the antifungal activity of four substances was determined against C. albicans.
+
+Antifungal activity against C. glabrata ATCC 10231
+The antifungal activity of the synthesized compounds was evaluated against C. glabrata ATCC 10231. The MIC values of the synthesized compounds were determined as shown in Table 4. The MIC value of the synthesized compounds was lower than that of imidazole and the antifungal activity was almost similar to that of caspofungin. The results of the antifungal activity tests are in accordance with the report of Kruzke et al. (2015) in which the antifungal activity of the synthesized compounds was determined against C. glabrata.
+
+The antifungal activity of the synthesized compounds was lower than that of caspofungin. The results of the antifungal activity tests are in accordance with the report of Kruzke et al. (2015) in which the antifungal activity of the synthesized compounds was determined against C. albicans.
+
+The antifungal activity of the synthesized compounds was lower than that of caspofungin. The results of the antifungal activity tests are in accordance with the report of Kruzke et al. (2015) in which the antifungal activity of the synthesized compounds was determined against C. albicans.
