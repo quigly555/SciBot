@@ -1,0 +1,32 @@
+# Unusual cases of disseminated histoplasmosis and cytotoxicity in cardiac arrest patients">Chinese Medical Review paper Sept.
+Quaglee Dragontacos
+
+
+## Abstract
+Echinocandin receptors (ECR) are obligate intracellular immunogens that serve as second line of defense against various diseases. However, they have recently been found to play a role in host defense against microbial pathogens. In this review, we provide a brief introduction on the role of ECRs and chitin synthase subunit lectin (CSMT) in fungi and bacteria, focusing on the ECR family, and on the mechanisms by which fungi and bacteria can interact with host cell ECRs.
+
+
+## Introduction
+Cryptococcosis is a fungal disease caused by the basidiomycetous yeast Cryptococcus neoformans, a major cause of fungal meningitis in immunocompromised patients worldwide (1). The organism can disseminate from the lungs to the brain and cause life-threatening meningoencephalitis, especially in patients with impaired immunity. Globally, over 200,000 cases of cryptococcal meningitis occur each year, resulting in over 600,000 deaths worldwide (2,3). In fact, cryptococcosis is the most common systemic mycosis, with a prevalence of 3%-6% in the Americas (3).
+
+Cryptococcosis is characterized by a hypoxemic, encapsulated yeast phase, which is rapidly cleared by immune system. The most important virulence determinant of the pathogenic phase is capsule formation, which contributes to fungal survival and virulence in mammalian hosts (4). The ability of cryptococcal cells to form capsule is important for virulence, as cryptococcal cells readily transition between yeast and hyphal forms during infection (5,6). Previous studies on cryptococcal capsule have been limited to only a few fungal species, such as Cryptococcus neoformans, and no studies have focused on the virulence of C. neoformans and C. gattii in the mammalian host.
+
+The capsule of C. neoformans is highly hydrated, and in some cases the hydration state of the capsule can influence its permeability profile and bioavailability. C. neoformans cells can exist as planktonic forms, with either a plasma membrane-bound or membrane-bound form, which have an expanded and more permeable lipid bilayer (7). In the plasma membrane, the hydrated form is frequently found in the cell wall, where the cell wall anchors it to the outer leaflet of the cell wall (8). In contrast, in the biofilm form, the unmodified capsule is present in the cell wall, where it may be transported to the extracellular space.
+
+The mechanisms by which cryptococcal cells switch from the hydrated state to the more permeable form, and the importance of this transition, are not well understood. Some studies have shown that the hydrated form of C.
+
+
+## Methods
+.
+
+
+## Results
+. Dingley, Trans. L. V. Richmond, Trans. J. S. Dudley, Trans. W. Crous, Trans. B. Sutton, Trans. B. Sutton, Trans. W. Crous, Trans. B. Sutton, Trans. S. Dudley, Trans. A. Sutton, Trans. A. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. A. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. B. Sutton, Trans. A. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. B. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A. Sutton, Trans. B. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. B. Sutton, Trans. C. Sutton, Trans. A.
+
+
+## Discussion
+In this case report, the patient was diagnosed as a C. neoformans patient and treated with AmB for 2 weeks. As the patient did not meet all the criteria for C. neoformans meningitis, he did not have cryptococcosis, and the patient's condition was not conducive to hematologic diagnosis. However, the patient did not have any other symptoms, such as fever, dyspnea, neck stiffness, altered mental status, or elevated body temperature. Therefore, we suggest that the diagnosis of C. neoformans meningitis in this case report was based on the diagnosis of C. neoformans meningitis.
+
+The patient had been diagnosed as a patient with HIV. As the patient had been diagnosed as HIV-positive, there was no diagnostic evidence for HIV-related cryptococcosis in the present case report. However, the patient had no previous history of immunocompromised condition, and the patient's symptoms of meningeal signs and symptoms of cryptococcosis were similar to those of HIV infection. The patient was also diagnosed as having C. neoformans meningitis.
+
+Cryptococcus meningitis is characterized by the formation of cryptococcomas that are encapsulated and disseminated. The patient had been diagnosed as having C. neoformans meningitis by Cryptococcus G. C. The patient had been treated with AmB, which had been used for Cryptococcus gattii meningitis for 2 weeks. The patient was discharged on day 1 and was started on AmB for 2 weeks. The patient was treated with oral fluconazole for 2 weeks. In the patient's case report, the patient had been diagnosed as having C. neoformans meningitis after the first dose of fluconazole and was started on fluconazole for 4 weeks. In the patient's case report, the patient had been diagnosed as having C. neoformans meningitis after the second dose of fluconazole and was started on fluconazole for 4 weeks. The patient had been diagnosed as having C. neoformans meningitis after the first dose of fluconazole and was started on fluconazole for 6 weeks. The patient had been diagnosed as having C. neoformans meningitis after the second dose of fluconazole and was started on fluconazole for 12 weeks.
