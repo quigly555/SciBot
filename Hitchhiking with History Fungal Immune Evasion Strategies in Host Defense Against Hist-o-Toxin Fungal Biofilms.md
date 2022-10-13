@@ -1,0 +1,42 @@
+# Hitchhiking with History: Fungal Immune Evasion Strategies in Host Defense Against Hist-o-Toxin Fungal Biofilms
+Quaglee Dragontacos
+
+
+## Abstract
+Cryptococcus neoformans is a ubiquitous fungus and an important cause of invasive fungal infection in healthy individuals. The major cryptococcal virulence factor is a glycoprotein called C3b (also called C3ß or C3ß2 in the case of HIV-related immunodeficiency or nephropathy [IFN]-endemic cells [IFN]-immune cells are the primary carriers of cryptococcal infection and have a major role in causing disease. However, the cellular component responsible for C3b virulence has not been identified). Here, we report that the C3ß-like protein is essential for viability and filamentation of C. neoformans in vitro. The enzyme is expressed in the yeast cell surface and functions as a virulence factor. Furthermore, we demonstrate that C3b is required for C3 expression in the murine model of pulmonary cryptococcosis, showing that this critical step could be regulated by the protein. In addition, C3b is required for growth, conidiation, and virulence in the murine model of pulmonary cryptococcosis. Thus, the important role of the C3ß-like protein C3ß in the development and pathogenesis of pulmonary cryptococcosis is not known. The results presented here provide insights into the cellular and molecular basis of the anther cell survival, the regulation of the fungal cell wall, and the virulence factor expression in C3.
+
+
+## Introduction
+In these studies, we have shown that microbial adaptive immunity is crucial for the pathogenesis of Hist-o-Toxin-producing fungi, including Histoplasma capsulatum, Histoplasma, Cryptococcus, and Candida specie. Moreover, we have shown that histoplasmosis is a common opportunistic fungal infection in patients with AIDS [22]. Finally, the main fungal model, Histoplasma, is a highly successful system for investigating the host-pathogen interaction, and it has been shown that the host immune response can lead to the development of Histoplasma [23].
+
+Histoplasmosis is an infectious fungal infection caused by Histoplasma capsulatum, a dimorphic fungus that can be found in the soil, on plants, and even on humans. It is caused by inhalation of airborne Histoplasma spores, which are produced by the fungus by the lungs. The infection is usually asymptomatic and the fungus can survive for a long time in the air, but slowly disseminate in the blood. After chronic infection, Histoplasma can cause severe and disseminated infections. While Histoplasma rarely causes life-threatening infections, it is estimated that approximately 10% of AIDS-related deaths result from this infection [24]. The development of immunosuppressive drugs and the increasing frequency of antifungal therapy in recent years has resulted in an increase in the number of patients suffering from Histoplasma infections in developed countries, especially in Africa and Southeast Asia [25]. In this context, the development of new immunotherapeutic agents and the availability of high-throughput control methods has been widely pursued. However, with the advent of antifungal drugs, there is a low number of available therapeutic agents, and there are no studies on the efficacy of antifungal agents. Therefore, there is a need for new antifungals with novel targets to combat Histoplasma infections.
+
+Histoplasma is a dimorphic fungus that is found in the soil and is found in soil, pigeon droppings, decaying wood, plants, and decaying animals.
+
+
+## Methods
+The tested strains were kept in a moist chamber in a temperature-controlled chamber (4.5°C) and cultured on solid MM (5 g·L^-1) for 7 days before harvesting with a scalpel and using a bead beater.
+
+The infected host cells were washed with PBS and then resuspended to a final concentration of 1×10^8 conidia ml^-1 in sterile PBS. The number of conidia was counted with a hemacytometer and adjusted to 1×10^7 conidia ml^-1. For inoculum preparation, the infected host cells were washed twice with PBS, then resuspended to 1×10^6 conidia ml^-1 in sterile PBS. The samples were spotted on MM agar plates with or without 5% sheep blood and incubated at 37°C for 7 days.
+
+Quantitative real-time PCR
+The following conditions were used to measure the expression of the genes involved in HSP80 inflammation: (i) HSP80 gene knockout (HSP80-HSP80-KO) and (ii) HSP80 gene knockout (HSP80-KO). The HSP80-KO strain was grown in liquid MM at 30°C for 4 days. After this period, cells were harvested by centrifugation and lysed with a hemacytometer, and the supernatant was transferred to a fresh medium. The expression levels of genes involved in HSP80-HSP80-KO were determined using the 2^-<U+0394><U+0394>CT method [22]. The 2^-<U+0394><U+0394>CT method was applied to assess the expression of the genes involved in HSP80-HSP80-KO and HSP80-HSP80-KO, as previously described [22]. Briefly, the 5'- and 3'-end of the HSP80-HSP80-KO and HSP80-HSP80-KO genes were amplified by polymerase chain reaction (PCR) with the primers HSP80-KO-F and HSP80-KO-R, respectively, which are codon-optimized to contain the 3'-UTR and the 3'-UTR of HSP80, respectively. The PCR products were purified and sequenced.
+
+
+## Results
+Since the ability of Hist-o-Toxin fungi to evade host defense elicited by Hist-o-Toxin biofilms is important to the survival of Hist-o-Toxin biofilms, we determined whether the ability of Hist-o-Toxin fungi to evade host defense elicited by Hist-o-Toxin biofilm is a critical response to Hist-o-Toxin biofil. Using the eukaryotic human leukemia cell line BL21 (TgB-Toxin), we found that the ability of Hist-o-Toxin to evade host defense elicited by Hist-o-Toxin biofilm is significantly greater than that of the non-human cell line, TgB-Toxin, at 37°C (Fig 5). This finding suggests that Hist-o-Toxin may be a potent anti-infective agent against Hist-o-Toxin biofilms.
+
+In contrast to the ability of Hist-o-Toxin fungi to evade host defense elicited by Hist-o-Toxin biofilm, the ability of Hist-o-Toxin fungi to evade host defense elicited by Hist-o-Toxin biofilm is also a critical response to Hist-o-Toxin biofilm. In addition, we found that the ability of Hist-o-Toxin fungi to evade host defense elicited by Hist-o-Toxin biofilm is significantly greater than that of non-human cell line, TgB-Toxin, at 37°C (Fig 5). This finding suggests that the ability of Hist-o-Toxin fungi to evade host defense elicited by Hist-o-Toxin biofilms is a key response to Hist-o-Toxin biofilm.
+
+The ability of Hist-o-Toxin fungi to evade host defense elicited by Hist-o-Toxin biofilm is also a critical response to Hist-o-Toxin biofilm
+The ability of the non-human cell line, TgB-Toxin, to evade host defense elicited by Hist-o-Toxin biofilm is a critical response to Hist-o-Toxin biofilm.
+
+
+## Discussion
+circinelloides host defense against Hist-o-Toxin Fungal Biofilms, respectivel. This study is the first to compare the susceptibility of M. circinelloides to the antifungal agents described by this fungus and that of M. circinelloides against Histo-Toxin Fungal Biofilms. The results are similar to those described by Bündchen et al. (2015) for M. circinelloides against Histo-Toxin Fungal Bioli. In addition, the results showed that M. circinelloides could induce strong changes in the innate immune response.
+
+The results of this study showed that M. circinelloides can induce the T-cell response to Histo-Toxin Fungal Bioli, and the changes in the T-cell response were very strong. In contrast, the results of the study by Bündchen et al. (2015) showed that M. circinelloides could induce the anti-microbial response to Histo-Toxin Fungal Bioli, and the change in the anti-microbial response was weak. The results of this study showed that M. circinelloides could induce the MHC-II-induced T-cell response to Histo-Toxin Fungal Bioli, and the MHC-II-induced T-cell response was weak.
+
+Our results showed that M. circinelloides can induce the MHC-II-induced T-cell response to Histo-Toxin Fungal Bioli, and the MHC-II-induced T-cell response was very strong. The results of this study showed that M. circinelloides can induce the MHC-II-induced T-cell response to Histo-Toxin Fungal Bioli, and the MHC-II-induced T-cell response was weak. In addition, the results of this study showed that M. circinelloides can induce the MHC-II-induced T-cell response to Histo-Toxin Fungal Bioli, and the MHC-II-induced T-cell response was strong.
+
+The results of this study showed that M.
