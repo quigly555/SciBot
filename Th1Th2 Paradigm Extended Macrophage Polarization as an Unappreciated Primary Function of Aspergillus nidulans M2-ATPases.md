@@ -1,0 +1,33 @@
+# Th1/Th2 Paradigm Extended: Macrophage Polarization as an Unappreciated Primary Function of Aspergillus nidulans M2-ATPases?
+Quaglee Dragontacos
+
+
+## Abstract
+The human fungal pathogen Cryptococcus neoformans is a ubiquitous environmental pathogen that infects a wide range of hosts. In immunocompromised individuals, it can disseminates between the skin and the lungs, and the central nervous system (CNS) in immunocompromised individuals.
+
+
+## Introduction
+M1 polarization is driven by M1a and M1b subunits, whereas M1a and M1b are dispensable for M2 polarizatio. M1a and M1b are present in the majority of neutrophils and are involved in M2 polarization, while M1b are involved in only a small proportion of neutrophils. This large polarization difference has been attributed to differences in the M2a and B subsets. For example, M1a is more polarized and more abundant in the cortex of monocytes, whereas M1b is more polarized and more abundant in monocytes. M1a and M1b are thought to be involved in the development of acute disease and in the survival of these cells [16]. M1a and M1b are thought to be recruited to sites of inflammation [17] and to sites of disease (such as lymph nodes) [18], whereas M1b and M1c are thought to be recruited to sites of disease (such as lung) [19]. M1a and M1b are more polarized in comparison to M1b and M1c, and the M1b subsets appear to be more prominent in the brain. M1a and M1b seem to be more activated by IFN-<U+03B3> and IFN-<U+03B3>-mediated pro-inflammatory cytokine responses, while M1b appears to be activated by IL-4 and IL-13 [16].
+
+In the present study, we investigated the polarization of macrophage polarization in response to glucose-stimulated M2-ATPase-1 (Mis1a), which is known to be involved in the pro-inflammatory response, as well as the pro-oxidant response of macrophages. M1a, M1b, and M1c are all induced by glucose, and M1a and M1b are thought to be more polarized by glucose. However, the important role of M1a and M1b in macrophage polarization was not investigated. In this study, we investigated the mechanisms by which macrophage polarization occurs in response to glucose stimulation.
+
+
+## Methods
+ mg/ml proteinase K (Sigma) in RPMI 164. Phagocytosis was induced by incubation for 5 h in RPMI 1640 medium with the addition of 1 × 10^7 colony forming units (CFU) of macrophages. Macrophages were then pelleted by centrifugation and resuspended in RPMI-1640. Phagocytosis was induced by incubation for 1 h in RPMI-1640 medium containing 2% heat-inactivated FBS and 1% osmium tetroxide.
+
+For co-culture experiments, macrophages were seeded at a concentration of 1 × 10^4 CFU/ml in 6-well plates and cultured in RPMI-1640 medium for 24 h. After 24 h, phagocytosis was induced by incubation for 4 h in RPMI-1640 medium containing 2% heat-inactivated FBS. Co-cultures were then harvested by centrifugation, resuspended in RPMI-1640 and mixed with macrophages at a ratio of 1:1 (yeast to macrophage) in 96-well plates. After incubation for 4 h, phagocytosis was induced by co-cultures with macrophages in the presence of 0.3 mg/ml proteinase K. Phagocytosis was induced by incubation for 4 h in RPMI-1640 medium containing 2% heat-inactivated FBS. Co-cultures were then collected and then cultured in RPMI-1640 medium with 1 × 10^5 CFU/ml. The number of phagocytosed macrophages was then determined using an ELISA plate reader.
+
+Cellular Th1/Th2 Paradigm Extended: A/B Paradigm of M1/B Paradigm of M2-ATPases
+Macrophages were infected with 10^6 yeasts/ml and subsequently treated with 0.3 mg/ml proteinase K in RPMI-1640 medium. Macrophages were then infected with 10^6 yeasts/ml and subsequently treated with 0.3 mg/ml proteinase K in RPMI-1640 medium. Macrophages were then infected with 10^6 yeasts/ml and subsequently treated with 0.
+
+
+## Results
+cerevisiae M2-ATPase from the fungi (M4/M6, M4/M6A, M1/M2, and M1/M2.
+
+We studied the roles of these three conserved M2-ATPases in the S. cerevisiae response to light and, more specifically, in the regulation of the transcriptional response to environmental cues. We focused on the S. cerevisiae M2-ATPase, M2-ATPase M2-A (M1/M2A) and M2-ATPase M2-B (M1/M2B), which we designated M2-ATPase M2-A (M2-ATPase M2-B). In our phylogenetic analysis, the M2-ATPase M2-A (M2-ATPase M2-A) and M2-ATPase M2-B (M2-ATPase M2-B) were sister to S. cerevisiae M1-ATPase, M1-ATPase M2-A (M1-ATPase M1-A), and S. cerevisiae M2-ATPase, M2-ATPase M2-B (M2-ATPase M2-B). The S. cerevisiae M2-ATPase M2-A (M2-ATPase M2-A) was found to have high similarities to S. cerevisiae M2-ATPase M1-A (M1-ATPase M2-B) and S. cerevisiae M2-ATPase, M2-ATPase M2-B (M2-ATPase M2-B) (Figure 1). In contrast, the S. cerevisiae M2-ATPase M2-B (M2-ATPase M2-B) had high similarities to S. cerevisiae M2-ATPase M1-A (M1-ATPase M1-A) (Figure 1). We also found that the S.
+
+
+## Discussion
+fumigatus has been studied for more than a decade, and its contributions have varied widely from individual to individua. During the early phase of A. fumigatus infection, polarized macrophages predominantly showed M2-ATPases activity in the presence of IFN-<U+03B3> and IL-1ß, but not in the presence of CCL2 or TNF-a. The ability of the polarized macrophages to clear A. fumigatus from the lungs and other tissues was dependent on their polarized M2-ATPase phenotype, and the polarization phenotype was independent of cytokine and chemokine stimulation (Supplementary Fig S3). In contrast, in the later stages of A. fumigatus infection, polarized macrophages showed an additional M2-ATPase phenotype that included M2-blocking of IFN-<U+03B3> and IL-2. Although the precise mechanism remains unclear, a recent study has shown that the M2-ATPase phenotype is associated with cytokine and chemokine production in the presence of IFN-<U+03B3> and IL-4 [40]. In this study, we did not observe M2-ATPase activity in the lungs, as previously proposed for A. fumigatus [12]. However, we found that A. fumigatus induced the expression of macrophage-specific IFN-<U+03B3> and IL-4 in the lungs, which was consistent with previously described observations of M2-ATPase activity in the lungs and in other tissues (Supplementary Fig S4). In contrast, we did not observe IFN-<U+03B3> or IL-4 production in the lungs, as previously proposed for A. fumigatus [12]. In the absence of IFN-<U+03B3>, IL-4, and M2-ATPase activity, macrophages were the predominant phagocytic cells in the lungs, but not the brain, and they were the predominant phagocytic cell in the brain and the brain-spinal fluid. These results suggest that the ability of macrophages to kill A. fumigatus may be driven by an additional M2-ATPase phenotype.
+
+The ability of macrophages to clear A.
