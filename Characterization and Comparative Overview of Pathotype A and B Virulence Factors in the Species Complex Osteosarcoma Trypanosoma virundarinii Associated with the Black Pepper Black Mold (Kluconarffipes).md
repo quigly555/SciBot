@@ -1,0 +1,45 @@
+# Characterization and Comparative Overview of Pathotype A and B Virulence Factors in the Species Complex Osteosarcoma Trypanosoma virundarinii Associated with the Black Pepper Black Mold (Kluconarffipes)
+Quaglee Dragontacos
+
+
+## Abstract
+The presence of the Pb01 allele in many strains of clinical isolates of the pathogenic fungus Candida albicans enables the rapid identification of the clinical strain with the presence of the Pb01 allele and its polymorphic status in environmental isolates. Pb01 is the second most frequently isolated allele of the Pd<U+2206> supergene, and its presence is more marked in Candida tropicalis isolates that are clinical isolates, as well as in several non-clinical isolates. The presence of the Pd<U+2206> supergene in Candida tropicalis is consistent with other Pd<U+2206> supergene isolates, where the Pb01 allele was detected only in one or a few environmental strains. This point is supported by the genetic polymorphism analysis of the genome sequence of the Pd<U+2206> supergene strain. The presence of the Pb01 allele in the C. albicans genome and in the evolution of the Pd<U+2206> supergene population suggests that the polymorphism of Pd<U+2206> is being re-appreciated as a key virulence trait that is understudied in C. tropicalis.
+
+
+## Introduction
+avicennoide. It was isolated from the ear canal of a Japanese man with otogenic cystic fibrosis (Japanese Society for Clinical Laboratory Standards, 2014). The isolate was characterized by the occurrence of erythematous hyphomycetous growth, pseudohyphal growth, and a mycelium with a thick capsule (Kluconarffipes)
+The pathotype A strain K. avicennoides KBA-072 was isolated from a patient with acute otogenic cystic fibrosis (Japanese Society for Clinical Laboratory Standards, 2015). KBA-072 is a clinical isolate. The isolate was characterized by the presence of erythematous hyphomycetous growth, pseudohyphal growth, and a mycelium with a thick capsule (Kluconarffipes)
+The pathotype B strain KBA-069 was isolated from a patient with acute rhinosinusitis in China (Chinese Journal of Clinical Pathology, 2017). The clinical isolate KBA-069 was isolated from the ear canal of a Japanese man with acute rhinosinusitis. The clinical isolate KBA-079 was isolated from the ear canal of a Japanese man with acute rhinosinusitis. The clinical isolate KBA-079 was isolated from a patient with acute rhinosinusitis in China.
+
+The pathotype C strain H99 was isolated from a patient with acute rhinosinusitis in China. The clinical isolate H99 was isolated from the ear canal of a Japanese man with acute rhinosinusitis. The clinical isolate H99 was isolated from the ear canal of a Japanese man with acute rhinosinusitis. The clinical isolate H99 was isolated from the patient with acute rhinosinusitis. The clinical isolate H99 was isolated from the patient with acute rhinosinusitis. The clinical isolate H99 was isolated from the patient with acute rhinosinusitis. The clinical isolate H99 was isolated from the patient with acute rhinosinusitis. The clinical isolate H99 was isolated from the patient with acute rhinosinusitis. The clinical isolate H99 was isolated from the patient with acute rhinosinusitis. The clinical isolate H99 was isolated from the patient with acute rhinosinusitis. The clinical isolate H99 was isolated from the patient with acute rhinosinusitis.
+
+
+## Methods
+The classification was considered as pathogenicity based on the morphological characteristics, phylogenetic analysis, and the data was divided into two groups based on the results of the morphological analyse.
+
+Ethical Statement
+The study was approved by the Ethics Committee of the Universidade Federal de Pernambuco (UFPE-CEF-1-01) of the Federal University of Pernambuco (UFPE-CEF-2-01) (permission number: 3297/2015). The study was conducted in accordance with the recommendations in the Guide for the Care and Use of Laboratory Animals of the National Research Council (NRC). The procedures for the study were according to the rules of the Animal Welfare Act (1976) and the Public Health Service Policy on the Humane Care and Use of Laboratory Animals (PHS-PHS-E-01).
+
+Morphological Analysis
+The morphology of fungal spores was examined by a Nikon SMZ1500 dissecting microscope equipped with a Nikon DS-Qi1 plus charge-coupled device camera. The colour codes were published in the relevant publications (S1 Table). The morphological characters of the fungi were observed and photographed with a Nikon Coolpix 5500 or a Nikon Coolpix 4500 at a magnification of ×200.
+
+The relative growth of each species was determined by growing on Sabouraud’s dextrose agar (SDA; Difco, Detroit, USA) at 25°C for 6 days. The inoculum was obtained by growing the fungus on the SDA plates and adjusting the density to the initial density of 0.5 McFarland standards (50 µL/mL) and the spore suspension was adjusted to obtain a final concentration of 1 × 10^7 CFU/mL. Each culture was inoculated with 5 µL of the spore suspension (10^5 spores/mL) and the inoculated plates were incubated at 25°C for 24 h. The colony colour was observed after 24 h and colony diameter was measured.
+
+Statistical Analysis
+The data were analysed using the Statistica 8.0 software (Statlab, Tulsa, USA).
+
+
+## Results
+The virulence of the four strains in the test organism was strongly correlated with the species complex, as shown in Figure 2 and Figure . The virulence of the four strains in the tested species complex was strongly correlated with the species complex of Aspergillus flavus, A. fumigatus, and A. niger (Figures 2 and 3). The virulence of the three strains in the species complex was strongly correlated with the species complex of Aspergillus flavus, A. fumigatus, and A. niger (Figures 2 and 3). The pathogenicity of the four strains in the species complex was strongly correlated with the species complex of Aspergillus flavus, A. fumigatus, and A. niger (Figures 2 and 3).
+
+In addition to their virulence to Trypanosoma parvovirens, the four strains also exhibit considerable numbers of the organism-associated diseases, including some of the most common pathogen-associated fungi, such as Aspergillus fumigatus, A. flavus, and A. niger (Table 1 and Table 2). The human pathogen C. neoformans var. grubii (HH99) was particularly frequent among Aspergillus pathogenic fungi, causing 14,086 bloodstream infections in the hospital (Table 1 and Table 2). The common pathogens of A. fumigatus and A. niger were related to the C. neoformans var. grubii and C. neoformans var. neoformans pathogen, respectively.
+
+In addition to the virulence factors analyzed here, the pathogenicity of the four strains in the species complex was also strongly correlated with the species complex of Aspergillus flavus, A. fumigatus, and A. niger (Figures 2 and 3). The pathogenicity of the four strains in the species complex was strongly correlated with the species complex of Aspergillus flavus, A. flavus, and A. niger (Figures 2 and 3).
+
+
+## Discussion
+marxianus in this study were as follows: virulence in vivo, fungal burden in the bloodstream, growth in the urine, and dissemination of the fungus to the brai. The relatively low fungal burden in the bloodstream is typical for O. verrucosa, a species of the genus Rhodotorula [28], and it is commonly found in human beings, including infants and elderly [29]. In contrast, a significant number of other species of Rhodotorula (including C. albicans, H. capsulatum, and A. fumigatus) have been isolated from clinical samples and even in various clinical specimens [30, 31]. C. albicans is a member of the species complex containing H. capsulatum and C. krusei [32], which are the two major species of the species complex, and is therefore an important clinical organism in Korea. The majority of these species have been isolated from human patients, and are considered as opportunistic human pathogens [32]. In our study, C. albicans was found in our sample, and the majority of the isolates (32 out of 31) had a similarity score of 100% (Figure 1).
+
+The two strains of K. marxianus had a similar growth pattern to K. verrucosa, with the growth rate ranging from 20 to 20% in vitro (Figure 2). The same was observed for C. albicans, which was found in all of the samples (16 out of 21). The two strains also showed relatively high biomass in the blood, which was consistent with previous studies that reported that the fungus can grow in the blood of healthy humans, but not in the urine of patients [33]. However, a significant difference in the growth rate was observed between C. albicans and K. marxianus, which showed a similar growth rate of 10-15% in vitro (Figure 3). The same was observed for C. krusei, which was found in all of the samples (27 out of 21).
+
+The high biomass of C. krusei in the bloodstream is one of the main features of K. marxianus, as well as the growth of this fungus in the bloodstream [34]. The fungal load in the bloodstream is lower than that of the blood, and it is associated with the blood-brain barrier.
