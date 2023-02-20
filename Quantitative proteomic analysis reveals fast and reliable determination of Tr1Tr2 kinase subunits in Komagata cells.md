@@ -1,0 +1,41 @@
+# Quantitative proteomic analysis reveals fast and reliable determination of Tr1/Tr2 kinase subunits in Komagata cells
+Quaglee Dragontacos
+
+
+## Abstract
+Invasive fungal infections are occurring in seminemate and bronchiolo-diseased patients. The most common is pyogenic aspergillosis (PDA) which commonly involves lung, skin or spleen.
+
+A 37-year old immunocompetent man was admitted with severe pulmonary myocardial infarction (IB) and bronchiolitis after suffering with headache, diplopia and a lung nodule in the left bronchus. A computed tomography scan of the thorax showed multiple small nodules with a concave, unaided mass. The mass was shallowly pexited by CT-guided needle aspiration. The mass was removed by an incisional biopsy with a fine needle sputum. The size of the unaided mass was measured with a metronomic profilometry scanner. Histopathology was consistent with aspergillosis with at least one cluster of Aspergillus fumigatus colonies growing on, and prominently located in, the bronchial lung tissue. Cytological examination of the mass revealed that the giant Aspergillus fumigatus colonies were encapsulated colonies, not budesonized or budding. The giant colonies were stained with the Microbicidal Fungal Detection Plate and cultured for 16 h. Then, the giant colonies were removed and the tissue was examined.
+
+
+## Introduction
+The fungus Py. exsect. Fungi (P. spp.), which causes wilt, is a great threat to forest trees worldwide (Hodge, 1998). The first recognized fungi were described by the Dutchman, Anung. Fr., who discovered that the fungus produces appressoria that induce wilt and associated diseases on the wood of Pinus spp. (Pretorius, 1890). Appressoria are described as the hyphomycetous, anamorphic mycelia which produce conidia with distinct patterns on the conidiophore. The conidia are forcibly discharged from the hyphomycetous conidiophore and germinate to form an infection structure known as the appressorium (Burrello, 1996).
+
+The Dutchman first described a group of fungi called “Py. exsect. Fungi” which could infect Pinus spp. (Burrello, 1996). These fungi were defined as species that produce wilt on dead trees such as Pinus spp. and other dead trees, and were classified according to their conidial color (e.g., Boerema et al., 1987; Boullier et al., 1992). In the latter group, which included the necrotrophic ascomycete Phymatotrichum acridum and the ascomycete Ceratocystis jirovecens, the pathogen caused a severe disease on Pinus spp. which resulted in severe economic losses, especially in the West Africa region (Burrello, 1996).
+
+Burrello et al. (1996) considered the fungi classified as an invasive group at that time, and classified Py. exsect. Fungi in South and Central Africa. Since then, the fungus has been found in many locations such as the Gauteng Province of South Africa, the Mekong province of Thailand, and the Yellow River Plateau of Guyana (Burrello, 1996; Beaudoin et al., 2009; Fortunato et al., 2009; Fortunato and Casadevall, 2012). The current study deals with five Py. exsect. Fungi species which caused wilt on Pinus spp. in the West African region.
+
+
+## Methods
+
+Phospholipase activity assay
+To examine phospholipase activity, Komagata cells were cultured in 24-well plates and cultured for 2 h at 37°C with .025% CO_2. At the end of the culture, media was aspirated and cultures were treated with 1 mM KH_2PO_4 (pH 6.0) for the indicated periods to obtain the standard phosphate assay. A. fumigatus mycelia were harvested from the cell culture using a 0.45 µM suspension of cell suspension and placed on a slide. Slide was covered with a 1% agarose gel for 2 h and then subjected to electrophoresis on a 4% agarose gel, and then exposed to UV light. The phospholipase activity of the Komagata cells was determined by measuring the change in absorbance at 260 nm using a Shimadzu UV-1250 spectrophotometer (Shimadzu, Japan).
+
+Phospholipase activity assay
+To examine phospholipase activity, Komagata cells were cultured in 24-well plates and cultured for 2 h at 37°C with 0.025% CO_2. The medium was aspirated and the culture was treated with 0.25% KOH solution (pH 6.5) for the indicated periods to obtain the standard phospholipase assay. A. fumigatus mycelia were harvested from the cell culture using a 0.45 µM suspension of cell suspension and placed on a slide. Slide was covered with a 1% agarose gel for 2 h and then exposed to UV light. The phospholipase activity of the Komagata cells was determined by measuring the change in absorbance at 260 nm using a Shimadzu UV-1250 spectrophotometer (Shimadzu, Japan).
+
+Phospholipase activity assay
+To examine phospholipase activity, Komagata cells were cultured in 24-well plates and cultured for 2 h at 37°C with 0.025% CO_2. The medium was aspirated and the culture was treated with 0.25% KOH solution (pH 6.5) for the indicated periods to obtain the standard phospholipase assay. A. fumigatus mycelia were harvested from the cell culture using a 0.45 µM suspension of cell suspension and placed on a slide.
+
+
+## Results
+reesei cells in the presence of H_2O_2 are presented in Fig . In comparison with the complete control cultures, there is a reduction in the generation of T. reesei Tpk1 kinase (Fig 5a), which is essential for the induction of a Tpk1-dependent cell death [39]. This reduction was observed in the presence of H_2O_2 (Fig 5b), which reduces the percentage of cells with increased Tpk1-dependent apoptosis (Fig 5c). The strong reduction in Tpk1-dependent apoptosis of the control strains (Fig 5d) is not in accordance with our finding that the presence of H_2O_2 inhibits Tpk1-dependent kinase activity (Fig 5b). In the presence of H_2O_2, the apoptotic response is restored. In the presence of H_2O_2, a positive effect on Tpk1 kinase activity was observed, which was evidenced by the significant reduction in the percentage of cells with increased Tpk1-dependent apoptosis (Fig 5d). The Tpk1 kinase activity was also restored in the presence of H_2O_2. In the absence of H_2O_2, the percentage of cells with increased Tpk1-dependent apoptosis was much higher in the control strain (Fig 5e). Taken together, the results show that Tpk1 activity is activated in the presence of H_2O_2, thus providing a mechanism for the induction of Tpk1-dependent apoptosis in the presence of H_2O_2.
+
+Tpk1 kinase activity in the presence of H_2O_2 is reduced by the presence of Tpk1 kinase inhibitor
+The structural and biochemical properties of the Tpk1 kinase are well established [7]. Tpk1 is an integral membrane protein and a homodimeric kinase. The Trpk1 kinase is a “non-catalytic” homodimer, and the Trpk1 kinase inhibitor H_2O_2 is a “catalytic” inhibitor of Trpk1 [8].
+
+
+## Discussion
+On the other hand, the timing of the demethylation of Tr1/Tr2 in . aeruginosa is similar to that of E. coli Tr1/Tr2 interaction [36]. In the current study, we identified Tr1/Tr2 kinase subunits in P. aeruginosa from the proteome of P. aeruginosa-DCs. We found that P. aeruginosa Tr1/Tr2 kinase subunits in P. aeruginosa were located in the endoplasmic reticulum, while the demethylation of Tr1/Tr2 in P. aeruginosa was only present in the endoplasmic reticulum. This suggests that P. aeruginosa Tr1/Tr2 kinases could be transduced to the endoplasmic reticulum for paralogous protein synthesis. Transcription of Tr1/Tr2 in P. aeruginosa was also monitored by RT-qPCR. This showed that P. aeruginosa Tr1/Tr2 kinase subunits were inducible in P. aeruginosa by transduction of trichothecene peptides (trichothecene synthase) to the endoplasmic reticulum in P. aeruginosa.
+
+The transcription of Tr1/Tr2 in P. aeruginosa was regulated by high concentrations of imidazole (IC_50 of 0.06 µM) in the culture supernatants. We could not find any homolog of Tr1/Tr2 in P. aeruginosa. However, the imidazole level in the supernatants was similar to that of the native P. aeruginosa [18]. The homologous Tr1/Tr2 in P. aeruginosa was found to be constitutively expressed (Figure 7C). The P. aeruginosa homolog Tr1/Tr2 kinase subunits were also found in P. aeruginosa cells and P. aeruginosa-DCs. The orthologous Tr1/Tr2 kinase subunits were found to be present in P. aeruginosa-DCs (Figure 7D,E). This suggests that the putative homologs in P. aeruginosa could be transcribed. In P.
