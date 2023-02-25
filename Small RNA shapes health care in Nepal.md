@@ -1,0 +1,39 @@
+# Small RNA shapes health care in Nepal
+Quaglee Dragontacos
+
+
+## Abstract
+Pathogenic and non-pathogenic bacteria can cause different diseases in plants, animals, and humans, depending on the species and their culture. The strategies used by pathogenic bacteria to infect plants are also similar to those of human pathogens. The main difference is that pathogenic bacteria use different mechanisms of infection, i.e., by growing in a medium in bacteria, they can obtain nutrients and escape from plants. However, the main aim of this research was to find out the mechanisms underlying the different pathogenic phases of plant disease. The present paper describes the analysis of a polyphasic approach for the identification of two major molecular mechanisms involved in pathogenic phases of plant disease: (1) transcriptional regulation by the transcription factor MsbA and (2) transcriptional responses of pathogenic bacteria to host defense mechanisms, i.e.
+
+
+## Introduction
+The World Health Organization (WHO) currently lists 13 recognized opportunistic fungal infections (OIs) (1). The main groups to which these infections are most commonly associated are aspergillosis, candidiasis, mucormycosis, histoplasmosis, and mucormycosis (2, 3). The majority of these infections are caused by Candida species, and other species are rarely or not causally related to Candida species (4). The most common Candida species isolated from patients with fungal diseases are C. albicans, C. glabrata, and C. parapsilosis. C. glabrata is the most common Candida species isolated from patients with systemic candidiasis (5, 6). The most common C. albicans species isolated from patients with systemic candidiasis include C. glabrata, C. tropicalis, and C. krusei (7, 8).
+
+The C. glabrata species complex is composed of three phylogenetic groups (8). The C.
+
+
+## Methods
+These samples were taken from the same part of the country in which the samples of the two villages were located, and the samples of the two villages in the same location in the same regio. These two samples were taken from the same region in the same location in the same province and also from the same locality in the same place in the same province.
+
+The DNAs were extracted and purified using the Qiagen RNeasy Plant Mini Kit (Qiagen, Hilden, Germany) according to the manufacturer’s instructions. The DNAs were dried in a hot air oven at 80 °C for 10 min and then desiccated in a mild ice-bath for 10 min. The dried DNAs were suspended in 30% ethanol, then treated with RNase-free DNase I (Qiagen, Hilden, Germany) for 15 min, and the RNAs were subjected to reverse-transcription using the Quant-iT™ Reverse Transcription Kit (Qiagen, Hilden, Germany). The concentration of RNAs was calculated by the amount of each RNase-free DNase-treated strand per 10 µg of total RNA using the Qubit 2.0 dsDNA BR assay kit (Invitrogen, Carlsbad, CA, USA). The quantity of RNA was estimated by the RN-TOF-TOF method [41].
+
+Molecular analysis of total RNA
+The extracted RNA was isolated and purified using the Qiagen RNeasy Plant Mini kit (Qiagen, Hilden, Germany) according to the manufacturer’s instructions. The RNA samples were then treated with RNase-free DNase I (Qiagen, Hilden, Germany) for 15 min, and then treated with RNase-free DNase I (Qiagen, Hilden, Germany) for 10 min. The RNA samples were then treated with RNase-free DNase I (Qiagen, Hilden, Germany) for 30 min, and then treated with RNase-free DNase I (Qiagen, Hilden, Germany) for 30 min.
+
+
+## Results
+In 2015, the incidence of HIV infection was approximately twice that of the population in 201. In 2015, HIV infection was estimated to cause more than 50% mortality in rural areas of Nepal, with a median of 4.6 deaths per 100,000 population [19]. The incidence of HIV infection in rural areas of Nepal was estimated to cause 4.3 deaths per 100,000 population [19]. In 2015, the number of HIV-positive deaths in Nepal was estimated to cause 8.2 deaths per 100,000 population [19].
+
+Among HIV-positive HIV-positive persons, a total of 62.6% died during the first year of observation, with a median of 21.5 deaths per 100,000 population. The median number of HIV-positive deaths in 2015 was 1.8 deaths per 100,000 population. The incidence of HIV infection was estimated to cause 13.7 deaths per 100,000 population [19].
+
+HIV infection was also reported in the past to cause 2.3 deaths per 100,000 population [20]. In 2015, the incidence of HIV infection was estimated to cause 1.3 deaths per 100,000 population [20]. In 2016, the number of HIV-positive deaths in Nepal was estimated to cause 9.5 deaths per 100,000 population [20]. The incidence of HIV infection was estimated to cause 7.5 deaths per 100,000 population [20].
+
+Thirteen HIV-positive patients were admitted to the intensive care unit, including six HIV-positive patients who died during the first year of observation and 3 HIV-positive patients who died during the second year of observation. The average age of HIV-positive patients was 36 years [21].
+
+Cases of HIV infection in Nepal are associated with a lower median CD4 count and a higher number of CD4 cells in the lungs [22]. The CD4 count and the number of CD4 cells in the lungs of HIV-positive patients were not significantly different between groups (P > 0.5). HIV infection in rural areas of Nepal was estimated to cause 6.9 deaths per 100,000 population [22]. The incidence of HIV infection in rural areas of Nepal was estimated to cause 2.9 deaths per 100,000 population [22].
+
+
+## Discussion
+These results were in line with those of others, who showed that HIV-negative patients have significantly higher fungal burdens in their blood plasma and CSF than HIV-positive patients [9. Although we could not identify any statistically significant difference in fungal burden between HIV-positive and HIV-negative patients, the differences in fungal burden between HIV-positive and HIV-negative patients were consistent with those of others. The different fungal burden levels in HIV-positive and HIV-negative patients could be due to their different immune status, the use of corticosteroids, and the use of antiretroviral therapy. The differences in fungal burden between HIV-positive and HIV-negative patients could be explained by the different immune status of the patients. Although HIV-positive patients were more sensitive to phagocytosis by the neutrophils, they were more susceptible to phagocytosis by the supernatant of the neutrophils [17]. The differences in fungal burden between HIV-positive and HIV-negative patients could be explained by the different immune status of the patients. We speculate that the HIV-negative patients have higher risk factors for fungal infections in their body, and their immune status could be more favorable to the immune system. The HIV-positive patients were more likely to be on antiretroviral therapy than the HIV-negative patients. This result could be explained by the decreased prevalence of tuberculosis in HIV-positive patients.
+
+The study population also showed that HIV-negative patients had significantly higher fungal burdens in their CSF than HIV-positive patients. We could not identify any significant differences in fungal burdens between HIV-positive and HIV-negative patients. Although there were some differences in fungal burdens between HIV-positive and HIV-negative patients, we could not identify any significant differences in fungal burdens between HIV-positive and HIV-negative patients. The differences in fungal burdens between HIV-positive and HIV-negative patients could be due to the different immune status of the patients. The study population also showed that HIV-negative patients had significantly higher fungal burdens in their CSF than HIV-positive patients. This result could be explained by the difference in fungal burdens between HIV-positive and HIV-negative patients.
