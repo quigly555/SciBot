@@ -1,0 +1,39 @@
+# Antifungal Activity of Compounds from the Aerial Environment of Xianxiaiguan
+Quaglee Dragontacos
+
+
+## Abstract
+The white rot fungus, Acanthamoeba castellanii, is a member of the orders Chaetothyriales and Eurotiomycetes. In order to explore the virulence traits of the fungus, the authors cultured and analyzed the excreted sporophytes of the acanthamoeba castellanii. The obtained results revealed that the cells were more susceptible to killing by the fungi, and that the average interval between inoculation and killing was 7,6 ± 2.5 h. The cells were also more sensitive to oxidative stress, to hydrogen peroxide and to hydrogen peroxide, and of its susceptibility to azole and echinocandin treatment. The cells were also more susceptible to the antifungal drugs, such as itraconazole and voriconazole. These results suggest that the acanthamoeba strain has developed a resistance mechanism to antifungal agents, which might contribute to the pathogenesis of chytridiomycosis.
+
+
+## Introduction
+circinelloides and . circinelloides var. sp. mongolica
+The two species are morphologically indistinguishable from each other and are reported from tropical and subtropical countries. The two species appear to be grown on tropical and subtropical soil and plants. Some of the species are grown on water, such as in the bay of the island of Ternate, in the gasteroid zone of the eastern coast of the island. The bay is rich in organic matter, including root and leaves, and the gasteroid zone is mostly dominated by angiosperms. The species appear to be killed by the leaf parts during the first three days after harvest, before the occurrence of symptoms on the leaf surface, however, the total number of dead and alive cells on the leaf is small.
+The differences between the species are striking, particularly the similarity of their cell wall, which is associated with their macroscopic appearance. The colonies are pale green, with thickened, roughened, and felted cell walls. There are some similarities, particularly in the production of conidia and melanin. However, the similarities in the cell wall between the two species are striking, especially the similarity of their cell wall.
+The observation that the colony on PDA is absent on L. sec’s tea is difficult because of the absence of light. The colony is dark green, with 10% of cells present by the time of 4 hours. The colony on PDA has a reddish-green appearance. The colony on L. sec’s tea is white, with 10% cells present by the time of 4 hours. The colony on PDA has a very pale appearance. In the cell wall, the presence of melanin is absent. The colony on PDA has a very pale appearance. The colony on tea is white, with 10% of cells present by the time of 4 hours. These two species appear to be grown on soil with a lot of dead and living cells, which is common practice in tropical tropical and subtropical countries. In the colony on tea, the colony is dark green, with 10% of cells present by the time of 4 hours. The colony on PDA has a very pale appearance. The colony on tea is dark green, with 10% of cells present by the time of 4 hours.
+
+
+## Methods
+The aerial soil, except for the white silt, consists of green chernoy soi. The aerial silt and the silt-silt accumulation were measured in 2013, 2014, and 2015. The soil and soil-silt accumulation was calculated as described [12]. The chemical constituents of the aerial silt were as follows: the water, 0.0017% (w/w); the acetic acid, 0.0017% (w/w); the pericarbonate, 0.0017% (w/w); the tannic acid, 0.0017% (w/w); and the lignin, 0.0017% (w/w).
+
+The soil and soil-silt accumulation of the A. cinnamensis was calculated as the mean of soil and soil-silt accumulation of A. cinnamensis. The amount of A. cinnamensis was calculated as the sum of the soil and soil-silt accumulation. The calculated A. cinnamensis concentrations in the aerial silt and the soil-silt accumulation were as follows:
+
+2.5. Molecular Characterization of Compounds from the Aerial Environment of Xianxiaiguan
+A. cinnamensis conidia were obtained from the aerial silt of Xianxiaiguan. The conidia were prepared by growing on potato dextrose agar (PDA) slants in a rotary shaker at 28°C. The culture was cultivated for 12 h in dark condition. The conidia were harvested from the slants and washed with sterile water. The samples were centrifuged at maximum speed for 15 min. The conidia were suspended in sterile water. The number of conidia was determined by counting on a haemocytometer.
+
+2.5. Molecular Characterization of Compounds from the Aerial Environment of Xianxiaiguan
+The inhibition of A. cinnamensis conidia growth on the aerial silt was performed by growing A. cinnamensis conidia on the surface of the aerial silt slant. The inhibition was performed by growing A. cinnamensis conidia in the water as described in previous studies [12].
+
+
+## Results
+The antifungal activity of Compounds from the Aerial environment of Xianxiaiguanensis was shown to be lower than those from the soil and the rai. In addition, Compounds from the aerial environment of Xianxiaiguanensis exhibited fungicidal activity against all Candida strains tested. These results indicated that Compounds from the Aerial environment of Xianxiaiguanensis and the soil environment of Xianxiaiguanensis could have fungicidal activities against C. neoformans, C. glabrata, C. parapsilosis, C. neoformans, C. guilliermondii, and Cryptococcus neoformans.
+
+2.3. Effect of Compounds on the Expression of the Protease-3 Beta-1 (CSF:GFP) Protease-3 Beta-1 (CSF:GFP) Gene in the Xianxiaiguanensis Aerial environment
+The expression of the CSF:GFP gene in the Xianxiaiguanensis aerial environment was evaluated using RT-PCR assay (Fig 2). The expression of the CSF:GFP gene was significantly higher in the aerial environment of Xianxiaiguanensis (1.49 ± 0.03 vs. 0.85 ± 0.03; p < 0.01) and soil (1.15 ± 0.22 vs. 0.13 ± 0.10; p < 0.05) than in the soil environment of Xianxiaiguanensis (1.56 ± 0.44 vs. 0.47 ± 0.41; p < 0.01). The expression of the CSF:GFP gene was significantly higher in the soil environment of Xianxiaiguanensis (1.17 ± 0.02 vs. 1.25 ± 0.07; p < 0.05) than in the soil environment of Xianxiaiguanensis (1.10 ± 0.07 vs. 0.55 ± 0.47; p < 0.05).
+
+
+## Discussion
+The most notable example is the compound 1,4-O-cis-feruloyl-ß-lactone, which has been reported from the aerial environment of Xianxiaiguan (Xianxia) Liu and Jing Liu (Jiangsu, Taiwan), with MIC values ranging from .05 to 0.06 µg/mL. This compound was also isolated from plants grown in the aerial environment of Xianxia (Xianxia) Liu (Xianxia) Liu and Jing Liu (Jiangsu, Taiwan). Other examples of compounds isolated from the aerial environment of Xianxia are the compound 1,4-O-cis-feruloyl-ß-lactone, which was isolated from Xianxia (Xianxia) Liu (Xianxia) Liu and Jing Liu (Jiangsu, Taiwan), and the compound 2,4-O-cis-feruloyl-ß-lactone, which was isolated from Xianxia (Xianxia) Liu and Jing Liu (Jiangsu, Taiwan). The compounds isolated from the aerial environment of Xianxia also exhibited activity against the Candida spp., Aspergillus fumigates, and Cryptococcus neoformans.
+
+The activity of Compounds in the Aerosolgyzed Airway of Xianxia
+The activity of Compounds isolated from the aerial environment of Xianxia showed the highest activity in comparison with other airborne fungi. Among the compounds isolated from the aerial environment of Xianxia, a compound 2,4-O-cis-feruloyl-ß-lactone was the most active. Compounds 2,4-O-cis-feruloyl-ß-lactone and 2,4-O-cis-feruloyl-ß-lactone demonstrated the highest activity in comparison with the rest of the compounds. The results showed that Compound 2,4-O-cis-feruloyl-ß-lactone was the most active compound in comparison with the rest of the compounds. Compound 2,4-O-cis-feruloyl-ß-lactone was the most active compound in comparison with the rest of the compounds.
