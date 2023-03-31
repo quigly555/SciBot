@@ -1,0 +1,43 @@
+#  Laboratory-Based Induced Simple Disseminated Cryptococcosis in a Patient from a Setting Where Cryptococcosis is Common
+Quaglee Dragontacos
+
+
+## Abstract
+The pan-parasitic fungal pathogen, Cryptococcus gattii, causes life-threatening diseases in immunocompromised individuals and animals. In mammalian hosts, the primary cryptococcosis infection usually occurs in the form of lung nodules. The mycobiota is considered a key virulence factor in the animal host, and studies of the cryptococcosis mycobiota in the murine model of pulmonary aspergillosis have generally been performed in the mammalian host. However, in the fungus-host interaction, it has rarely been described in the mycobiota examined in the lungs of mice. In this study, we used comparative proteomic analyses to investigate the structure of the mycobiota of C. gattii compared with the mycobiota of the two mammalian hosts, BALB/c mice, to generate a list of proteins that were related to pulmonary aspergillosis. Additionally, we compared the protein structure of the mycobiota of the two host systems using comparative proteomic analysis. The results showed that the mycobiota of BALB/c mice from both mammalian and host systems was significantly different from that of BALB/c mice from the arthropod-host system, and that the mycobiota of C. gattii from the mycobiota of the two hosts was significantly different from that of C. neoformans and C. gattii from the arthropod-host system. A significant number of proteins were also closely related to infection in the lungs of the mycobiota. This was followed by showing that a large proportion of the related proteins are significantly up-regulated in the mycobiota of C. gattii compared with C. neoformans and C. gattii from the lung-sitting Schistosoma mansoni. Interestingly, the numbers of differentially expressed proteins (DEGs) were found to be related to the disease progression in BALB/c mice, with a number of DEGs up-regulated in the mycobiota of BALB/c mice from both mammalian and host systems.
+
+
+## Introduction
+Efficient and rapid detection of the presence of microorganisms is critical to the public health approach used by the microbiological laboratories in their routine microbiology laboratory work. Microbial detection is commonly performed in laboratory automation and involves the detection of the presence of a microorganism by means of culture or with the use of immunoassays such as antimicrobial peptides (AMPs) [1,2]. AMPs are small, non-specific, membrane-bound proteins that bind to the surfaces of bacteria and fungi. Upon binding, the peptide binds to the fungal cell surface and the peptide is then transported to the cell surface where it interacts with a specific subset of proteins present in the cell [3]. AMPs are not specific for their targets and are capable of interacting with diverse proteins present in the cell [4]. The importance of AMPs in microbiological research has increased recently, especially in the field of immunology where they are increasingly used to study the pathogenesis of a wide range of infectious and noninfectious diseases [5]. AMPs are aminopeptides and have a high affinity for bacterial surface and they are widely recognized as being immunogenic [6]. They are also recognized as being able to inhibit fungal growth, and/or to cause cell death [7].
+
+
+## Methods
+Patients
+This study was performed between March 2011 and June 2012. The study was performed in accordance with the guidelines set out by the Research Ethics Committees of the Faculty of Veterinary Medicine of the University of Alberta (No. 14-05-2012). The retrospective study was performed in accordance with the recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institutes of Health (No. 238-04). The dogs were originally from the animal facility of the Faculty of Veterinary Medicine at West University of Alberta and were not a part of the present study.
+
+Primary outcome and outcome endpoint
+The primary outcome was the ability of the dogs to perform their daily routine in the presence of a suspected cryptococcosis. This was done using a validated mouse microdilution technique (MDS) [13] (the Clinical and Laboratory Standards Institute [CLSI], [14]) which is a method for the detection of microorganism contamination in blood or skin by conventional microbiological methods such as India ink staining [15,16], and by conventional animal culture methods [17].
+
+Secondary endpoints were the degree of detachment of the clinical signs from the animal and the length of the hospital stay.
+
+Examination
+The dogs were evaluated on a scale from 0 to 6.
+
+
+## Results
+neoformans strains were isolated (Table 1. The C. neoformans strains were obtained from clinical samples (n = 13) and the culture was prepared from the clinical sample and the cDNA was sequenced.
+
+The ITS region of the cDNA from the isolate CBS 277.34 was amplified with primers G9 and G11, and the cDNA was sequenced with primers G18 and G21. In the original cDNA, only one nucleotide sequence was amplified with primers G9 and G11 (Table 1). After the sequencing of the cDNA, the correct single nucleotide sequence of the cDNA was obtained for the isolate CBS 277.34. The cDNA generated by PCR with primers G18 and G21 was used in the forward and reverse primer pairs. The primer pairs were designed to amplify different DNA fragments, which were inserted into the cDNA using the adapters described in the Material and Methods section. The forward primer and reverse primer pairs amplified different DNA fragments at the same position (Table 1). PCR amplification was performed using primers G9 and G11. The reverse primer pair used the adapter with primers G18 and G21. The primers G9 and G11 were designed to amplify the correct single nucleotide sequence of the cDNA. The forward primer and reverse primer pairs amplified different DNA fragments at the same position (Table 1).
+
+The strains CBS 277.34 and C. neoformans strains were isolated from patients from a setting where Cryptococcosis is common, where a covalent fungicide was used in the treatment, and from a setting where Cryptococcosis was common. The strains were isolated from the clinical sample and the culture was prepared from the clinical sample and the cDNA was sequenced. The DNA fragment of the isolate CBS 277.34 was the same as that of the isolate C. neoformans strain. The PCR amplification with primers G9 and G11 was used in the forward and reverse primer pairs. The primer pairs were designed to amplify different DNA fragments, which were inserted into the cDNA using the adapters described in the Material and Methods section. The primer pairs were designed to amplify different DNA fragments at the same position (Table 1).
+
+
+## Discussion
+A recent systematic review by Demers et a. has found that approximately 3% of patients with cryptococcosis experience at least two of these symptoms [16]. In this study, only 17 patients (14%) had a cryptococcosis diagnosis at the time of diagnosis. The majority (98%) had a diagnosis at the time of diagnosis.
+
+The most common presentation for patients with Cryptococcosis is nausea (60.2%), vomiting (15.1%), and neck stiffness (15.0%), all of which are well-described in the literature [13-15]. In addition, atypical presentations are also common in this population (0.9%) [16]. A recent review by Demers et al. found that 24 cases of Cryptococcosis in patients with AIDS and immunodeficiency, with HIV-1 infection being the most common [17]. In the present study, only 12 patients (7%) had a diagnosis of Cryptococcosis, which is also well-described in the literature [18]. In addition, the most common clinical manifestations of Cryptococcosis were headache (57.1%), nausea (45.4%), vomiting (13.7%), and neck stiffness (13.6%) [16].
+
+A recent systematic review by Demers et al. found that the median duration of symptoms was almost 2 weeks, while the median duration of symptoms was 3 weeks [19]. A longer duration of symptoms was also observed in the present study (median of 1 month, P = 0.004). The duration of symptoms was significantly longer in patients with cryptococcosis who were immunodeficient, such as in the present study (median of 1 month, P = 0.05).
+
+In a recent study by Demers et al. (2011), the incidence of cryptococcal meningitis was 1.3% in HIV-1 infected patients, with a mortality rate of 60% [20]. In this study, only patients with HIV infection had a mortality rate of 44% and had a median of 2 weeks, which is in line with the reported in HIV patients in this study.
+
+The incidence of cryptococcosis in HIV patients was reported to be 0.7% in 2000-2004, with a mortality rate of 42% [21].
